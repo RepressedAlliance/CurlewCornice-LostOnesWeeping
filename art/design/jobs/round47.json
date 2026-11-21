@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/rcu_hand_an2_full.txt",
+  "out": "art/design/out/rcu_hand_an2.png",
+  "ref": [
+   "art/design/out/rcu_hand_a.png"
+  ]
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "prompt": "art/design/prompts/gate_rin_full.txt",
+  "out": "art/design/out/gate_rin.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_walkers_a_full.txt",
+  "out": "art/design/out/gate_walkers_a.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/design/out/students.png",
+   "art/ref/card_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_walkers_b_full.txt",
+  "out": "art/design/out/gate_walkers_b.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/design/out/students.png",
+   "art/ref/card_filled.png"
+  ]
+ }
+]

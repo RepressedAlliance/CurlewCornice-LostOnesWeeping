@@ -1,0 +1,48 @@
+[
+ {
+  "prompt": "art/design/prompts/R14f_throw2_full.txt",
+  "out": "art/design/out/R14f_throw2.png",
+  "ref": [
+   "art/design/../design/board/seg14/R14f_down_wide.png",
+   "art/design/../cut/R14f_yank.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_throw2b_full.txt",
+  "out": "art/design/out/R14f_throw2b.png",
+  "ref": [
+   "art/design/../design/board/seg14/R14f_down_wide.png",
+   "art/design/../cut/R14f_yank.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_askL3_full.txt",
+  "out": "art/design/out/R14f_askL3.png",
+  "ref": [
+   "art/design/../design/out/R14f_down2.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t14_p1cu_full.txt",
+  "out": "art/design/out/t14_p1cu.png",
+  "ref": [
+   "art/design/../design/board/seg14/t14_p1cu_up.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png",
+   "art/design/../cut/t15_p1h2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t14_p3cu_full.txt",
+  "out": "art/design/out/t14_p3cu.png",
+  "ref": [
+   "art/design/../design/board/seg14/t14_p3cu_up.png",
+   "art/design/../canon/town/p03_takahashi_masao_elder_cane.png"
+  ]
+ }
+]

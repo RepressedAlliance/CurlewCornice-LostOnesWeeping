@@ -1,0 +1,55 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_mb2_full.txt",
+  "out": "art/design/out/rface_mb2.png",
+  "ref": [
+   "art/design/out/rface_mb.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_in2_full.txt",
+  "out": "art/design/out/rface_in2.png",
+  "ref": [
+   "art/design/out/rface_in.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_scr2_full.txt",
+  "out": "art/design/out/rface_scr2.png",
+  "ref": [
+   "art/design/out/rface_scr.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_cl2_full.txt",
+  "out": "art/design/out/rface_cl2.png",
+  "ref": [
+   "art/design/out/rface_cl.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_up2_full.txt",
+  "out": "art/design/out/rface_up2.png",
+  "ref": [
+   "art/design/out/rface_up.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_hand3_dn_full.txt",
+  "out": "art/design/out/rcu_hand3_dn.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_hand3_dnb_full.txt",
+  "out": "art/design/out/rcu_hand3_dnb.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

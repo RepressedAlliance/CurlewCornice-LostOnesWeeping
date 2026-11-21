@@ -1,0 +1,2 @@
+One illustration, same canvas as the attached image.
+Redraw the attached image exactly: the same figure, pose, face, hair, clothes, guitar, cable, card, the same framing, size and position in the canvas, the same line work, colours and shading. Change only the background: make it fully TRANSPARENT (a PNG with an alpha channel), with no white or coloured background and no ground shadow. Every part of the figure stays fully opaque, including its white parts (eye whites, teeth, shirt, bow, the name card); every gap between arms, legs, body and guitar is transparent.

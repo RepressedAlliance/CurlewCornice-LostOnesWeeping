@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_hand_g_full.txt",
+  "out": "art/design/out/sp_hand_g.png",
+  "ref": [
+   "art/design/out/sp_hand_e.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_h_full.txt",
+  "out": "art/design/out/sp_hand_h.png",
+  "ref": [
+   "art/design/out/sp_hand_e.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_i_full.txt",
+  "out": "art/design/out/sp_hand_i.png",
+  "ref": [
+   "art/design/out/sp_hand_f.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_j_full.txt",
+  "out": "art/design/out/sp_hand_j.png",
+  "ref": [
+   "art/design/out/sp_hand_f.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

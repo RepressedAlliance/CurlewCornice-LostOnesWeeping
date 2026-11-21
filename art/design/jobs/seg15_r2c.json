@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_play_d2b_full.txt",
+  "out": "art/design/out/R15_play_d2b.png",
+  "ref": [
+   "art/design/out/R15_play_d1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ }
+]

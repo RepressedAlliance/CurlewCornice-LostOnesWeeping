@@ -1,0 +1,52 @@
+[
+ {
+  "prompt": "art/design/prompts/hand_eraser2_full.txt",
+  "out": "art/design/out/hand_eraser2.png",
+  "ref": [
+   "art/design/out/rin_A.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_rin2_full.txt",
+  "out": "art/design/out/gate_rin2.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_rin_34_full.txt",
+  "out": "art/design/out/gate_rin_34.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_walkers_34_full.txt",
+  "out": "art/design/out/gate_walkers_34.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/design/out/students.png",
+   "art/ref/card_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/roof_low_full.txt",
+  "out": "art/design/out/roof_low.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/roof_low_b_full.txt",
+  "out": "art/design/out/roof_low_b.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png"
+  ]
+ }
+]

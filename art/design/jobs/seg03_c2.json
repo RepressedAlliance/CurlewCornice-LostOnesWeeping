@@ -1,0 +1,29 @@
+[
+ {
+  "prompt": "art/design/prompts/r03_down3_full.txt",
+  "out": "art/design/out/r03_down3.png",
+  "ref": [
+   "art/design/out/r03_down.png",
+   "art/design/out/r03_down2_brows.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_peer3_full.txt",
+  "out": "art/design/out/r03_peer3.png",
+  "ref": [
+   "art/design/out/r03_peer.png",
+   "art/design/out/r03_down2_brows.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_drop3_full.txt",
+  "out": "art/design/out/r03_drop3.png",
+  "ref": [
+   "art/design/out/r03_drop.png",
+   "art/design/out/r03_down2_brows.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

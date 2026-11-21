@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/p10f_rowLb_full.txt",
+  "out": "art/design/out/p10f_rowLb.png",
+  "ref": [
+   "art/design/out/p10f_rowL.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10f_rowRb_full.txt",
+  "out": "art/design/out/p10f_rowRb.png",
+  "ref": [
+   "art/design/out/p10f_rowR.png"
+  ]
+ }
+]

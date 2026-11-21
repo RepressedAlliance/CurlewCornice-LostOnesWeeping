@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/rfl_grab2_full.txt",
+  "out": "art/design/out/rfl_grab2.png",
+  "ref": [
+   "art/design/out/rfl_grab.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_after_full.txt",
+  "out": "art/design/out/rfl_after.png",
+  "ref": [
+   "art/design/out/rin_fling_v3.png",
+   "art/design/board/rin_A2.png"
+  ]
+ }
+]

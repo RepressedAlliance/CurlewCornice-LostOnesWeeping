@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/r00_cover_a_full.txt",
+  "out": "art/design/out/r00_cover_a.png",
+  "ref": [
+   "art/design/out/r00_hold_c.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_cover_b_full.txt",
+  "out": "art/design/out/r00_cover_b.png",
+  "ref": [
+   "art/design/out/r00_hold_c.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

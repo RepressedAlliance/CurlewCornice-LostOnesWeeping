@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/r01_follow_full.txt",
+  "out": "art/design/out/r01_follow.png",
+  "ref": [
+   "art/design/out/r01_side.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

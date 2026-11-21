@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/h03_hold2_full.txt",
+  "out": "art/design/out/h03_hold2.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/card_front_hers_blank.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_pen2_full.txt",
+  "out": "art/design/out/h03_pen2.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_hand_pencil.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/hpen_up_full.txt",
+  "out": "art/design/out/hpen_up.png",
+  "ref": [
+   "art/design/out/hpen_m.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hpen_hov_full.txt",
+  "out": "art/design/out/hpen_hov.png",
+  "ref": [
+   "art/design/out/hpen_m.png"
+  ]
+ }
+]

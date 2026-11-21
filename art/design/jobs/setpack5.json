@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_essay_e_full.txt",
+  "out": "art/design/out/sp_essay_e.png"
+ },
+ {
+  "prompt": "art/design/prompts/sp_essay_f_full.txt",
+  "out": "art/design/out/sp_essay_f.png"
+ }
+]

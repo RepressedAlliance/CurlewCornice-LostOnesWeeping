@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/r08b_snapc2_full.txt",
+  "out": "art/design/out/r08b_snapc2.png",
+  "ref": [
+   "art/design/out/r08b_grip2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r08b_snapc2b_full.txt",
+  "out": "art/design/out/r08b_snapc2b.png",
+  "ref": [
+   "art/design/out/r08b_grip2.png"
+  ]
+ }
+]

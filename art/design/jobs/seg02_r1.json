@@ -1,0 +1,72 @@
+[
+ {
+  "prompt": "art/design/prompts/s02b_p3_full.txt",
+  "out": "art/design/out/s02b_p3.png",
+  "ref": [
+   "art/cut/t01_p3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p3x_full.txt",
+  "out": "art/design/out/s02b_p3x.png",
+  "ref": [
+   "art/cut/t01_p3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p6_full.txt",
+  "out": "art/design/out/s02b_p6.png",
+  "ref": [
+   "art/cut/t01_p6.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p6x_full.txt",
+  "out": "art/design/out/s02b_p6x.png",
+  "ref": [
+   "art/cut/t01_p6.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p7_full.txt",
+  "out": "art/design/out/s02b_p7.png",
+  "ref": [
+   "art/cut/t01_p7.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p7x_full.txt",
+  "out": "art/design/out/s02b_p7x.png",
+  "ref": [
+   "art/cut/t01_p7.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p8_full.txt",
+  "out": "art/design/out/s02b_p8.png",
+  "ref": [
+   "art/cut/t01_p8.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p8x_full.txt",
+  "out": "art/design/out/s02b_p8x.png",
+  "ref": [
+   "art/cut/t01_p8.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p2_full.txt",
+  "out": "art/design/out/s02b_p2.png",
+  "ref": [
+   "art/cut/t01_p2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s02b_p2x_full.txt",
+  "out": "art/design/out/s02b_p2x.png",
+  "ref": [
+   "art/cut/t01_p2.png"
+  ]
+ }
+]

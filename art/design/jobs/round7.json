@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_expr2_full.txt",
+  "out": "art/design/out/rin_expr2.png",
+  "ref": [
+   "art/design/out/rin_A.png"
+  ]
+ }
+]

@@ -1,0 +1,7 @@
+Redraw the first attached picture exactly: the same person, the same pose, clothes, hair, card, props, the same size and position on the same canvas, the same drawing hand (one teal ink on paper-white areas, clean line art, regular round screentone dots), the same fully TRANSPARENT background (PNG alpha). Change ONLY what follows; her coat keeps its light dot tone; everything else stays line for line. 
+Change only these two things, clearly:
+(1) The mother's FACE, a different face from the other young women of the town (who all have large round eyes): a narrow oval face with a defined jaw, SMALL calm narrow eyes with single eyelids, low straight eyebrows, a slightly longer nose stroke, thin lips in a tired gentle smile, a few short strands loose at her temples; she reads as 34, a little worn.
+(2) The child Sota is a 3-YEAR-OLD toddler, clearly younger and SMALLER than now: about 95 cm tall, a big round head about a quarter of his whole height, round baby cheeks, a tiny button nose, short soft hair, short chubby arms and legs with dimpled small hands, tiny shoes; he sits lower on her hip, his face below her chin level; the same hooded jacket and the same small card on a short lanyard.
+Fully TRANSPARENT background (PNG alpha) everywhere outside the subject: no floor, no ground line, no cast shadow, no frame, no paper colour behind it. Every part of the subject is fully opaque, including its white and paper-white parts.
+No captions, no labels, no title, no logos, no watermark.
+Absolutely no red, pink or orange anywhere.

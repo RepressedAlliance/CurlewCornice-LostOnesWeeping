@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/R16_smile_b_full.txt",
+  "out": "art/design/out/R16_smile_b.png",
+  "ref": [
+   "art/cut/R16_final.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_smile_c_full.txt",
+  "out": "art/design/out/R16_smile_c.png",
+  "ref": [
+   "art/cut/R16_final.png"
+  ]
+ }
+]

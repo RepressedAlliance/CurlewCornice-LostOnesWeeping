@@ -1,0 +1,68 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_play_d1_full.txt",
+  "out": "art/design/out/R15_play_d1.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/rmid_bang2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_n3_full.txt",
+  "out": "art/design/out/t15_n3.png",
+  "ref": [
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_n5_full.txt",
+  "out": "art/design/out/t15_n5.png",
+  "ref": [
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_n6_full.txt",
+  "out": "art/design/out/t15_n6.png",
+  "ref": [
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p8_full.txt",
+  "out": "art/design/out/t15_p8.png",
+  "ref": [
+   "art/design/../cut/t01_p8.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p2_full.txt",
+  "out": "art/design/out/t15_p2.png",
+  "ref": [
+   "art/design/../cut/t01_p2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p9_turn_full.txt",
+  "out": "art/design/out/t15_p9_turn.png",
+  "ref": [
+   "art/design/../cut/t01_p9.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p1_turn_full.txt",
+  "out": "art/design/out/t15_p1_turn.png",
+  "ref": [
+   "art/design/../cut/t01_p1c.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p7_turn_full.txt",
+  "out": "art/design/out/t15_p7_turn.png",
+  "ref": [
+   "art/design/../cut/t01_p7.png"
+  ]
+ }
+]

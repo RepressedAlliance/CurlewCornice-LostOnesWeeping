@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/s05_ots_full.txt",
+  "out": "art/design/out/s05_ots.png",
+  "ref": [
+   "art/design/out/s05_back_full.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

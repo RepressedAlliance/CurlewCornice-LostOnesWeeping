@@ -1,0 +1,25 @@
+[
+ {
+  "prompt": "art/design/prompts/r13h_face_full.txt",
+  "out": "art/design/out/r13h_face.png",
+  "ref": [
+   "art/design/out/r13f_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p13h_essay_full.txt",
+  "out": "art/design/out/p13h_essay.png",
+  "ref": [
+   "art/design/board/guide_p13h_essay.png",
+   "art/design/../canon/essay_shourai_no_yume.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h13h_slap_full.txt",
+  "out": "art/design/out/h13h_slap.png",
+  "ref": [
+   "art/design/out/h13g_slap.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

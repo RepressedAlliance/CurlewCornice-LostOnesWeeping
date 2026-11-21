@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/rb03_tap_full.txt",
+  "out": "art/design/out/rb03_tap.png",
+  "ref": [
+   "art/design/out/rb03_down.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_up_full.txt",
+  "out": "art/design/out/r03_up.png",
+  "ref": [
+   "art/design/out/r03_drop.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "prompt": "art/design/prompts/s04a_half_full.txt",
+  "out": "art/design/out/s04a_half.png",
+  "ref": [
+   "art/design/out/s04a_zip.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s04a_half2_full.txt",
+  "out": "art/design/out/s04a_half2.png",
+  "ref": [
+   "art/design/out/s04a_zip.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

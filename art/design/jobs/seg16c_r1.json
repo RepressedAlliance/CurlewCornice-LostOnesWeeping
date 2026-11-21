@@ -1,0 +1,68 @@
+[
+ {
+  "prompt": "art/design/prompts/r16_glare_sh_a_full.txt",
+  "out": "art/design/out/r16_glare_sh_a.png",
+  "ref": [
+   "art/design/../cut/r16_glare.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/s04d_shoulder.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_glare_sh_b_full.txt",
+  "out": "art/design/out/r16_glare_sh_b.png",
+  "ref": [
+   "art/design/../cut/r16_glare.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/s04d_shoulder.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_raise_a_full.txt",
+  "out": "art/design/out/R16_raise_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../cut/s04d_shoulder.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R15_strum_1.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_raise_b_full.txt",
+  "out": "art/design/out/R16_raise_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../cut/s04d_shoulder.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R15_strum_1.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/i16_impact_a_full.txt",
+  "out": "art/design/out/i16_impact_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../cut/s04d_shoulder.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/i16_impact_b_full.txt",
+  "out": "art/design/out/i16_impact_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../cut/s04d_shoulder.png"
+  ]
+ }
+]

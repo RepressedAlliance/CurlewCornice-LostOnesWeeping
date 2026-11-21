@@ -1,0 +1,49 @@
+[
+ {
+  "prompt": "art/design/prompts/s05_sneer_full.txt",
+  "out": "art/design/out/s05_sneer.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_expressions.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/a05_front_full_full.txt",
+  "out": "art/design/out/a05_front_full.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/rmid_bang2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/a05_shout_full.txt",
+  "out": "art/design/out/a05_shout.png",
+  "ref": [
+   "art/design/out/a05_front_waist.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_expressions.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/a05_toss_full.txt",
+  "out": "art/design/out/a05_toss.png",
+  "ref": [
+   "art/design/out/a05_front_waist.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_expressions.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s05_tilt_full.txt",
+  "out": "art/design/out/s05_tilt.png",
+  "ref": [
+   "art/design/out/s05_ots.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

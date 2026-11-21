@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_ochi_half2_a_full.txt",
+  "out": "art/design/out/rface_ochi_half2_a.png",
+  "ref": [
+   "art/design/out/rface_ochi_half.png",
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_half2_b_full.txt",
+  "out": "art/design/out/rface_ochi_half2_b.png",
+  "ref": [
+   "art/design/out/rface_ochi_half.png",
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rmid_upmid_a_full.txt",
+  "out": "art/design/out/rmid_upmid_a.png",
+  "ref": [
+   "art/design/out/rmid_bmid2.png",
+   "art/design/out/rmid_up.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rmid_upmid_b_full.txt",
+  "out": "art/design/out/rmid_upmid_b.png",
+  "ref": [
+   "art/design/out/rmid_bmid2.png",
+   "art/design/out/rmid_up.png"
+  ]
+ }
+]

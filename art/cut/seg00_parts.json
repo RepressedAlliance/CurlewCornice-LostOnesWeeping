@@ -1,0 +1,5 @@
+{
+  "_note": "seg 00 parts, per drawing, in that drawing's own px (web/lib/parts.js). card.corners: the card drawn in the picture, [TL, TR, BR, BL] on the outline's centre, measured by fitting each side (work/seg/00/card_quad.py); her_card.js's face is mapped onto it by a homography. r00_mid_v3: the lower side runs off the picture, a 3:2 card from the measured top side. r00_hold_v3 has no code part (the card is down, out of the picture).",
+  "r00_cover_v3": { "card": { "corners": [[553.5, 614.5], [979.5, 614.5], [979.5, 896.5], [553.5, 896.5]] } },
+  "r00_mid_v3": { "card": { "corners": [[550.5, 887.5], [979.5, 887.5], [979.5, 1173.5], [550.5, 1173.5]] } }
+}

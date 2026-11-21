@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/print_people_test_full.txt",
+  "out": "art/design/out/print_people_test.png",
+  "ref": [
+   "art/design/out\\adults.png",
+   "art\\ref\\card_filled.png"
+  ]
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/gate_walkers_hi_s_full.txt",
+  "out": "art/design/out/gate_walkers_hi_s.png",
+  "ref": [
+   "art/design/out/gate_walkers_hi.png",
+   "art/design/../ref/card_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_walkers_hi2_s_full.txt",
+  "out": "art/design/out/gate_walkers_hi2_s.png",
+  "ref": [
+   "art/design/out/gate_walkers_hi2.png",
+   "art/design/../ref/card_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/print_people_test_s_full.txt",
+  "out": "art/design/out/print_people_test_s.png",
+  "ref": [
+   "art/design/out/print_people_test.png",
+   "art/design/../ref/card_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/students_print_s_full.txt",
+  "out": "art/design/out/students_print_s.png",
+  "ref": [
+   "art/design/out/students_print.png",
+   "art/design/../ref/card_filled.png"
+  ]
+ }
+]

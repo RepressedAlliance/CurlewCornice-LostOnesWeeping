@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/r08b_grip2_full.txt",
+  "out": "art/design/out/r08b_grip2.png",
+  "ref": [
+   "art/design/out/r08b_grip.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r08b_grip2b_full.txt",
+  "out": "art/design/out/r08b_grip2b.png",
+  "ref": [
+   "art/design/out/r08b_grip.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

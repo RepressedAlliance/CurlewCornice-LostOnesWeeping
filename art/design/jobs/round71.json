@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_scr_mid_a_full.txt",
+  "out": "art/design/out/rface_scr_mid_a.png",
+  "ref": [
+   "art/design/out/rface_scr2.png",
+   "art/design/out/rface_scr_o.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_scr_mid_b_full.txt",
+  "out": "art/design/out/rface_scr_mid_b.png",
+  "ref": [
+   "art/design/out/rface_scr2.png",
+   "art/design/out/rface_scr_o.png"
+  ]
+ }
+]

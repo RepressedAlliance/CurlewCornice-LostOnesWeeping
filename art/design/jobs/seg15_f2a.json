@@ -1,0 +1,73 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_look_full.txt",
+  "out": "art/design/out/R15_look.png",
+  "ref": [
+   "art/design/out/R15_play_c.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_2_full.txt",
+  "out": "art/design/out/R15_strum_2.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_3_full.txt",
+  "out": "art/design/out/R15_strum_3.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_4_full.txt",
+  "out": "art/design/out/R15_strum_4.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_5_full.txt",
+  "out": "art/design/out/R15_strum_5.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_6_full.txt",
+  "out": "art/design/out/R15_strum_6.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_7_full.txt",
+  "out": "art/design/out/R15_strum_7.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_8_full.txt",
+  "out": "art/design/out/R15_strum_8.png",
+  "ref": [
+   "art/design/out/R15_strum_1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ }
+]

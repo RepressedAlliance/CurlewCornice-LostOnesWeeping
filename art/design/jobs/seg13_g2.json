@@ -1,0 +1,12 @@
+[
+ {
+  "prompt": "art/design/prompts/h13g_erase_full.txt",
+  "out": "art/design/out/h13g_erase.png",
+  "ref": [
+   "art/design/out/h13g_slap.png",
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/board/guide_h13g_eraser45.png",
+   "art/design/out/h13f_erase.png"
+  ]
+ }
+]

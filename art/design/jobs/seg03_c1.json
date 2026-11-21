@@ -1,0 +1,47 @@
+[
+ {
+  "prompt": "art/design/prompts/h03_hold_full.txt",
+  "out": "art/design/out/h03_hold.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/card_front_hers_blank.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_pen_full.txt",
+  "out": "art/design/out/h03_pen.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_hand_pencil.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_down2_full.txt",
+  "out": "art/design/out/r03_down2.png",
+  "ref": [
+   "art/design/out/r03_down.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_peer2_full.txt",
+  "out": "art/design/out/r03_peer2.png",
+  "ref": [
+   "art/design/out/r03_peer.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_drop2_full.txt",
+  "out": "art/design/out/r03_drop2.png",
+  "ref": [
+   "art/design/out/r03_drop.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

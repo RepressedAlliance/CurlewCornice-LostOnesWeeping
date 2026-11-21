@@ -1,0 +1,53 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_in_full.txt",
+  "out": "art/design/out/rface_in.png",
+  "ref": [
+   "art/design/out/rface_mb.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_scr_full.txt",
+  "out": "art/design/out/rface_scr.png",
+  "ref": [
+   "art/design/out/rface_mb.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_cl_full.txt",
+  "out": "art/design/out/rface_cl.png",
+  "ref": [
+   "art/design/out/rface_mb.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_up_full.txt",
+  "out": "art/design/out/rface_up.png",
+  "ref": [
+   "art/design/out/rface_mb.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_hand2_up_full.txt",
+  "out": "art/design/out/rcu_hand2_up.png",
+  "ref": [
+   "art/design/out/rcu_hand2_dn.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hpen_m_full.txt",
+  "out": "art/design/out/hpen_m.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hpen_mb_full.txt",
+  "out": "art/design/out/hpen_mb.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

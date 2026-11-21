@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_fling_v4_full.txt",
+  "out": "art/design/out/rin_fling_v4.png",
+  "ref": [
+   "art/design/out/rin_fling_v3.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_grab_v2_full.txt",
+  "out": "art/design/out/rfl_grab_v2.png",
+  "ref": [
+   "art/design/out/rfl_grab.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_grab2_v2_full.txt",
+  "out": "art/design/out/rfl_grab2_v2.png",
+  "ref": [
+   "art/design/out/rfl_grab2.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_pull_v2_full.txt",
+  "out": "art/design/out/rfl_pull_v2.png",
+  "ref": [
+   "art/design/out/rfl_pull.png",
+   "art/design/../ref/card_master.png"
+  ]
+ }
+]

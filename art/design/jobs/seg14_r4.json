@@ -1,0 +1,22 @@
+[
+ {
+  "prompt": "art/design/prompts/R14_yank_full.txt",
+  "out": "art/design/out/R14_yank.png",
+  "ref": [
+   "art/design/../design/out/R14_grip2.png",
+   "art/design/../design/out/R14_throw2.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14_yankB_full.txt",
+  "out": "art/design/out/R14_yankB.png",
+  "ref": [
+   "art/design/../design/out/R14_grip2.png",
+   "art/design/../design/out/R14_throw2.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "prompt": "art/design/prompts/r12_play_cold_full.txt",
+  "out": "art/design/out/r12_play_cold.png",
+  "ref": [
+   "art/design/../cut/r12_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_strain_full.txt",
+  "out": "art/design/out/r12_strain.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/r12_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h12_pry_l_full.txt",
+  "out": "art/design/out/h12_pry_l.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_full_play_full.txt",
+  "out": "art/design/out/r12_full_play.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/rmid_master.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p12_bag_full.txt",
+  "out": "art/design/out/p12_bag.png",
+  "ref": [
+   "art/design/../canon/gigbag_front_back_side_open.png"
+  ]
+ }
+]

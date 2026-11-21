@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/r01_turn_full.txt",
+  "out": "art/design/out/r01_turn.png",
+  "ref": [
+   "art/design/../cut/r01_side.png",
+   "art/design/../cut/r01_follow2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r01_turnb_full.txt",
+  "out": "art/design/out/r01_turnb.png",
+  "ref": [
+   "art/design/../cut/r01_side.png",
+   "art/design/../cut/r01_follow2.png"
+  ]
+ }
+]

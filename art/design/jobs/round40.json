@@ -1,0 +1,164 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_open2_k_full.txt",
+  "out": "art/design/out/rin_open2_k.png",
+  "ref": [
+   "art/design/out/rin_open2.png",
+   "art/design/../ref/cards/card_hi_ng.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_gate_v6_k_full.txt",
+  "out": "art/design/out/rin_gate_v6_k.png",
+  "ref": [
+   "art/design/out/rin_gate_v6.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_master_k_full.txt",
+  "out": "art/design/out/rlow3_master_k.png",
+  "ref": [
+   "art/design/out/rlow3_master.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_fling_v4_k_full.txt",
+  "out": "art/design/out/rin_fling_v4_k.png",
+  "ref": [
+   "art/design/out/rin_fling_v4.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_grab_v2_k_full.txt",
+  "out": "art/design/out/rfl_grab_v2_k.png",
+  "ref": [
+   "art/design/out/rfl_grab_v2.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_grab2_v2_k_full.txt",
+  "out": "art/design/out/rfl_grab2_v2_k.png",
+  "ref": [
+   "art/design/out/rfl_grab2_v2.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rfl_pull_v2_k_full.txt",
+  "out": "art/design/out/rfl_pull_v2_k.png",
+  "ref": [
+   "art/design/out/rfl_pull_v2.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_story_k_full.txt",
+  "out": "art/design/out/rin_story_k.png",
+  "ref": [
+   "art/design/out/rin_story.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_instructor_v2_k_full.txt",
+  "out": "art/design/out/g1_instructor_v2_k.png",
+  "ref": [
+   "art/design/out/g1_instructor_v2.png",
+   "art/design/../ref/cards/card_01.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_elder_k_full.txt",
+  "out": "art/design/out/g1_elder_k.png",
+  "ref": [
+   "art/design/out/g1_elder.png",
+   "art/design/../ref/cards/card_05.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_officewoman_v2_k_full.txt",
+  "out": "art/design/out/g1_officewoman_v2_k.png",
+  "ref": [
+   "art/design/out/g1_officewoman_v2.png",
+   "art/design/../ref/cards/card_02.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_salaryman_k_full.txt",
+  "out": "art/design/out/g1_salaryman_k.png",
+  "ref": [
+   "art/design/out/g1_salaryman.png",
+   "art/design/../ref/cards/card_22.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_students_k_full.txt",
+  "out": "art/design/out/g1_students_k.png",
+  "ref": [
+   "art/design/out/g1_students.png",
+   "art/design/../ref/cards/card_09.png",
+   "art/design/../ref/cards/card_12.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_clerk_on_k_full.txt",
+  "out": "art/design/out/g5_clerk_on_k.png",
+  "ref": [
+   "art/design/out/g5_clerk_on.png",
+   "art/design/../ref/cards/card_04.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_elder_on_k_full.txt",
+  "out": "art/design/out/g5_elder_on_k.png",
+  "ref": [
+   "art/design/out/g5_elder_on.png",
+   "art/design/../ref/cards/card_05.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_girl_on_k_full.txt",
+  "out": "art/design/out/g5_girl_on_k.png",
+  "ref": [
+   "art/design/out/g5_girl_on.png",
+   "art/design/../ref/cards/card_10.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_mother_on_k_full.txt",
+  "out": "art/design/out/g5_mother_on_k.png",
+  "ref": [
+   "art/design/out/g5_mother_on.png",
+   "art/design/../ref/cards/card_14.png",
+   "art/design/../ref/cards/card_15.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_officewoman_on_k_full.txt",
+  "out": "art/design/out/g5_officewoman_on_k.png",
+  "ref": [
+   "art/design/out/g5_officewoman_on.png",
+   "art/design/../ref/cards/card_02.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_salaryman_on_k_full.txt",
+  "out": "art/design/out/g5_salaryman_on_k.png",
+  "ref": [
+   "art/design/out/g5_salaryman_on.png",
+   "art/design/../ref/cards/card_22.png"
+  ]
+ }
+]

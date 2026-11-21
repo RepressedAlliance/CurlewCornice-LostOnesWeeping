@@ -1,0 +1,59 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_p01_sato_v2_full.txt",
+  "out": "art/design/out/sp_p01_sato_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p02_tanaka_v2_full.txt",
+  "out": "art/design/out/sp_p02_tanaka_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p03_takahashi_v2_full.txt",
+  "out": "art/design/out/sp_p03_takahashi_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p04_ito_v2_full.txt",
+  "out": "art/design/out/sp_p04_ito_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p05_watanabe_v2_full.txt",
+  "out": "art/design/out/sp_p05_watanabe_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p06_yamamoto_v2_full.txt",
+  "out": "art/design/out/sp_p06_yamamoto_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p07_kobayashi_v2_full.txt",
+  "out": "art/design/out/sp_p07_kobayashi_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p08_kato_v2_full.txt",
+  "out": "art/design/out/sp_p08_kato_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/adults_builds.png"
+  ]
+ }
+]

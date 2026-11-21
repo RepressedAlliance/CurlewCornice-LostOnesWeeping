@@ -1,0 +1,8 @@
+{
+  "_note": "seg_04 parts on each drawing, in that drawing's own px (web/lib/parts.js). lead.axis: [back, tip] of the lead holder: the tip is the centre of the drawn sleeve's mouth, the direction the drawn barrel's centreline (measured with measureAxis 2026-11-21; h04_hold's sleeve is drawn 4.3 px below the barrel's centreline, so the axis runs parallel to the barrel through the sleeve mouth). lead.sleeve: the length of the drawn sleeve cone behind the tip (PART AUDIT measures it there). card.quad: the drawn clear card holder's outline (light frame's outer edge, work/seg/04/cardfix/), TL TR BR BL.",
+  "h04_push": { "lead": { "axis": [[966.0, 354.2], [81.0, 359.6]], "sleeve": 115 } },
+  "h04_hold": { "lead": { "axis": [[1101.5, 613.13], [331.28, 330.88]], "sleeve": 115 } },
+  "s04a_zip": { "card": { "quad": [[712.7, 972.7], [859.5, 972.7], [859.6, 1066.8], [712.6, 1066.8]] } },
+  "s04a_half": { "card": { "quad": [[712.9, 972.7], [859.9, 972.7], [860.0, 1067.0], [712.9, 1066.9]] } },
+  "s04d_shoulder": { "card": { "quad": [[731.3, 919.2], [859.0, 919.2], [859.1, 1007.7], [731.1, 1007.6]] } }
+}

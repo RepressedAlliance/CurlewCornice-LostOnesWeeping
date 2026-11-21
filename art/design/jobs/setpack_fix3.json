@@ -1,0 +1,48 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_hand_c_full.txt",
+  "out": "art/design/out/sp_hand_c.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_d_full.txt",
+  "out": "art/design/out/sp_hand_d.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_e_full.txt",
+  "out": "art/design/out/sp_hand_e.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_f_full.txt",
+  "out": "art/design/out/sp_hand_f.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p07_kobayashi_v4_full.txt",
+  "out": "art/design/out/sp_p07_kobayashi_v4.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p07_kobayashi_v5_full.txt",
+  "out": "art/design/out/sp_p07_kobayashi_v5.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/yank_rin_full.txt",
+  "out": "art/design/out/yank_rin.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/yank_rin_b_full.txt",
+  "out": "art/design/out/yank_rin_b.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ }
+]

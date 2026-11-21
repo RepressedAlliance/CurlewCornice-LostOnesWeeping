@@ -1,0 +1,84 @@
+[
+ {
+  "prompt": "art/design/prompts/R16_lift_a_full.txt",
+  "out": "art/design/out/R16_lift_a.png",
+  "ref": [
+   "art/design/../cut/R16_raise.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R16_shoulder.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_lift_b_full.txt",
+  "out": "art/design/out/R16_lift_b.png",
+  "ref": [
+   "art/design/../cut/R16_raise.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R16_shoulder.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_final_a_full.txt",
+  "out": "art/design/out/R16_final_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../../work/seg/16/v5/guide/layout_final.png",
+   "art/design/../cut/R16_wreck.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R16_raise.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_final_b_full.txt",
+  "out": "art/design/out/R16_final_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../../work/seg/16/v5/guide/layout_final.png",
+   "art/design/../cut/R16_wreck.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R16_raise.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_final_c_full.txt",
+  "out": "art/design/out/R16_final_c.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../../work/seg/16/v5/guide/layout_final.png",
+   "art/design/../cut/R16_wreck.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R16_raise.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/m16_bits_a_full.txt",
+  "out": "art/design/out/m16_bits_a.png",
+  "ref": [
+   "art/design/../cut/R16_wreck.png",
+   "art/design/../cut/m16_wreck.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/m16_bits_b_full.txt",
+  "out": "art/design/out/m16_bits_b.png",
+  "ref": [
+   "art/design/../cut/R16_wreck.png",
+   "art/design/../cut/m16_wreck.png"
+  ]
+ }
+]

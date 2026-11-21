@@ -1,0 +1,94 @@
+{
+ "h13g_erase": {
+  "eraser": {
+   "axis": [
+    [
+     687.49,
+     708.51
+    ],
+    [
+     586.18,
+     606.66
+    ]
+   ],
+   "wid": 168.0,
+   "src": "/art/design/out/h13g_erase.png",
+   "_check": {
+    "sections": 102,
+    "rms": 0.35,
+    "oldAngleErrDeg": -0.9,
+    "oldBorderOffPx": -5.09,
+    "oldWid": 169.0
+   }
+  }
+ },
+ "h13g_hover": {
+  "eraser": {
+   "axis": [
+    [
+     679.73,
+     702.2
+    ],
+    [
+     579.99,
+     601.69
+    ]
+   ],
+   "wid": 168.0,
+   "src": "/art/design/out/h13g_hover.png",
+   "_check": {
+    "sections": 102,
+    "rms": 0.32,
+    "oldAngleErrDeg": -0.28,
+    "oldBorderOffPx": -1.79,
+    "oldWid": 163.6
+   }
+  }
+ },
+ "r13h_face": {
+  "sleeve": {
+   "rect": [
+    543,
+    969,
+    272,
+    43
+   ],
+   "_check": {
+    "points": 2376,
+    "hiddenPct": 12.3,
+    "offPct": 5.1
+   }
+  }
+ },
+ "r13h_face_up": {
+  "sleeve": {
+   "rect": [
+    542,
+    970,
+    273,
+    42
+   ],
+   "_check": {
+    "points": 2261,
+    "hiddenPct": 12.7,
+    "offPct": 5.3
+   }
+  }
+ },
+ "h13h_slap": {
+  "palm": {
+   "point": [
+    688.0701812820793,
+    689.1864147646609
+   ]
+  }
+ },
+ "h13g_open": {
+  "pinch": {
+   "point": [
+    479.0,
+    454.68707435476546
+   ]
+  }
+ }
+}

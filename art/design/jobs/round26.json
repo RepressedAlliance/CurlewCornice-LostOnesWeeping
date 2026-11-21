@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/girl14_after_full.txt",
+  "out": "art/design/out/girl14_after.png",
+  "ref": [
+   "art/design/board/students_14.png",
+   "art/design/ref_tmp/ych_e_pose.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/girl14_before_full.txt",
+  "out": "art/design/out/girl14_before.png",
+  "ref": [
+   "art/design/board/students_14.png",
+   "art/design/ref_tmp/ycb_e_pose.png"
+  ]
+ }
+]

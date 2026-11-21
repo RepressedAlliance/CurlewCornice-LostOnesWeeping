@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_p05_watanabe_v3_full.txt",
+  "out": "art/design/out/sp_p05_watanabe_v3.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h06_saito_v2_full.txt",
+  "out": "art/design/out/sp_h06_saito_v2.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ }
+]

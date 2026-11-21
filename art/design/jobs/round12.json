@@ -1,0 +1,66 @@
+[
+ {
+  "prompt": "art/design/prompts/hand_pencil_g_full.txt",
+  "out": "art/design/out/hand_pencil_g.png",
+  "ref": [
+   "art/design/out/rin_A.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hand_eraser_g_full.txt",
+  "out": "art/design/out/hand_eraser_g.png",
+  "ref": [
+   "art/design/out/rin_A.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/roof_play_hip_full.txt",
+  "out": "art/design/out/roof_play_hip.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/yank_hi_full.txt",
+  "out": "art/design/out/yank_hi.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/students_v2_full.txt",
+  "out": "art/design/out/students_v2.png",
+  "ref": [
+   "art/design/out/students.png",
+   "art/design/out/rin_A.png",
+   "art/ref/card_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_A2_full.txt",
+  "out": "art/design/out/rin_A2.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_expr3_full.txt",
+  "out": "art/design/out/rin_expr3.png",
+  "ref": [
+   "art/design/out/rin_A.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/adults_v2_full.txt",
+  "out": "art/design/out/adults_v2.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/ref/card_filled.png"
+  ]
+ }
+]

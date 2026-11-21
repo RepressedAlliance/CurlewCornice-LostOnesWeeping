@@ -1,0 +1,77 @@
+[
+ {
+  "prompt": "art/design/prompts/h03_tap_p1_full.txt",
+  "out": "art/design/out/h03_tap_p1.png",
+  "ref": [
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png",
+   "art/design/../canon/card_front_town_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_tap_p3_full.txt",
+  "out": "art/design/out/h03_tap_p3.png",
+  "ref": [
+   "art/design/../canon/town/p03_takahashi_masao_elder_cane.png",
+   "art/design/../canon/card_front_town_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_tap_p6_full.txt",
+  "out": "art/design/out/h03_tap_p6.png",
+  "ref": [
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png",
+   "art/design/../canon/card_front_town_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_tap_p7_full.txt",
+  "out": "art/design/out/h03_tap_p7.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png",
+   "art/design/../canon/card_front_town_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_tap_p8_full.txt",
+  "out": "art/design/out/h03_tap_p8.png",
+  "ref": [
+   "art/design/../canon/town/p08_kato_daisuke_worker.png",
+   "art/design/../canon/card_front_town_filled.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t03b_p1_full.txt",
+  "out": "art/design/out/t03b_p1.png",
+  "ref": [
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t03b_p3_full.txt",
+  "out": "art/design/out/t03b_p3.png",
+  "ref": [
+   "art/design/../canon/town/p03_takahashi_masao_elder_cane.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t03b_p6_full.txt",
+  "out": "art/design/out/t03b_p6.png",
+  "ref": [
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t03b_p7_full.txt",
+  "out": "art/design/out/t03b_p7.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t03b_p8_full.txt",
+  "out": "art/design/out/t03b_p8.png",
+  "ref": [
+   "art/design/../canon/town/p08_kato_daisuke_worker.png"
+  ]
+ }
+]

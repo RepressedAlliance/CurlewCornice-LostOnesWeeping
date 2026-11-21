@@ -1,0 +1,81 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_eraser_e_full.txt",
+  "out": "art/design/out/sp_eraser_e.png",
+  "ref": [
+   "art/design/board/guide_eraser.png",
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_eraser_f_full.txt",
+  "out": "art/design/out/sp_eraser_f.png",
+  "ref": [
+   "art/design/board/guide_eraser.png",
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_g_full.txt",
+  "out": "art/design/out/sp_reader_g.png",
+  "ref": [
+   "art/design/board/guide_reader.png",
+   "art/design/board/print_people_test_s.png",
+   "art/design/../canon/coin_lockers_front.png",
+   "art/design/../canon/card_reader_cutaway.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_h_full.txt",
+  "out": "art/design/out/sp_reader_h.png",
+  "ref": [
+   "art/design/board/guide_reader.png",
+   "art/design/board/print_people_test_s.png",
+   "art/design/../canon/coin_lockers_front.png",
+   "art/design/../canon/card_reader_cutaway.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_k_full.txt",
+  "out": "art/design/out/sp_hand_k.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/board/guide_hand.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_l_full.txt",
+  "out": "art/design/out/sp_hand_l.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/board/guide_hand.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_m_full.txt",
+  "out": "art/design/out/sp_hand_m.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/board/guide_hand.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_classmates_c_full.txt",
+  "out": "art/design/out/sp_classmates_c.png",
+  "ref": [
+   "art/design/../canon/town/classmates_lineup_ref.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_classmates_d_full.txt",
+  "out": "art/design/out/sp_classmates_d.png",
+  "ref": [
+   "art/design/../canon/town/classmates_lineup_ref.png"
+  ]
+ }
+]

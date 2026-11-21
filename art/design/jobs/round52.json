@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/rlow3_back_w1_full.txt",
+  "out": "art/design/out/rlow3_back_w1.png",
+  "ref": [
+   "art/design/out/rlow3_back_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_back_w2_full.txt",
+  "out": "art/design/out/rlow3_back_w2.png",
+  "ref": [
+   "art/design/out/rlow3_back_an.png"
+  ]
+ }
+]

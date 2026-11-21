@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/f15_sota_b_full.txt",
+  "out": "art/design/out/f15_sota_b.png",
+  "ref": [
+   "art/design/../cut/f15_sota_a.png",
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_sota_b_full.txt",
+  "out": "art/design/out/f15_sota_b2.png",
+  "ref": [
+   "art/design/../cut/f15_sota_a.png",
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ }
+]

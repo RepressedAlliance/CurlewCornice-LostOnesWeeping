@@ -1,0 +1,60 @@
+[
+ {
+  "prompt": "art/design/prompts/f15_sota_a_full.txt",
+  "out": "art/design/out/f15_sota_a.png",
+  "ref": [
+   "art/design/../cut/t15_p7_turn.png",
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png",
+   "art/design/../cut/t01_p7.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_sota_a_full.txt",
+  "out": "art/design/out/f15_sota_a2.png",
+  "ref": [
+   "art/design/../cut/t15_p7_turn.png",
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png",
+   "art/design/../cut/t01_p7.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_p6c_full.txt",
+  "out": "art/design/out/f15_p6c.png",
+  "ref": [
+   "art/design/../cut/f15_p6b.png",
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_n5_bg_full.txt",
+  "out": "art/design/out/f15_n5_bg.png",
+  "ref": [
+   "art/design/../cut/t15_n5_turn.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_n4_bg_full.txt",
+  "out": "art/design/out/f15_n4_bg.png",
+  "ref": [
+   "art/design/../cut/t14_n4.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_4b_full.txt",
+  "out": "art/design/out/R15_strum_4b.png",
+  "ref": [
+   "art/design/../cut/R15_strum_3.png",
+   "art/design/../cut/R15_strum_5.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_8b_full.txt",
+  "out": "art/design/out/R15_strum_8b.png",
+  "ref": [
+   "art/design/../cut/R15_strum_8.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

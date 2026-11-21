@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/rb03_turn_full.txt",
+  "out": "art/design/out/rb03_turn.png",
+  "ref": [
+   "art/design/out/rb03_tap.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

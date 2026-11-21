@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/r12_strain2_full.txt",
+  "out": "art/design/out/r12_strain2.png",
+  "ref": [
+   "art/design/out/r12_strain.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h12_pry_r_full.txt",
+  "out": "art/design/out/h12_pry_r.png",
+  "ref": [
+   "art/design/out/h12_pry_l.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_full_shout_a_full.txt",
+  "out": "art/design/out/r12_full_shout_a.png",
+  "ref": [
+   "art/design/out/r12_full_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_full_shout_b_full.txt",
+  "out": "art/design/out/r12_full_shout_b.png",
+  "ref": [
+   "art/design/out/r12_full_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

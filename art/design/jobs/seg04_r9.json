@@ -1,0 +1,50 @@
+[
+ {
+  "prompt": "art/design/prompts/s04d_shoulder_full.txt",
+  "out": "art/design/out/s04d_shoulder.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/s04a_half.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/board/seg04_cold_face.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s04d_shoulder2_full.txt",
+  "out": "art/design/out/s04d_shoulder2.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/s04a_half.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/board/seg04_cold_face.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s04d_drag_full.txt",
+  "out": "art/design/out/s04d_drag.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/s04a_half.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/board/seg04_cold_face.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s04d_drag2_full.txt",
+  "out": "art/design/out/s04d_drag2.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/s04a_half.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/board/seg04_cold_face.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

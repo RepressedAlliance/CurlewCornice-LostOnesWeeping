@@ -1,0 +1,23 @@
+[
+ {
+  "prompt": "art/design/prompts/t15_n3_turn_full.txt",
+  "out": "art/design/out/t15_n3_turn.png",
+  "ref": [
+   "art/design/out/t15_n3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_n5_turn_full.txt",
+  "out": "art/design/out/t15_n5_turn.png",
+  "ref": [
+   "art/design/out/t15_n5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_n6_turn_full.txt",
+  "out": "art/design/out/t15_n6_turn.png",
+  "ref": [
+   "art/design/out/t15_n6.png"
+  ]
+ }
+]

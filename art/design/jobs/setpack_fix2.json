@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_gate_f_full.txt",
+  "out": "art/design/out/sp_gate_f.png",
+  "ref": [
+   "art/design/out/sp_gate_e.png",
+   "art/design/../canon/coin_lockers_front.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gate_g_full.txt",
+  "out": "art/design/out/sp_gate_g.png",
+  "ref": [
+   "art/design/out/sp_gate_e.png",
+   "art/design/../canon/coin_lockers_front.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_e_full.txt",
+  "out": "art/design/out/sp_reader_e.png",
+  "ref": [
+   "art/design/out/sp_reader_d.png",
+   "art/design/out/sp_eraser_c.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_f_full.txt",
+  "out": "art/design/out/sp_reader_f.png",
+  "ref": [
+   "art/design/out/sp_reader_d.png",
+   "art/design/out/sp_eraser_c.png"
+  ]
+ }
+]

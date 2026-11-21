@@ -1,0 +1,99 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_play_a_full.txt",
+  "out": "art/design/out/R15_play_a.png",
+  "ref": [
+   "art/design/../cut/R15_play_d1.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_play_b_full.txt",
+  "out": "art/design/out/R15_play_b.png",
+  "ref": [
+   "art/design/../cut/R15_play_d2.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_play_c_full.txt",
+  "out": "art/design/out/R15_play_c.png",
+  "ref": [
+   "art/design/../cut/R15_play_d3.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_play_e3_full.txt",
+  "out": "art/design/out/R15_play_e3.png",
+  "ref": [
+   "art/design/../cut/R15_play_d4.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_strum_1_full.txt",
+  "out": "art/design/out/R15_strum_1.png",
+  "ref": [
+   "art/design/../cut/R15_play_d1.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p8h_full.txt",
+  "out": "art/design/out/t15_p8h.png",
+  "ref": [
+   "art/design/../cut/t15_p8.png",
+   "art/design/../canon/town/p08_kato_daisuke_worker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p2h_full.txt",
+  "out": "art/design/out/t15_p2h.png",
+  "ref": [
+   "art/design/../cut/t15_p2.png",
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p9h_full.txt",
+  "out": "art/design/out/t15_p9h.png",
+  "ref": [
+   "art/design/../cut/t01_p9.png",
+   "art/design/../canon/town/p09_yoshida_ren_hoodie.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p1h_full.txt",
+  "out": "art/design/out/t15_p1h.png",
+  "ref": [
+   "art/design/../cut/t01_p1c.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_n3_turn2_full.txt",
+  "out": "art/design/out/t15_n3_turn2.png",
+  "ref": [
+   "art/design/../cut/t15_n3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_sota_a_full.txt",
+  "out": "art/design/out/f15_sota_a.png",
+  "ref": [
+   "art/design/../cut/t15_p7_turn.png",
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_p6_full.txt",
+  "out": "art/design/out/f15_p6.png",
+  "ref": [
+   "art/design/../cut/t01_p6.png",
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png"
+  ]
+ }
+]

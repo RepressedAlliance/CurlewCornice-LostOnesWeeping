@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/f15_sota_a_full.txt",
+  "out": "art/design/out/f15_sota_a.png",
+  "ref": [
+   "art/design/../cut/t15_p7_turn.png",
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png",
+   "art/design/../cut/t01_p7.png"
+  ]
+ }
+]

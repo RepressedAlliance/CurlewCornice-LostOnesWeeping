@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/h11_turn_full.txt",
+  "out": "art/design/out/h11_turn.png",
+  "ref": [
+   "art/design/../cut/h11_write.png",
+   "art/design/../cut/h11_rub.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

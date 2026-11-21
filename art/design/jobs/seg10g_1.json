@@ -1,0 +1,28 @@
+[
+ {
+  "prompt": "art/design/prompts/r10g_refl_full.txt",
+  "out": "art/design/out/r10g_refl.png",
+  "ref": [
+   "art/design/../cut/r10f_refl.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r10g_doorb_full.txt",
+  "out": "art/design/out/r10g_doorb.png",
+  "ref": [
+   "art/design/../cut/r10_door.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r10g_lock_full.txt",
+  "out": "art/design/out/r10g_lock.png",
+  "ref": [
+   "art/design/../cut/r10f_lock.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

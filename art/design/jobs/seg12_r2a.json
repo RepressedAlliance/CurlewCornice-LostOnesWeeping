@@ -1,0 +1,26 @@
+[
+ {
+  "prompt": "art/design/prompts/p12_anoko_full.txt",
+  "out": "art/design/out/p12_anoko.png",
+  "ref": [
+   "art/design/out/r12_play.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_shout_a_full.txt",
+  "out": "art/design/out/r12_shout_a.png",
+  "ref": [
+   "art/design/out/r12_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_shout_b_full.txt",
+  "out": "art/design/out/r12_shout_b.png",
+  "ref": [
+   "art/design/out/r12_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

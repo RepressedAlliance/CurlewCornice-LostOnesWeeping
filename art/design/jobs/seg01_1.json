@@ -1,0 +1,53 @@
+[
+ {
+  "prompt": "art/design/prompts/r01_side_full.txt",
+  "out": "art/design/out/r01_side.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p7_full.txt",
+  "out": "art/design/out/t01_p7.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p3_full.txt",
+  "out": "art/design/out/t01_p3.png",
+  "ref": [
+   "art/design/../canon/town/p03_takahashi_masao_elder_cane.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p6_full.txt",
+  "out": "art/design/out/t01_p6.png",
+  "ref": [
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p8_full.txt",
+  "out": "art/design/out/t01_p8.png",
+  "ref": [
+   "art/design/../canon/town/p08_kato_daisuke_worker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p9_full.txt",
+  "out": "art/design/out/t01_p9.png",
+  "ref": [
+   "art/design/../canon/town/p09_yoshida_ren_hoodie.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p1_full.txt",
+  "out": "art/design/out/t01_p1.png",
+  "ref": [
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ }
+]

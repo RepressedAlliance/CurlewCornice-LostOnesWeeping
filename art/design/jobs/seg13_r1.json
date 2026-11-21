@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/h13_open_full.txt",
+  "out": "art/design/out/h13_open.png",
+  "ref": [
+   "art/design/board/guide_h13_arm.png",
+   "art/design/../cut/h08b_write.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r13_face_full.txt",
+  "out": "art/design/out/r13_face.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/r08b_stare.png",
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/../ref/sheet_faces.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p13_guitar_full.txt",
+  "out": "art/design/out/p13_guitar.png",
+  "ref": [
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p13_kids_full.txt",
+  "out": "art/design/out/p13_kids.png"
+ }
+]

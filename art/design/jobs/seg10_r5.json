@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/h10f_press2_full.txt",
+  "out": "art/design/out/h10f_press2.png",
+  "ref": [
+   "art/design/out/h10f_tip.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/r12_bust_shout_a_full.txt",
+  "out": "art/design/out/r12_bust_shout_a.png",
+  "ref": [
+   "art/design/out/r12_bust_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_bust_shout_b_full.txt",
+  "out": "art/design/out/r12_bust_shout_b.png",
+  "ref": [
+   "art/design/out/r12_bust_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

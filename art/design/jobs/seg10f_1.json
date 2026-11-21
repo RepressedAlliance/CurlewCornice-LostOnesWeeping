@@ -1,0 +1,75 @@
+[
+ {
+  "prompt": "art/design/prompts/p10f_rowL_full.txt",
+  "out": "art/design/out/p10f_rowL.png",
+  "ref": [
+   "art/design/board/guide_seg10_rowL.png",
+   "art/design/../cut/p10_1.png",
+   "art/design/../cut/p10_2.png",
+   "art/design/../cut/p10_3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10f_rowR_full.txt",
+  "out": "art/design/out/p10f_rowR.png",
+  "ref": [
+   "art/design/board/guide_seg10_rowR.png",
+   "art/design/../cut/p10_5.png",
+   "art/design/../cut/p10_6.png",
+   "art/design/../cut/p10_4.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r10f_refl_full.txt",
+  "out": "art/design/out/r10f_refl.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/r10_reflb.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../ref/sheet_faces.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r10f_doorb_full.txt",
+  "out": "art/design/out/r10f_doorb.png",
+  "ref": [
+   "art/design/../cut/r10_door.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r10f_back_full.txt",
+  "out": "art/design/out/r10f_back.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/r10_doorb.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h10f_tip_full.txt",
+  "out": "art/design/out/h10f_tip.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/hpen3.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10f_opp_full.txt",
+  "out": "art/design/out/p10f_opp.png",
+  "ref": [
+   "art/design/../canon/town/_lineup_same_scale.png",
+   "art/design/../cut/p10_4.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g10f_bag_full.txt",
+  "out": "art/design/out/g10f_bag.png",
+  "ref": [
+   "art/design/../canon/gigbag_front_back_side_open.png"
+  ]
+ }
+]

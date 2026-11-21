@@ -1,0 +1,134 @@
+{
+ "h11_write": {
+  "tip": {
+   "point": [
+    220,
+    192
+   ]
+  },
+  "cuff": {
+   "point": [
+    526.8,
+    862.4
+   ]
+  }
+ },
+ "h11_turn": {
+  "cuff": {
+   "point": [
+    526.2,
+    861.6
+   ]
+  }
+ },
+ "h11_rub": {
+  "pad": {
+   "point": [
+    239,
+    220
+   ]
+  },
+  "cuff": {
+   "point": [
+    525.6,
+    861.8
+   ]
+  }
+ },
+ "r11_id_a": {
+  "cards": [
+   {
+    "rect": [
+     362,
+     884,
+     661,
+     1067
+    ],
+    "mask": "/art/cut/seg11_r11_id_a_card0.png"
+   }
+  ]
+ },
+ "r11_id_b": {
+  "cards": [
+   {
+    "rect": [
+     362,
+     883,
+     663,
+     1066
+    ],
+    "mask": "/art/cut/seg11_r11_id_b_card0.png"
+   }
+  ]
+ },
+ "r11_cb": {
+  "cards": [
+   {
+    "rect": [
+     366,
+     305,
+     1170,
+     812
+    ],
+    "mask": "/art/cut/seg11_r11_cb_card0.png"
+   }
+  ]
+ },
+ "r11_cb_grip": {
+  "cards": [
+   {
+    "rect": [
+     366,
+     305,
+     1170,
+     811
+    ],
+    "mask": "/art/cut/seg11_r11_cb_grip_card0.png"
+   }
+  ]
+ },
+ "p11_trio3": {
+  "cards": [
+   {
+    "rect": [
+     169,
+     336,
+     473,
+     530
+    ],
+    "mask": "/art/cut/seg11_p11_trio3_card0.png"
+   },
+   {
+    "rect": [
+     611,
+     336,
+     921,
+     530
+    ],
+    "mask": "/art/cut/seg11_p11_trio3_card1.png"
+   },
+   {
+    "rect": [
+     1042,
+     336,
+     1358,
+     530
+    ],
+    "mask": "/art/cut/seg11_p11_trio3_card2.png"
+   }
+  ]
+ },
+ "r11_row6": {
+  "cards": [
+   {
+    "rect": [
+     603,
+     345,
+     933,
+     570
+    ],
+    "mask": "/art/cut/seg11_r11_row6_card0.png"
+   }
+  ]
+ }
+}

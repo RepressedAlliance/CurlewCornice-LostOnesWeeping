@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/r10g_back_full.txt",
+  "out": "art/design/out/r10g_back.png",
+  "ref": [
+   "art/design/../cut/r10f_back.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

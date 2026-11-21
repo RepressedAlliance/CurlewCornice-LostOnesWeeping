@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/r10f_lockb_full.txt",
+  "out": "art/design/out/r10f_lockb.png",
+  "ref": [
+   "art/design/out/r10f_lock.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

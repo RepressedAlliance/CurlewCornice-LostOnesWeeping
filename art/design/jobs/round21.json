@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/yank_crowd_before_full.txt",
+  "out": "art/design/out/yank_crowd_before.png",
+  "ref": [
+   "art/design/out/yank_crowd_hi.png",
+   "art/design/../ref/card_filled.png"
+  ]
+ }
+]

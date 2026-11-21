@@ -1,0 +1,44 @@
+[
+ {
+  "prompt": "art/design/prompts/rmid_bang2_full.txt",
+  "out": "art/design/out/rmid_bang2.png",
+  "ref": [
+   "art/design/out/rmid_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rmid_bmid2_full.txt",
+  "out": "art/design/out/rmid_bmid2.png",
+  "ref": [
+   "art/design/out/rmid_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_scr_blink_full.txt",
+  "out": "art/design/out/rface_scr_blink.png",
+  "ref": [
+   "art/design/out/rface_scr2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_scr_o_full.txt",
+  "out": "art/design/out/rface_scr_o.png",
+  "ref": [
+   "art/design/out/rface_scr2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_half_full.txt",
+  "out": "art/design/out/rface_ochi_half.png",
+  "ref": [
+   "art/design/out/rface_ochi.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_crackblink_full.txt",
+  "out": "art/design/out/rface_ochi_crackblink.png",
+  "ref": [
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ }
+]

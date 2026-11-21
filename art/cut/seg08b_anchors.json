@@ -1,0 +1,193 @@
+{
+ "note": "seg_08b (细做, 2026-11-20): where things are in the drawings, in drawing pixels. Hands: the pencil tip; h08b_pull is placed by h08b_write's tip so the two canvases line up (the jerk back is drawn into it). r08b_grip / r08b_snapc: tip, break (where the front half comes off, the top of the stub in r08b_snapc), the pencil's body and wood colour sample points. Pieces: front (p08b_front.png, x2: break = where the body begins at the torn end, on the axis; center = the middle of the piece on the axis; wid = the body width) and bits (p08b_bits.png strip, x2).",
+ "write": {
+  "tip": [
+   213,
+   163
+  ],
+  "body": [
+   560,
+   500
+  ],
+  "wood": [
+   240,
+   200
+  ],
+  "screen": 0.42
+ },
+ "pull": {
+  "tip": [
+   213,
+   163
+  ],
+  "drawnTip": [
+   469,
+   231
+  ]
+ },
+ "scrawl": {
+  "tip": [
+   213,
+   162
+  ]
+ },
+ "grip": {
+  "tip": [
+   192,
+   500
+  ],
+  "break": [
+   250,
+   614
+  ],
+  "body": [
+   240,
+   600
+  ],
+  "wood": [
+   208,
+   530
+  ],
+  "wid": 44
+ },
+ "front": {
+  "src": "art/design/out/p08b_front3.png",
+  "x2": 2,
+  "size": [
+   389,
+   138
+  ],
+  "break": [
+   66.0,
+   68.5
+  ],
+  "center": [
+   194.5,
+   68.5
+  ],
+  "wid": 118.1
+ },
+ "bits": {
+  "src": "art/design/out/p08b_bits.png",
+  "x2": 2,
+  "pieces": [
+   {
+    "kind": "wood",
+    "rect": [
+     0,
+     0,
+     74,
+     35
+    ]
+   },
+   {
+    "kind": "wood",
+    "rect": [
+     78,
+     0,
+     50,
+     13
+    ]
+   },
+   {
+    "kind": "wood",
+    "rect": [
+     132,
+     0,
+     66,
+     43
+    ]
+   },
+   {
+    "kind": "wood",
+    "rect": [
+     202,
+     0,
+     58,
+     23
+    ]
+   },
+   {
+    "kind": "wood",
+    "rect": [
+     264,
+     0,
+     70,
+     36
+    ]
+   },
+   {
+    "kind": "wood",
+    "rect": [
+     338,
+     0,
+     54,
+     16
+    ]
+   },
+   {
+    "kind": "skin",
+    "rect": [
+     396,
+     0,
+     47,
+     50
+    ]
+   },
+   {
+    "kind": "skin",
+    "rect": [
+     447,
+     0,
+     38,
+     28
+    ]
+   },
+   {
+    "kind": "skin",
+    "rect": [
+     489,
+     0,
+     54,
+     30
+    ]
+   },
+   {
+    "kind": "graphite",
+    "rect": [
+     547,
+     0,
+     26,
+     20
+    ]
+   },
+   {
+    "kind": "graphite",
+    "rect": [
+     577,
+     0,
+     30,
+     28
+    ]
+   },
+   {
+    "kind": "graphite",
+    "rect": [
+     611,
+     0,
+     22,
+     17
+    ]
+   },
+   {
+    "kind": "graphite",
+    "rect": [
+     637,
+     0,
+     28,
+     26
+    ]
+   }
+  ]
+ }
+}

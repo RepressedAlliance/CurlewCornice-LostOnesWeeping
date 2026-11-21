@@ -1,0 +1,97 @@
+[
+ {
+  "prompt": "art/design/prompts/rcu_hand2_dn_full.txt",
+  "out": "art/design/out/rcu_hand2_dn.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png",
+   "art/design/out/lespaul_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_face3_an_full.txt",
+  "out": "art/design/out/rcu_face3_an.png",
+  "ref": [
+   "art/design/out/rcu_face_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_face4_an_full.txt",
+  "out": "art/design/out/rcu_face4_an.png",
+  "ref": [
+   "art/design/out/rcu_face_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_feet2_an_full.txt",
+  "out": "art/design/out/rcu_feet2_an.png",
+  "ref": [
+   "art/design/out/rcu_feet_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_eye_an_full.txt",
+  "out": "art/design/out/rcu_eye_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_card_an_full.txt",
+  "out": "art/design/out/rcu_card_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png",
+   "art/design/../ref/cards/card_00.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rback_an_full.txt",
+  "out": "art/design/out/rback_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rhigh_an_full.txt",
+  "out": "art/design/out/rhigh_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rworm_an_full.txt",
+  "out": "art/design/out/rworm_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_crouch_an_full.txt",
+  "out": "art/design/out/rlow3_crouch_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_land_an_full.txt",
+  "out": "art/design/out/rlow3_land_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_bangmid_an_full.txt",
+  "out": "art/design/out/rlow3_bangmid_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_bangup_an_full.txt",
+  "out": "art/design/out/rlow3_bangup_an.png",
+  "ref": [
+   "art/design/out/rlow3_bang_an.png"
+  ]
+ }
+]

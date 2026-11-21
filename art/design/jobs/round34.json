@@ -1,0 +1,44 @@
+[
+ {
+  "prompt": "art/design/prompts/g5_clerk_look_full.txt",
+  "out": "art/design/out/g5_clerk_look.png",
+  "ref": [
+   "art/design/out/g5_clerk_on.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_officewoman_look_full.txt",
+  "out": "art/design/out/g5_officewoman_look.png",
+  "ref": [
+   "art/design/out/g5_officewoman_on.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_elder_look_full.txt",
+  "out": "art/design/out/g5_elder_look.png",
+  "ref": [
+   "art/design/out/g5_elder_on.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_girl_look_full.txt",
+  "out": "art/design/out/g5_girl_look.png",
+  "ref": [
+   "art/design/out/g5_girl_on.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_salaryman_look_full.txt",
+  "out": "art/design/out/g5_salaryman_look.png",
+  "ref": [
+   "art/design/out/g5_salaryman_on.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_mother_look_full.txt",
+  "out": "art/design/out/g5_mother_look.png",
+  "ref": [
+   "art/design/out/g5_mother_on.png"
+  ]
+ }
+]

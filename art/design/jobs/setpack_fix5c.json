@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_reader_i_full.txt",
+  "out": "art/design/out/sp_reader_i.png",
+  "ref": [
+   "art/design/out/sp_reader_g.png",
+   "art/design/out/sp_eraser_e_print.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_j_full.txt",
+  "out": "art/design/out/sp_reader_j.png",
+  "ref": [
+   "art/design/out/sp_reader_g.png",
+   "art/design/out/sp_eraser_e_print.png"
+  ]
+ }
+]

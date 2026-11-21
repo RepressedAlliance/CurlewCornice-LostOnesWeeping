@@ -1,0 +1,5 @@
+Redraw the first attached picture exactly: the same person, the same pose, clothes, hair, card, props, the same size and position on the same canvas, the same drawing hand (one teal ink on paper-white areas, clean line art, regular round screentone dots), the same fully TRANSPARENT background (PNG alpha). Change ONLY what follows; everything else stays line for line. 
+Change only her FACE so she no longer shares a face template with the other young women of the town: a round face with soft full cheeks, large round slightly droopy eyes, thick soft eyebrows, lips slightly parted. Still 20, still absent-minded, looking slightly to her right. Clean anime face, the nose one small stroke.
+Fully TRANSPARENT background (PNG alpha) everywhere outside the subject: no floor, no ground line, no cast shadow, no frame, no paper colour behind it. Every part of the subject is fully opaque, including its white and paper-white parts.
+No captions, no labels, no title, no logos, no watermark.
+Absolutely no red, pink or orange anywhere.

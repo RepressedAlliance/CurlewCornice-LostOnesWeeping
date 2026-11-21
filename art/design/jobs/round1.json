@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_A_full.txt",
+  "out": "art/design/out/rin_A.png"
+ },
+ {
+  "prompt": "art/design/prompts/rin_B_full.txt",
+  "out": "art/design/out/rin_B.png"
+ },
+ {
+  "prompt": "art/design/prompts/rin_C_full.txt",
+  "out": "art/design/out/rin_C.png"
+ },
+ {
+  "prompt": "art/design/prompts/lespaul_full.txt",
+  "out": "art/design/out/lespaul.png"
+ },
+ {
+  "prompt": "art/design/prompts/students_full.txt",
+  "out": "art/design/out/students.png"
+ },
+ {
+  "prompt": "art/design/prompts/adults_full.txt",
+  "out": "art/design/out/adults.png"
+ },
+ {
+  "prompt": "art/design/prompts/child_full.txt",
+  "out": "art/design/out/child.png"
+ },
+ {
+  "prompt": "art/design/prompts/crayon_full.txt",
+  "out": "art/design/out/crayon.png"
+ }
+]

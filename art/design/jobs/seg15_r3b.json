@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_play_e2_full.txt",
+  "out": "art/design/out/R15_play_e2.png",
+  "ref": [
+   "art/design/out/R15_play_d4.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

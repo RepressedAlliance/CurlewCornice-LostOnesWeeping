@@ -1,0 +1,23 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_lespaul_e_full.txt",
+  "out": "art/design/out/sp_lespaul_e.png",
+  "ref": [
+   "art/design/out/sp_lespaul_e_geo.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lespaul_f_full.txt",
+  "out": "art/design/out/sp_lespaul_f.png",
+  "ref": [
+   "art/design/out/sp_lespaul_e_geo.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lespaul_g_full.txt",
+  "out": "art/design/out/sp_lespaul_g.png",
+  "ref": [
+   "art/design/out/sp_lespaul_e_geo.png"
+  ]
+ }
+]

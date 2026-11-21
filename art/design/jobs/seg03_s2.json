@@ -1,0 +1,21 @@
+[
+ {
+  "prompt": "art/design/prompts/r03_peer_full.txt",
+  "out": "art/design/out/r03_peer.png",
+  "ref": [
+   "art/design/out/r03_down.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/card_back_rules.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_up2_full.txt",
+  "out": "art/design/out/r03_up2.png",
+  "ref": [
+   "art/design/out/r03_drop.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

@@ -1,0 +1,13 @@
+{
+ "_about": "seg_12 parts, each measured on its own drawing (drawing px). card.quad: the blank white window of the clear card holder Codex drew (TL, TR, BR, BL; work/seg/12/fine/find_card.py at threshold 225); her_card.js's face is fitted into it. pinch.point: where finger and thumb meet on the forearm drawing (it is placed on the printed ring).",
+ "r12_play_cold": { "card": { "quad": [[393, 708], [481, 708], [481, 763], [393, 763]] } },
+ "r12c_shout_a": { "card": { "quad": [[394, 709], [482, 709], [482, 763], [394, 763]] } },
+ "r12c_shout_ab": { "card": { "quad": [[394, 709], [482, 709], [482, 763], [394, 763]] } },
+ "r12c_shout_b": { "card": { "quad": [[393, 708], [481, 708], [481, 763], [393, 763]] } },
+ "r12_bust_play": { "card": { "quad": [[666, 666], [756, 666], [756, 722], [666, 722]] } },
+ "r12_bust_shout_a": { "card": { "quad": [[666, 666], [755, 666], [755, 721], [666, 721]] } },
+ "r12_bust_shout_b": { "card": { "quad": [[666, 666], [755, 666], [755, 722], [666, 722]] } },
+ "p12_anoko": { "card": { "quad": [[393, 712], [490, 712], [490, 770], [392, 770]] } },
+ "h12_pry2_l": { "pinch": { "point": [212, 650] } },
+ "h12_pry2_r": { "pinch": { "point": [1339, 650] } }
+}

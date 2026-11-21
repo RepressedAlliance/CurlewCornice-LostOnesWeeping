@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/R14f_down2_full.txt",
+  "out": "art/design/out/R14f_down2.png",
+  "ref": [
+   "art/design/../design/out/R14f_down.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/card_front_hers_blank.png"
+  ]
+ }
+]

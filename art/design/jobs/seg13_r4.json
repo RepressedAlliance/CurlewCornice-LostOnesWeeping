@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/h13_erase_v_full.txt",
+  "out": "art/design/out/h13_erase_v.png",
+  "ref": [
+   "art/design/out/h13_erase.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p13_guitar2_full.txt",
+  "out": "art/design/out/p13_guitar2.png",
+  "ref": [
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ }
+]

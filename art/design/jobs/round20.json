@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/yank_grab2_full.txt",
+  "out": "art/design/out/yank_grab2.png",
+  "ref": [
+   "art/design/out/yank_hi.png",
+   "art/design/../ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/yank_pull2_full.txt",
+  "out": "art/design/out/yank_pull2.png",
+  "ref": [
+   "art/design/out/yank_hi.png",
+   "art/design/../ref/card_blank.png"
+  ]
+ }
+]

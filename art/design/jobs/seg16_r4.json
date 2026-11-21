@@ -1,0 +1,55 @@
+[
+ {
+  "prompt": "art/design/prompts/r16_glare_t_a_full.txt",
+  "out": "art/design/out/r16_glare_t_a.png",
+  "ref": [
+   "art/design/out/r16_glare_sh2_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_glare_t_b_full.txt",
+  "out": "art/design/out/r16_glare_t_b.png",
+  "ref": [
+   "art/design/out/r16_glare_sh2_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_wreck_a_full.txt",
+  "out": "art/design/out/R16_wreck_a.png",
+  "ref": [
+   "art/design/../cut/R16_after.png",
+   "art/design/../../work/seg/16/smash/r3/layout_target.png",
+   "art/design/../cut/m16_wreck.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_wreck_b_full.txt",
+  "out": "art/design/out/R16_wreck_b.png",
+  "ref": [
+   "art/design/../cut/R16_after.png",
+   "art/design/../../work/seg/16/smash/r3/layout_target.png",
+   "art/design/../cut/m16_wreck.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_wreck_c_full.txt",
+  "out": "art/design/out/R16_wreck_c.png",
+  "ref": [
+   "art/design/../cut/R16_after.png",
+   "art/design/../../work/seg/16/smash/r3/layout_target.png",
+   "art/design/../cut/m16_wreck.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/board/rin_A2.png"
+  ]
+ }
+]

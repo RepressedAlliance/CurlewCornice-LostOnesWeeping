@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/t14_p3cu2_full.txt",
+  "out": "art/design/out/t14_p3cu2.png",
+  "ref": [
+   "art/design/../design/board/seg14/t14_p3cu2_up.png",
+   "art/design/../canon/town/p03_takahashi_masao_elder_cane.png",
+   "art/design/../cut/t14_p3cu.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t14_p3cu2b_full.txt",
+  "out": "art/design/out/t14_p3cu2b.png",
+  "ref": [
+   "art/design/../design/board/seg14/t14_p3cu2_up.png",
+   "art/design/../canon/town/p03_takahashi_masao_elder_cane.png",
+   "art/design/../cut/t14_p3cu.png"
+  ]
+ }
+]

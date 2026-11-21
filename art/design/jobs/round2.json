@@ -1,0 +1,25 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_expr_full.txt",
+  "out": "art/design/out/rin_expr.png",
+  "ref": [
+   "art/design/out/rin_A.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_play_full.txt",
+  "out": "art/design/out/rin_play.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_story_full.txt",
+  "out": "art/design/out/rin_story.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png"
+  ]
+ }
+]

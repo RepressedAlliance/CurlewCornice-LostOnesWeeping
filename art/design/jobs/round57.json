@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/rcu_hand3_up_full.txt",
+  "out": "art/design/out/rcu_hand3_up.png",
+  "ref": [
+   "art/design/out/rcu_hand3_dnb.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_hand3_upb_full.txt",
+  "out": "art/design/out/rcu_hand3_upb.png",
+  "ref": [
+   "art/design/out/rcu_hand3_dnb.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/gate_walkers_34r_full.txt",
+  "out": "art/design/out/gate_walkers_34r.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/design/out/students.png",
+   "art/ref/card_filled.png"
+  ]
+ }
+]

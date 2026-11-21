@@ -1,0 +1,30 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_heave_a_full.txt",
+  "out": "art/design/out/R15_heave_a.png",
+  "ref": [
+   "art/design/board/seg15_grip2_pad.png",
+   "art/design/../cut/R15_bat.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_heave_b_full.txt",
+  "out": "art/design/out/R15_heave_b.png",
+  "ref": [
+   "art/design/board/seg15_grip2_pad.png",
+   "art/design/../cut/R15_bat.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_p6_c2_full.txt",
+  "out": "art/design/out/f15_p6_c2.png",
+  "ref": [
+   "art/design/../cut/f15_p6c.png",
+   "art/design/../cut/f15_p6_a.png"
+  ]
+ }
+]

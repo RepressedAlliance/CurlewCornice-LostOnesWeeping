@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/r08b_snapb_full.txt",
+  "out": "art/design/out/r08b_snapb.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/rface_scr2.png",
+   "art/design/../cut/hpen3.png",
+   "art/design/../ref/sheet_faces.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h08b_snap_full.txt",
+  "out": "art/design/out/h08b_snap.png",
+  "ref": [
+   "art/design/out/h08b_write.png"
+  ]
+ }
+]

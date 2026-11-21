@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/r07_say_g_full.txt",
+  "out": "art/design/out/r07_say_g.png",
+  "ref": [
+   "art/design/../cut/r07_say.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r07_say_h_full.txt",
+  "out": "art/design/out/r07_say_h.png",
+  "ref": [
+   "art/design/../cut/r07_say.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

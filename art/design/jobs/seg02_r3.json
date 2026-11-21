@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/t01_p2_full.txt",
+  "out": "art/design/out/t01_p2.png",
+  "ref": [
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png",
+   "art/design/../cut/t01_p6.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p2b_full.txt",
+  "out": "art/design/out/t01_p2b.png",
+  "ref": [
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png",
+   "art/design/../cut/t01_p6.png"
+  ]
+ }
+]

@@ -1,0 +1,21 @@
+[
+ {
+  "prompt": "art/design/prompts/r10g_lock_full.txt",
+  "out": "art/design/out/r10g_lock.png",
+  "ref": [
+   "art/design/../cut/r10f_lock.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r10g_reflb_full.txt",
+  "out": "art/design/out/r10g_reflb.png",
+  "ref": [
+   "art/design/out/r10g_refl.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/r10f_reflb.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

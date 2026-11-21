@@ -1,0 +1,50 @@
+[
+ {
+  "prompt": "art/design/prompts/p10_1b_full.txt",
+  "out": "art/design/out/p10_1b.png",
+  "ref": [
+   "art/design/out/p10_1.png",
+   "art/design/../canon/town/h04_kimura_hiroshi_chief.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10_2b_full.txt",
+  "out": "art/design/out/p10_2b.png",
+  "ref": [
+   "art/design/out/p10_2.png",
+   "art/design/../canon/town/h01_suzuki_keiko_career.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10_3b_full.txt",
+  "out": "art/design/out/p10_3b.png",
+  "ref": [
+   "art/design/out/p10_3.png",
+   "art/design/../canon/town/h02_matsumoto_aya_clerk.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10_4b_full.txt",
+  "out": "art/design/out/p10_4b.png",
+  "ref": [
+   "art/design/out/p10_4.png",
+   "art/design/../canon/town/_lineup_same_scale.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10_5b_full.txt",
+  "out": "art/design/out/p10_5b.png",
+  "ref": [
+   "art/design/out/p10_5.png",
+   "art/design/../canon/town/h05_shimizu_aoi_sailor.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p10_6b_full.txt",
+  "out": "art/design/out/p10_6b.png",
+  "ref": [
+   "art/design/out/p10_6.png",
+   "art/design/../canon/town/_lineup_same_scale.png"
+  ]
+ }
+]

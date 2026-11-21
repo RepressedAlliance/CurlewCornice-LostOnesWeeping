@@ -1,0 +1,171 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_lespaul_c_full.txt",
+  "out": "art/design/out/sp_lespaul_c.png",
+  "ref": [
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/board/guide_lespaul.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lespaul_d_full.txt",
+  "out": "art/design/out/sp_lespaul_d.png",
+  "ref": [
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/board/guide_lespaul.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_eraser_c_full.txt",
+  "out": "art/design/out/sp_eraser_c.png",
+  "ref": [
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_eraser_d_full.txt",
+  "out": "art/design/out/sp_eraser_d.png",
+  "ref": [
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_c_full.txt",
+  "out": "art/design/out/sp_reader_c.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/../canon/coin_lockers_front.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_d_full.txt",
+  "out": "art/design/out/sp_reader_d.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/../canon/coin_lockers_front.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gate_d_full.txt",
+  "out": "art/design/out/sp_gate_d.png",
+  "ref": [
+   "art/design/board/guide_gate.png",
+   "art/design/../canon/coin_lockers_front.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gate_e_full.txt",
+  "out": "art/design/out/sp_gate_e.png",
+  "ref": [
+   "art/design/board/guide_gate.png",
+   "art/design/../canon/coin_lockers_front.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gigbag_c_full.txt",
+  "out": "art/design/out/sp_gigbag_c.png",
+  "ref": [
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gigbag_d_full.txt",
+  "out": "art/design/out/sp_gigbag_d.png",
+  "ref": [
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_leadholder_b_full.txt",
+  "out": "art/design/out/sp_leadholder_b.png",
+  "ref": [
+   "art/design/../canon/leadholder_2mm.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_leadholder_c_full.txt",
+  "out": "art/design/out/sp_leadholder_c.png",
+  "ref": [
+   "art/design/../canon/leadholder_2mm.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_a_full.txt",
+  "out": "art/design/out/sp_hand_a.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_hand_pencil_demo1.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_hand_b_full.txt",
+  "out": "art/design/out/sp_hand_b.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_classmates_a_full.txt",
+  "out": "art/design/out/sp_classmates_a.png",
+  "ref": [
+   "art/design/../canon/town/h05_shimizu_aoi_sailor.png",
+   "art/design/../canon/town/p05_watanabe_sho_gakuran.png",
+   "art/design/../canon/town/classmates_lineup_ref.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_classmates_b_full.txt",
+  "out": "art/design/out/sp_classmates_b.png",
+  "ref": [
+   "art/design/../canon/town/h05_shimizu_aoi_sailor.png",
+   "art/design/../canon/town/p05_watanabe_sho_gakuran.png",
+   "art/design/../canon/town/classmates_lineup_ref.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h04_kimura_v3_full.txt",
+  "out": "art/design/out/sp_h04_kimura_v3.png",
+  "ref": [
+   "art/design/../canon/town/h04_kimura_hiroshi_chief.png",
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p02_tanaka_v3_full.txt",
+  "out": "art/design/out/sp_p02_tanaka_v3.png",
+  "ref": [
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p06_yamamoto_v3_full.txt",
+  "out": "art/design/out/sp_p06_yamamoto_v3.png",
+  "ref": [
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h02_matsumoto_v3_full.txt",
+  "out": "art/design/out/sp_h02_matsumoto_v3.png",
+  "ref": [
+   "art/design/../canon/town/h02_matsumoto_aya_clerk.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p07_kobayashi_v3_full.txt",
+  "out": "art/design/out/sp_p07_kobayashi_v3.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png"
+  ]
+ }
+]

@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/h13_hover_full.txt",
+  "out": "art/design/out/h13_hover.png",
+  "ref": [
+   "art/design/out/h13_erase.png"
+  ]
+ }
+]

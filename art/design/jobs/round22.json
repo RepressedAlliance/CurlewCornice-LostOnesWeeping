@@ -1,0 +1,33 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_gate_v5_full.txt",
+  "out": "art/design/out/rin_gate_v5.png",
+  "ref": [
+   "art/design/out/rin_A2.png",
+   "art/design/out/rin_story.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_roof_low_full.txt",
+  "out": "art/design/out/rin_roof_low.png",
+  "ref": [
+   "art/design/out/rin_A2.png",
+   "art/design/out/roof_play_hip.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/students_14_full.txt",
+  "out": "art/design/out/students_14.png",
+  "ref": [
+   "art/design/out/students_print_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/lespaul_v2_full.txt",
+  "out": "art/design/out/lespaul_v2.png",
+  "ref": [
+   "art/design/out/lespaul.png",
+   "art/design/out/roof_play_hip.png"
+  ]
+ }
+]

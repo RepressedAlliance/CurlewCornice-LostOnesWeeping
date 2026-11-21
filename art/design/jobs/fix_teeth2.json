@@ -1,0 +1,42 @@
+[
+ {
+  "prompt": "art/design/prompts/teeth_R14f_throw2_full.txt",
+  "out": "art/design/out/teeth_R14f_throw2.png",
+  "ref": [
+   "art/cut/R14f_throw2.png",
+   "art/design/out/teeth_r12c_shout_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/teeth_r12c_shout_a_full.txt",
+  "out": "art/design/out/teeth_r12c_shout_a.png",
+  "ref": [
+   "art/cut/r12c_shout_a.png",
+   "art/design/out/teeth_r12c_shout_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/teeth_r12c_shout_ab_full.txt",
+  "out": "art/design/out/teeth_r12c_shout_ab.png",
+  "ref": [
+   "art/cut/r12c_shout_ab.png",
+   "art/design/out/teeth_r12c_shout_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/teeth_R14f_yank_full.txt",
+  "out": "art/design/out/teeth_R14f_yank.png",
+  "ref": [
+   "art/cut/R14f_yank.png",
+   "art/design/out/teeth_R14f_grip2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/teeth_r12_strain_close_b_full.txt",
+  "out": "art/design/out/teeth_r12_strain_close_b.png",
+  "ref": [
+   "art/cut/r12_strain_close_b.png",
+   "art/design/out/teeth_r12_strain_close.png"
+  ]
+ }
+]

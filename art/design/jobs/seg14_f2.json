@@ -1,0 +1,45 @@
+[
+ {
+  "prompt": "art/design/prompts/R14f_see_full.txt",
+  "out": "art/design/out/R14f_see.png",
+  "ref": [
+   "art/design/../design/out/R14f_down2.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_askL_full.txt",
+  "out": "art/design/out/R14f_askL.png",
+  "ref": [
+   "art/design/../design/out/R14f_down2.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_askR_full.txt",
+  "out": "art/design/out/R14f_askR.png",
+  "ref": [
+   "art/design/../design/out/R14f_down2.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_grip_full.txt",
+  "out": "art/design/out/R14f_grip.png",
+  "ref": [
+   "art/design/../design/out/R14f_down2.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_throw_full.txt",
+  "out": "art/design/out/R14f_throw.png",
+  "ref": [
+   "art/design/../design/board/seg14/R14f_down_wide.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

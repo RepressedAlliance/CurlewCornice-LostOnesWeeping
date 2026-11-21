@@ -1,0 +1,137 @@
+[
+ {
+  "prompt": "art/design/prompts/g1_instructor_full.txt",
+  "out": "art/design/out/g1_instructor.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_elder_full.txt",
+  "out": "art/design/out/g1_elder.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_salaryman_full.txt",
+  "out": "art/design/out/g1_salaryman.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_officewoman_full.txt",
+  "out": "art/design/out/g1_officewoman.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_mother_full.txt",
+  "out": "art/design/out/g1_mother.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_salaryman_full.txt",
+  "out": "art/design/out/g5_salaryman.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_officewoman_full.txt",
+  "out": "art/design/out/g5_officewoman.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_mother_full.txt",
+  "out": "art/design/out/g5_mother.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_elder_full.txt",
+  "out": "art/design/out/g5_elder.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_clerk_full.txt",
+  "out": "art/design/out/g5_clerk.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_students_full.txt",
+  "out": "art/design/out/g1_students.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png",
+   "art/design/board/students_14.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g5_girl_full.txt",
+  "out": "art/design/out/g5_girl.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/rin_gate_v5.png",
+   "art/design/board/students_14.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_fling_v3_full.txt",
+  "out": "art/design/out/rin_fling_v3.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/board/rin_gate_v5.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hands_erase_v3_full.txt",
+  "out": "art/design/out/hands_erase_v3.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/hand_pencil_g2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_expr4_full.txt",
+  "out": "art/design/out/rin_expr4.png",
+  "ref": [
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow_shout_full.txt",
+  "out": "art/design/out/rlow_shout.png",
+  "ref": [
+   "art/design/out/rin_roof_low.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/lespaul_v3_full.txt",
+  "out": "art/design/out/lespaul_v3.png",
+  "ref": [
+   "art/design/out/lespaul.png"
+  ]
+ }
+]

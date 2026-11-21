@@ -1,0 +1,16 @@
+{
+ "_doc": "seg_02 parts (web/lib/parts.js): per drawing, where the drawn lanyard stops and the code's strand continues (drawing px, read off 10x crops of each drawing, 2026-11-21). ends: [left, right]; core: px up from each end to a pixel on the drawn strand (its colour defines the strand); r: search radius for 'on the strand' (5 for a ring end, its hole is paper).",
+ "t01_p1c": { "lan": { "ends": [[475, 650], [555, 650]], "core": 5 } },
+ "t01_p3": { "lan": { "ends": [[485, 732], [540, 732]], "core": 5 } },
+ "t01_p6": { "lan": { "ends": [[495, 659], [535, 659]], "core": 5 } },
+ "t01_p9": { "lan": { "ends": [[505, 520], [552, 520]], "point": true, "note": "his lanyard is not drawn: the code's strand starts on the hoodie at the neck" } },
+ "r01_follow2": { "lan": { "ends": [[579, 790], [589, 790]], "core": 2 } },
+ "t01_p7": { "lan": { "ends": [[495, 690], [542, 690]], "core": 5 }, "kidLan": { "ends": [[307, 777], [340, 777]], "core": 5 } },
+ "t01_p8": { "lan": { "ends": [[479, 714], [547, 714]], "core": 7, "r": 5 } },
+ "t01_p2": { "lan": { "ends": [[498, 708], [532, 708]], "core": 5 } },
+ "s02b_p3": { "neck": { "ends": [[480, 702], [545, 702]], "core": 5 } },
+ "s02b_p6": { "neck": { "ends": [[487, 635], [542, 633]], "core": 4 } },
+ "s02b_p7": { "neck": { "ends": [[489, 652], [550, 652]], "core": 5 }, "kidNeck": { "ends": [[307, 759], [340, 759]], "core": 5 } },
+ "s02b_p8": { "neck": { "ends": [[474, 682], [555, 684]], "core": 7, "r": 5 } },
+ "s02b_p2": { "neck": { "ends": [[490, 675], [539, 674]], "core": 5 } }
+}

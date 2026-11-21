@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/hpen2_m_full.txt",
+  "out": "art/design/out/hpen2_m.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hpen2_mb_full.txt",
+  "out": "art/design/out/hpen2_mb.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

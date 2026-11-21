@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/rlow_shout2_full.txt",
+  "out": "art/design/out/rlow_shout2.png",
+  "ref": [
+   "art/design/out/rin_roof_low.png"
+  ]
+ }
+]

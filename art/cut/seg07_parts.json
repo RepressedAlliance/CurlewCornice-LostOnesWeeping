@@ -1,0 +1,7 @@
+{
+  "_about": "seg_07 parts drawn by code over each drawing, in that drawing's own px (web/lib/parts.js). card_window: her card holder's white window as drawn by Codex, four corners [TL, TR, BR, BL] fitted to its four edges (work/seg/07/card/measure_card.py -> holder_quads.json, fit error <= 0.3 px), its corner radius r and the holder's grey; the card face (web/lib/her_card.js) is warped through it.",
+  "r07b_sit":  { "card_window": { "quad": [[421.72, 724.91], [520.35, 724.32], [521.99, 783.72], [423.06, 785.95]], "r": 5.43, "grey": [186, 183, 188] } },
+  "r07c_turn": { "card_window": { "quad": [[366.93, 1085.93], [516.17, 1085.65], [516.16, 1176.51], [367.21, 1178.25]], "r": 7.54, "grey": [202, 202, 204] } },
+  "r07c_look": { "card_window": { "quad": [[365.85, 1087.24], [514.99, 1085.58], [515.27, 1175.87], [366.96, 1178.28]], "r": 6.64, "grey": [199, 200, 205] } },
+  "r07c_say":  { "card_window": { "quad": [[365.74, 1087.25], [514.14, 1085.49], [514.91, 1175.84], [366.12, 1178.43]], "r": 6.04, "grey": [194, 193, 196] } }
+}

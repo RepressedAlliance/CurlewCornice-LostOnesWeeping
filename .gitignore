@@ -1,0 +1,63 @@
+# ---- environment, caches, logs
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+.env
+*.key
+*.pem
+
+# ---- not redistributed: the song, karaoke timing with lyric text
+input/
+*.flac
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.aac
+*.ass
+
+# ---- local history and output
+archive/
+out/
+
+# ---- work/: renders, frames, films and intermediate files stay local.
+# Kept: the multi-agent workflows, small measuring scripts, beat/accent data and lyric timing (no text).
+work/*
+!work/workflows/
+work/workflows/release_night.js
+!work/rhythm_diag/
+work/rhythm_diag/*
+!work/rhythm_diag/*.py
+!work/seg/
+work/seg/*/*
+!work/seg/*/*.py
+!work/audio/
+work/audio/*
+!work/audio/accents.json
+!work/audio/bars.json
+!work/audio/grid.json
+!work/audio/lyrics_timing.json
+
+# ---- art: only what the film and its reproduction need.
+# art/cut/ holds every cut-out drawing; only the ones the final film loads are tracked (listed in
+# work/full/frames/*/deps.json when the film is rendered, force-added). Candidates and boards stay local.
+art/cut/*
+art/design/out/*
+art/design/board/
+art/design/ref_tmp/
+art/design/prompts/*_full.txt
+
+# ---- fonts: only the ones the film uses (duplicate kept out)
+assets/fonts/yomogi_Yomogi-Regular.ttf
+assets/fonts/NotoSansSC-VF.ttf
+assets/fonts/ZenKakuGothicNew-Regular.ttf
+
+# ---- docs kept local (internal planning notes)
+docs/进度.md
+docs/demo说明.md
+docs/阶段1-验收标准.md
+docs/发布规划.md
+docs/发布调研.md
+docs/media/release/

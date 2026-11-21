@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/adults_builds_full.txt",
+  "out": "art/design/out/adults_builds.png",
+  "ref": [
+   "art/design/out/print_people_test_s.png"
+  ]
+ }
+]

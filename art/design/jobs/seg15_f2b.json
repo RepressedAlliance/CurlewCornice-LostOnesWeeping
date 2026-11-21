@@ -1,0 +1,25 @@
+[
+ {
+  "prompt": "art/design/prompts/f15_p6b_full.txt",
+  "out": "art/design/out/f15_p6b.png",
+  "ref": [
+   "art/design/../cut/t01_p6.png",
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p1h2_turn_full.txt",
+  "out": "art/design/out/t15_p1h2_turn.png",
+  "ref": [
+   "art/design/out/t15_p1h2.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_sota_b_full.txt",
+  "out": "art/design/out/f15_sota_b.png",
+  "ref": [
+   "art/design/out/f15_sota_a.png"
+  ]
+ }
+]

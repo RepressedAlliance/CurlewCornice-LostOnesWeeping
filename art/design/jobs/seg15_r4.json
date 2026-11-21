@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/t15_p1_turn2_full.txt",
+  "out": "art/design/out/t15_p1_turn2.png",
+  "ref": [
+   "art/design/../cut/t01_p1c.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p9_turn2_full.txt",
+  "out": "art/design/out/t15_p9_turn2.png",
+  "ref": [
+   "art/design/../cut/t01_p9.png",
+   "art/design/../canon/town/p09_yoshida_ren_hoodie.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p1_turn2_full.txt",
+  "out": "art/design/out/t15_p1_turn2b.png",
+  "ref": [
+   "art/design/../cut/t01_p1c.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p9_turn2_full.txt",
+  "out": "art/design/out/t15_p9_turn2b.png",
+  "ref": [
+   "art/design/../cut/t01_p9.png",
+   "art/design/../canon/town/p09_yoshida_ren_hoodie.png"
+  ]
+ }
+]

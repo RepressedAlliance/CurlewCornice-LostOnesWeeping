@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/r16_face_a_full.txt",
+  "out": "art/design/out/r16_face_a.png",
+  "ref": [
+   "art/design/../cut/r00_hold_v3.png",
+   "art/design/board/ref_flat_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_face_b_full.txt",
+  "out": "art/design/out/r16_face_b.png",
+  "ref": [
+   "art/design/../cut/r00_hold_v3.png",
+   "art/design/board/ref_flat_face.png"
+  ]
+ }
+]

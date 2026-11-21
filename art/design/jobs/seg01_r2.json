@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/t01_p1b_full.txt",
+  "out": "art/design/out/t01_p1b.png",
+  "ref": [
+   "art/design/../cut/t01_p1.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r01_follow2_full.txt",
+  "out": "art/design/out/r01_follow2.png",
+  "ref": [
+   "art/design/../cut/r01_side.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t01_p1c_full.txt",
+  "out": "art/design/out/t01_p1c.png",
+  "ref": [
+   "art/design/../cut/t01_p1.png",
+   "art/design/../canon/town/p01_sato_kenta_salaryman.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r01_follow2b_full.txt",
+  "out": "art/design/out/r01_follow2b.png",
+  "ref": [
+   "art/design/../cut/r01_side.png",
+   "art/design/../canon/rin_turnaround.png"
+  ]
+ }
+]

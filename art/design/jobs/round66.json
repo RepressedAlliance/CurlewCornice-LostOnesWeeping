@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/rslip_blink_full.txt",
+  "out": "art/design/out/rslip_blink.png",
+  "ref": [
+   "art/design/out/rslip_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rslip_crack_full.txt",
+  "out": "art/design/out/rslip_crack.png",
+  "ref": [
+   "art/design/out/rslip_master.png"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/r00_mid_c_full.txt",
+  "out": "art/design/out/r00_mid_c.png",
+  "ref": [
+   "art/design/out/r00_cover_d.png",
+   "art/design/out/r00_hold_c.png",
+   "art/design/board/guide_r00_card_mid.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_mid_d_full.txt",
+  "out": "art/design/out/r00_mid_d.png",
+  "ref": [
+   "art/design/out/r00_cover_d.png",
+   "art/design/out/r00_hold_c.png",
+   "art/design/board/guide_r00_card_mid.png"
+  ]
+ }
+]

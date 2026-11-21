@@ -1,0 +1,43 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_open_full.txt",
+  "out": "art/design/out/rin_open.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_master_full.txt",
+  "out": "art/design/out/rlow3_master.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rin_gate_v6_full.txt",
+  "out": "art/design/out/rin_gate_v6.png",
+  "ref": [
+   "art/design/out/rin_gate_v5.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_instructor_v2_full.txt",
+  "out": "art/design/out/g1_instructor_v2.png",
+  "ref": [
+   "art/design/out/g1_instructor.png",
+   "art/design/../ref/card_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g1_officewoman_v2_full.txt",
+  "out": "art/design/out/g1_officewoman_v2.png",
+  "ref": [
+   "art/design/out/g1_officewoman.png",
+   "art/design/../ref/card_master.png"
+  ]
+ }
+]

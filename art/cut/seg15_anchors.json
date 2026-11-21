@@ -1,0 +1,913 @@
+{
+ "_note": "Measured on the seg 15 drawings (drawing px), used by web/scenes/segments/seg_15.js. cx: the body's centre column; lan: the lanyard's two cut ends (code hangs the lower lanyard and the empty clip); len: the clip's drop below them (m, before the layer scale); strings: her strings on the R15_play_d* canvas (bridge end a, neck-joint end b, span px across six strings); closeups: scale, top-left position on screen (px), screen px per metre, lanyard ends / earbud origin in drawing px.",
+ "t15_p4": {
+  "cx": 500,
+  "lan": [
+   [
+    468,
+    560
+   ],
+   [
+    540,
+    560
+   ]
+  ],
+  "len": 0.22
+ },
+ "t15_p5": {
+  "cx": 505,
+  "lan": [
+   [
+    455,
+    580
+   ],
+   [
+    559,
+    580
+   ]
+  ],
+  "len": 0.1
+ },
+ "t15_p8h": {
+  "cx": 505,
+  "lan": null
+ },
+ "t15_p2h": {
+  "cx": 510,
+  "lan": null
+ },
+ "t15_p9h": {
+  "cx": 512,
+  "lan": [
+   [
+    462,
+    680
+   ],
+   [
+    568,
+    680
+   ]
+  ],
+  "len": 0.1
+ },
+ "strings": {
+  "a": [
+   492,
+   1032
+  ],
+  "b": [
+   690,
+   834
+  ],
+  "span": 16
+ },
+ "closeups": {
+  "sota": {
+   "scale": 1.07,
+   "x": 337,
+   "y": -10,
+   "ppm": 3210,
+   "lan": [
+    [
+     578,
+     606
+    ],
+    [
+     678,
+     602
+    ]
+   ],
+   "lanLen": 0.045,
+   "heads": [
+    [
+     883,
+     311,
+     310
+    ]
+   ],
+   "bg": {
+    "x": -386,
+    "y": 50,
+    "scale": 0.85,
+    "heads": [
+     [
+      64,
+      262,
+      200
+     ]
+    ]
+   },
+   "_note": "2026-11-21: f15_sota_a/b redrawn as the 3-year-old in his mother's arm (landscape, the mother running out of the top and right edges): scale 1.07 so the image covers the frame height and its right edge stays outside the frame through the 3% drift"
+  },
+  "p6": {
+   "scale": 1.0,
+   "x": 40,
+   "y": 86,
+   "ppm": 2400,
+   "lan": null,
+   "lanLen": 0.06,
+   "heads": [
+    [
+     760,
+     416,
+     300
+    ]
+   ],
+   "bg": {
+    "x": 1168,
+    "y": 69,
+    "scale": 0.7,
+    "heads": [
+     [
+      1518,
+      230,
+      160
+     ]
+    ]
+   }
+  }
+ },
+ "t15_p1h2": {
+  "cx": 512,
+  "lan": null
+ },
+ "rinOff": {
+  "R15_play_a": [
+   0,
+   0
+  ],
+  "R15_play_b": [
+   -1,
+   0
+  ],
+  "R15_play_c": [
+   -1,
+   0
+  ],
+  "R15_look": [
+   0,
+   -1
+  ],
+  "R15_play_d2": [
+   0,
+   0
+  ],
+  "R15_play_d3": [
+   0,
+   0
+  ],
+  "R15_play_d4": [
+   -1,
+   -1
+  ],
+  "R15_play_e3": [
+   -1,
+   -1
+  ],
+  "R15_strum_1": [
+   0,
+   0
+  ],
+  "R15_strum_2": [
+   -1,
+   -32
+  ],
+  "R15_strum_3": [
+   -1,
+   0
+  ],
+  "R15_strum_4": [
+   -1,
+   -2
+  ],
+  "R15_strum_5": [
+   -4,
+   -3
+  ],
+  "R15_strum_6": [
+   0,
+   -33
+  ],
+  "R15_strum_7": [
+   0,
+   -8
+  ],
+  "R15_strum_8": [
+   -1,
+   -32
+  ],
+  "R15_strum_4b": [
+   0,
+   -7
+  ],
+  "R15_strum_8b": [
+   -1,
+   -32
+  ]
+ },
+ "strings_by": {
+  "R15_play_e3": {
+   "nut": [
+    [
+     782.2,
+     676.4
+    ],
+    [
+     787.9,
+     681.6
+    ],
+    [
+     793.5,
+     686.9
+    ],
+    [
+     799.2,
+     692.2
+    ],
+    [
+     804.8,
+     697.5
+    ],
+    [
+     810.5,
+     702.8
+    ]
+   ],
+   "bridge": [
+    [
+     276.6,
+     1235.2
+    ],
+    [
+     285.6,
+     1244.1
+    ],
+    [
+     294.6,
+     1253.0
+    ],
+    [
+     303.6,
+     1262.0
+    ],
+    [
+     312.7,
+     1270.9
+    ],
+    [
+     321.7,
+     1279.8
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 51.0,
+    "bar_len": 116.0,
+    "bar_hidden_by_hand": false,
+    "landing_seen": true,
+    "board_mids": [
+     [
+      187.9,
+      1.5,
+      51.0
+     ],
+     [
+      112.6,
+      3.5,
+      52.0
+     ],
+     [
+      37.2,
+      6.0,
+      55.0
+     ]
+    ]
+   }
+  },
+  "R15_strum_1": {
+   "nut": [
+    [
+     795.9,
+     681.9
+    ],
+    [
+     801.2,
+     686.9
+    ],
+    [
+     806.4,
+     691.9
+    ],
+    [
+     811.6,
+     696.9
+    ],
+    [
+     816.8,
+     701.9
+    ],
+    [
+     822.1,
+     706.9
+    ]
+   ],
+   "bridge": [
+    [
+     271.9,
+     1233.2
+    ],
+    [
+     280.5,
+     1242.3
+    ],
+    [
+     289.1,
+     1251.4
+    ],
+    [
+     297.7,
+     1260.5
+    ],
+    [
+     306.3,
+     1269.5
+    ],
+    [
+     314.8,
+     1278.6
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 47.5,
+    "bar_len": 94.8,
+    "bar_hidden_by_hand": true,
+    "landing_seen": false,
+    "board_mids": [
+     [
+      197.5,
+      5.0,
+      52.0
+     ],
+     [
+      121.4,
+      5.2,
+      51.5
+     ],
+     [
+      45.4,
+      6.0,
+      54.0
+     ]
+    ]
+   }
+  },
+  "R15_strum_2": {
+   "nut": [
+    [
+     796.1,
+     648.9
+    ],
+    [
+     801.6,
+     654.3
+    ],
+    [
+     807.1,
+     659.7
+    ],
+    [
+     812.7,
+     665.2
+    ],
+    [
+     818.2,
+     670.6
+    ],
+    [
+     823.8,
+     676.0
+    ]
+   ],
+   "bridge": [
+    [
+     275.2,
+     1203.6
+    ],
+    [
+     282.9,
+     1211.3
+    ],
+    [
+     290.7,
+     1218.9
+    ],
+    [
+     298.5,
+     1226.6
+    ],
+    [
+     306.2,
+     1234.2
+    ],
+    [
+     314.0,
+     1241.8
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 51.0,
+    "bar_len": 116.7,
+    "bar_hidden_by_hand": false,
+    "landing_seen": true,
+    "board_mids": [
+     [
+      190.3,
+      2.2,
+      52.5
+     ],
+     [
+      114.2,
+      4.5,
+      53.0
+     ],
+     [
+      38.1,
+      6.8,
+      56.5
+     ]
+    ]
+   }
+  },
+  "R15_strum_3": {
+   "nut": [
+    [
+     796.4,
+     682.4
+    ],
+    [
+     801.8,
+     687.6
+    ],
+    [
+     807.2,
+     692.7
+    ],
+    [
+     812.6,
+     697.8
+    ],
+    [
+     818.0,
+     702.9
+    ],
+    [
+     823.4,
+     708.0
+    ]
+   ],
+   "bridge": [
+    [
+     266.7,
+     1240.0
+    ],
+    [
+     273.5,
+     1250.5
+    ],
+    [
+     280.2,
+     1261.0
+    ],
+    [
+     287.0,
+     1271.5
+    ],
+    [
+     293.7,
+     1282.0
+    ],
+    [
+     300.5,
+     1292.5
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 49.0,
+    "bar_len": 48.4,
+    "bar_hidden_by_hand": true,
+    "landing_seen": false,
+    "board_mids": [
+     [
+      195.7,
+      3.8,
+      52.5
+     ],
+     [
+      119.4,
+      4.5,
+      53.0
+     ],
+     [
+      43.1,
+      5.8,
+      56.5
+     ]
+    ]
+   }
+  },
+  "R15_strum_4b": {
+   "nut": [
+    [
+     795.7,
+     667.8
+    ],
+    [
+     801.2,
+     673.1
+    ],
+    [
+     806.7,
+     678.4
+    ],
+    [
+     812.3,
+     683.7
+    ],
+    [
+     817.8,
+     689.0
+    ],
+    [
+     823.4,
+     694.4
+    ]
+   ],
+   "bridge": [
+    [
+     272.4,
+     1227.5
+    ],
+    [
+     281.1,
+     1236.4
+    ],
+    [
+     289.9,
+     1245.3
+    ],
+    [
+     298.7,
+     1254.2
+    ],
+    [
+     307.5,
+     1263.1
+    ],
+    [
+     316.3,
+     1271.9
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 50.5,
+    "bar_len": 116.7,
+    "bar_hidden_by_hand": false,
+    "landing_seen": true,
+    "board_mids": [
+     [
+      189.8,
+      8.5,
+      54.0
+     ],
+     [
+      113.2,
+      11.0,
+      55.0
+     ],
+     [
+      36.5,
+      13.2,
+      58.5
+     ]
+    ]
+   }
+  },
+  "R15_strum_5": {
+   "nut": [
+    [
+     792.9,
+     672.6
+    ],
+    [
+     798.4,
+     678.0
+    ],
+    [
+     804.0,
+     683.4
+    ],
+    [
+     809.5,
+     688.8
+    ],
+    [
+     815.1,
+     694.2
+    ],
+    [
+     820.6,
+     699.6
+    ]
+   ],
+   "bridge": [
+    [
+     268.7,
+     1237.1
+    ],
+    [
+     276.9,
+     1246.5
+    ],
+    [
+     285.1,
+     1255.9
+    ],
+    [
+     293.3,
+     1265.4
+    ],
+    [
+     301.5,
+     1274.8
+    ],
+    [
+     309.7,
+     1284.3
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 51.0,
+    "bar_len": 88.4,
+    "bar_hidden_by_hand": true,
+    "landing_seen": false,
+    "board_mids": [
+     [
+      196.4,
+      3.2,
+      52.5
+     ],
+     [
+      119.4,
+      6.5,
+      54.0
+     ],
+     [
+      42.5,
+      8.0,
+      56.0
+     ]
+    ]
+   }
+  },
+  "R15_strum_6": {
+   "nut": [
+    [
+     795.9,
+     656.1
+    ],
+    [
+     801.3,
+     661.5
+    ],
+    [
+     806.7,
+     666.8
+    ],
+    [
+     812.1,
+     672.2
+    ],
+    [
+     817.5,
+     677.5
+    ],
+    [
+     822.9,
+     682.9
+    ]
+   ],
+   "bridge": [
+    [
+     270.0,
+     1195.4
+    ],
+    [
+     278.9,
+     1204.2
+    ],
+    [
+     287.8,
+     1213.0
+    ],
+    [
+     296.7,
+     1221.8
+    ],
+    [
+     305.6,
+     1230.6
+    ],
+    [
+     314.5,
+     1239.4
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 50.0,
+    "bar_len": 95.4,
+    "bar_hidden_by_hand": true,
+    "landing_seen": false,
+    "board_mids": [
+     [
+      184.6,
+      3.2,
+      52.5
+     ],
+     [
+      109.3,
+      4.8,
+      52.5
+     ],
+     [
+      34.0,
+      6.8,
+      55.5
+     ]
+    ]
+   }
+  },
+  "R15_strum_7": {
+   "nut": [
+    [
+     790.4,
+     665.7
+    ],
+    [
+     796.2,
+     671.2
+    ],
+    [
+     801.9,
+     676.8
+    ],
+    [
+     807.6,
+     682.3
+    ],
+    [
+     813.4,
+     687.9
+    ],
+    [
+     819.1,
+     693.4
+    ]
+   ],
+   "bridge": [
+    [
+     257.9,
+     1253.1
+    ],
+    [
+     265.9,
+     1262.7
+    ],
+    [
+     274.0,
+     1272.3
+    ],
+    [
+     282.0,
+     1281.8
+    ],
+    [
+     290.0,
+     1291.4
+    ],
+    [
+     298.1,
+     1301.0
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 52.5,
+    "bar_len": 89.7,
+    "bar_hidden_by_hand": true,
+    "landing_seen": false,
+    "board_mids": [
+     [
+      195.7,
+      2.5,
+      53.0
+     ],
+     [
+      116.5,
+      5.0,
+      53.0
+     ],
+     [
+      37.4,
+      8.0,
+      56.0
+     ]
+    ]
+   }
+  },
+  "R15_strum_8b": {
+   "nut": [
+    [
+     795.5,
+     649.0
+    ],
+    [
+     801.1,
+     654.5
+    ],
+    [
+     806.6,
+     660.0
+    ],
+    [
+     812.2,
+     665.6
+    ],
+    [
+     817.7,
+     671.1
+    ],
+    [
+     823.3,
+     676.6
+    ]
+   ],
+   "bridge": [
+    [
+     272.7,
+     1201.7
+    ],
+    [
+     281.7,
+     1210.3
+    ],
+    [
+     290.7,
+     1219.0
+    ],
+    [
+     299.7,
+     1227.7
+    ],
+    [
+     308.8,
+     1236.3
+    ],
+    [
+     317.8,
+     1245.0
+    ]
+   ],
+   "seen": {
+    "nut_bar": true,
+    "board_width_at_nut": 51.5,
+    "bar_len": 116.6,
+    "bar_hidden_by_hand": false,
+    "landing_seen": false,
+    "board_mids": [
+     [
+      187.6,
+      1.5,
+      53.0
+     ],
+     [
+      111.6,
+      4.2,
+      53.5
+     ],
+     [
+      35.5,
+      6.8,
+      57.5
+     ]
+    ]
+   }
+  }
+ },
+ "_note_strings_by": "2026-11-21: her strings measured on each drawing in its own px (work/seg/15/fin/strings_measure.py): nut and bridge ends of all six; drawn with the drawing's own transform only; <name>_cover.png = the hand pixels drawn back over them. The old single \"strings\" entry (measured on R15_play_d1) is no longer used."
+}

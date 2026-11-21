@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/r13h_face_up_full.txt",
+  "out": "art/design/out/r13h_face_up.png",
+  "ref": [
+   "art/design/out/r13h_face.png",
+   "art/design/out/r13f_face_up.png"
+  ]
+ }
+]

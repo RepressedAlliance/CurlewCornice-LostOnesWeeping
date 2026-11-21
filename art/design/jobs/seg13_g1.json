@@ -1,0 +1,22 @@
+[
+ {
+  "prompt": "art/design/prompts/h13g_slap_full.txt",
+  "out": "art/design/out/h13g_slap.png",
+  "ref": [
+   "art/design/board/guide_h13g_slap_big.png",
+   "art/design/out/h13f_slap.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h13g_open1_full.txt",
+  "out": "art/design/out/h13g_open1.png",
+  "ref": [
+   "art/design/board/guide_h13g_open_big.png",
+   "art/design/out/h13f_open.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

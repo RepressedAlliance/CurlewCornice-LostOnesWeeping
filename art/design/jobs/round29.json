@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_card_closeup2_full.txt",
+  "out": "art/design/out/rin_card_closeup2.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/ref_tmp/card_blank_ref.png"
+  ]
+ }
+]

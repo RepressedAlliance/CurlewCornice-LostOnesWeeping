@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/R16_final6_e_full.txt",
+  "out": "art/design/out/R16_final6_e.png",
+  "ref": [
+   "art/design/../cut/R16_final.png",
+   "art/design/../../work/seg/16/v6/ref/code_cabinet.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R16_final6_f_full.txt",
+  "out": "art/design/out/R16_final6_f.png",
+  "ref": [
+   "art/design/../cut/R16_final.png",
+   "art/design/../../work/seg/16/v6/ref/code_cabinet.png"
+  ]
+ }
+]

@@ -1,0 +1,49 @@
+[
+ {
+  "prompt": "art/design/prompts/r11_cb_full.txt",
+  "out": "art/design/out/r11_cb.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/hpen3.png",
+   "art/design/board/guide_seg11_cb.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p11_trio_full.txt",
+  "out": "art/design/out/p11_trio.png",
+  "ref": [
+   "art/design/../canon/town/p05_watanabe_sho_gakuran.png",
+   "art/design/../canon/town/p02_tanaka_misaki_officeworker.png",
+   "art/design/../canon/town/p06_yamamoto_sakura_student.png",
+   "art/design/board/guide_seg11_trio.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r11_row_full.txt",
+  "out": "art/design/out/r11_row.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/board/guide_seg11_row.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h11_write_full.txt",
+  "out": "art/design/out/h11_write.png",
+  "ref": [
+   "art/design/../cut/hpen3.png",
+   "art/design/../cut/h08b_snap.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/m11_reader_top_full.txt",
+  "out": "art/design/out/m11_reader_top.png",
+  "ref": [
+   "art/design/../canon/card_reader_cutaway.png",
+   "art/design/../canon/machine_big_eraser.png"
+  ]
+ }
+]

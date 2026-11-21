@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_ochi_mid_a_full.txt",
+  "out": "art/design/out/rface_ochi_mid_a.png",
+  "ref": [
+   "art/design/out/rface_ochi.png",
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_mid_b_full.txt",
+  "out": "art/design/out/rface_ochi_mid_b.png",
+  "ref": [
+   "art/design/out/rface_ochi.png",
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ }
+]

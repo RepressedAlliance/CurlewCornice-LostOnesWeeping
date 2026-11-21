@@ -1,0 +1,3 @@
+Redraw the first attached design sheet exactly: the gold-top Les Paul in front, side and back views and the black padded gig bag, with the same layout, sizes, colours and clean drawing style, pure white background, no text. Fix only these two things:
+1. Hardware: give the guitar a Tune-o-matic bridge with a separate stopbar tailpiece behind it (two separate metal pieces), exactly like the guitar played in the second attached image, instead of the single wraparound tailpiece.
+2. The side view of the headstock: on a Les Paul the six tuning machines stick out sideways from the two side edges of the headstock, three on each edge, so in a side view the tuner buttons point toward and away from the viewer and are seen end-on; nothing sticks out from the back of the headstock.

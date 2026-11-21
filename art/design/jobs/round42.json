@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/g5_salaryman_look_k_full.txt",
+  "out": "art/design/out/g5_salaryman_look_k.png",
+  "ref": [
+   "art/design/out/g5_salaryman_on_k2.png"
+  ]
+ }
+]

@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/hpen_hov2_full.txt",
+  "out": "art/design/out/hpen_hov2.png",
+  "ref": [
+   "art/design/out/hpen_m.png"
+  ]
+ }
+]

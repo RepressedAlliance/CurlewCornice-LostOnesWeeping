@@ -1,0 +1,29 @@
+[
+ {
+  "prompt": "art/design/prompts/rslip_master_a_full.txt",
+  "out": "art/design/out/rslip_master_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rface_mb2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rslip_master_b_full.txt",
+  "out": "art/design/out/rslip_master_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rface_mb2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rslip_master_c_full.txt",
+  "out": "art/design/out/rslip_master_c.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rface_mb2.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

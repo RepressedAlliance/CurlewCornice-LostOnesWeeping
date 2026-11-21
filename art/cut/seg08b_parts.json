@@ -1,0 +1,12 @@
+{
+  "note": "seg_08b parts (web/lib/parts.js), each in its own drawing's px, measured 2026-11-21 (work/seg/08b/parts/measure.py, fix.py: the same section fit as parts.js measureAxis). r08b_snapc.stub: the snapped stub's centreline, back (into the fist) then tip (the top of the break, where the front half comes off); the front half and the bits leave from its tip along it. p08b_front.body: the flying front half's own centreline, back (the torn end, where the body begins) then tip (the point); centre: the point on that axis it spins about. Hands: the drawn pencil point (h08b_pull is registered on h08b_write's canvas; its own drawn point is used for where it writes).",
+  "r08b_snapc": {
+    "stub": { "axis": [[275.01, 655.78], [253.93, 607.15]] }
+  },
+  "p08b_front": {
+    "body": { "axis": [[66.0, 68.04], [380.0, 71.28]], "centre": [194.5, 69.37] }
+  },
+  "h08b_write": { "tip": { "point": [213, 163] } },
+  "h08b_pull": { "tip": { "point": [469, 231] }, "canvas": { "point": [213, 163] } },
+  "h08b_scrawl": { "tip": { "point": [213, 162] } }
+}

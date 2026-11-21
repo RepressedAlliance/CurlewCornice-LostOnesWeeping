@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/r11_cb_grip_full.txt",
+  "out": "art/design/out/r11_cb_grip.png",
+  "ref": [
+   "art/design/out/r11_cb.png"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/r09_strike_full.txt",
+  "out": "art/design/out/r09_strike.png",
+  "ref": [
+   "art/design/../cut/r09_play_lit.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r09_strike_t2_full.txt",
+  "out": "art/design/out/r09_strike_t2.png",
+  "ref": [
+   "art/design/../cut/r09_play_lit.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

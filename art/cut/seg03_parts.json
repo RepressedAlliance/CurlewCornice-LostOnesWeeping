@@ -1,0 +1,189 @@
+{
+ "_note": "seg_03 parts, per drawing, in that drawing's own px (web/lib/parts.js; 根因清单「笔芯和笔不对了……」2026-11-21). quad = card corners TL, TR, BR, BL (a card face is printed through them); box = [x, y, w, h] of a drawn card back or name field that code prints over; ends = the drawn lanyard's columns at the drawing's top edge, carried up by code; point = a contact (the pencil tip hand.js places; the lanyard's clip a hanging card covers); anchor = the point code places the drawing by. Measured 2026-11-21 (upC clip: centre of the drawn clip ring; drop3 clip: the lanyard's V tip).",
+ "h03_hold": {
+  "card": {
+   "quad": [
+    [
+     290,
+     137
+    ],
+    [
+     1246,
+     137
+    ],
+    [
+     1246,
+     774
+    ],
+    [
+     290,
+     774
+    ]
+   ]
+  },
+  "strap": {
+   "ends": [
+    [
+     757,
+     2
+    ],
+    [
+     780,
+     2
+    ]
+   ]
+  }
+ },
+ "h03_pen": {
+  "tip": {
+   "point": [
+    378,
+    401
+   ]
+  }
+ },
+ "h03_tap_rin": {
+  "card": {
+   "quad": [
+    [
+     142,
+     263
+    ],
+    [
+     882,
+     263
+    ],
+    [
+     882,
+     779
+    ],
+    [
+     142,
+     779
+    ]
+   ]
+  },
+  "anchor": {
+   "point": [
+    512,
+    521
+   ]
+  }
+ },
+ "r03_peer3": {
+  "cardBack": {
+   "box": [
+    441,
+    730,
+    133,
+    67
+   ]
+  }
+ },
+ "r03_flinch2": {
+  "cardBack": {
+   "box": [
+    441,
+    728,
+    135,
+    67
+   ]
+  }
+ },
+ "r03_drop3": {
+  "clip": {
+   "point": [
+    516,
+    844
+   ]
+  }
+ },
+ "r03_upC": {
+  "clip": {
+   "point": [
+    520,
+    1204
+   ]
+  }
+ },
+ "h03_tap_p1": {
+  "anchor": {
+   "point": [
+    512,
+    448
+   ]
+  },
+  "name": {
+   "box": [
+    238,
+    272,
+    606,
+    62
+   ]
+  }
+ },
+ "h03_tap_p3": {
+  "anchor": {
+   "point": [
+    513,
+    449
+   ]
+  },
+  "name": {
+   "box": [
+    228,
+    275,
+    628,
+    62
+   ]
+  }
+ },
+ "h03_tap_p6": {
+  "anchor": {
+   "point": [
+    506,
+    461
+   ]
+  },
+  "name": {
+   "box": [
+    258,
+    314,
+    555,
+    55
+   ]
+  }
+ },
+ "h03_tap_p7": {
+  "anchor": {
+   "point": [
+    527,
+    456
+   ]
+  },
+  "name": {
+   "box": [
+    266,
+    294,
+    580,
+    58
+   ]
+  }
+ },
+ "h03_tap_p8": {
+  "anchor": {
+   "point": [
+    512,
+    423
+   ]
+  },
+  "name": {
+   "box": [
+    242,
+    247,
+    602,
+    60
+   ]
+  }
+ }
+}

@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/t15_p4_full.txt",
+  "out": "art/design/out/t15_p4.png",
+  "ref": [
+   "art/design/../canon/town/p04_ito_ryo_cramschool.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/t15_p5_full.txt",
+  "out": "art/design/out/t15_p5.png",
+  "ref": [
+   "art/design/../canon/town/p05_watanabe_sho_gakuran.png"
+  ]
+ }
+]

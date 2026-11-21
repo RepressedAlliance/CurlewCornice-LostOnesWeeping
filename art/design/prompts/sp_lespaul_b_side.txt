@@ -1,0 +1,9 @@
+Redraw the first attached design sheet exactly: the same three views of the same gold-top Les Paul, the same layout, sizes, positions, colours, line work, the same fully TRANSPARENT background (PNG alpha). The FRONT view and the BACK view stay exactly as they are, line for line. Change only the middle SIDE view, so it is a correct edge-on profile of a Les Paul seen from its bass side (face of the guitar toward the viewer's LEFT):
+- the BACK of the body (the viewer's right edge of the body in this view) is one STRAIGHT vertical line from the tail to the neck heel: a Les Paul back is flat, it has no waist in profile;
+- the side is one even dark-brown band about 5.5 cm thick along its whole length, with no darker block or step in the middle;
+- along the left edge: the cream binding line, and above it the gold carved top rising in a gentle low arch, highest near the bridge; the knobs, toggle switch, the two pickups, the bridge and the strings stand up from the top in profile;
+- the neck leaves the body tilted back a few degrees; the headstock is angled back about 15 degrees; the three tuning keys on this edge of the headstock point toward the viewer, their cream buttons seen end-on as small ovals in a row along the headstock;
+- strap buttons at the tail end and at the upper horn.
+Drawing: the same hand as the attached character turnaround (her design sheet): clean modern Japanese anime model-sheet illustration, crisp even dark-grey outlines (a little heavier on the outer contour), flat colours with exactly one hard-edged shadow tone per material and at most one small hard highlight shape on metal or lacquer, simple shapes, few inner lines, no gradients, no airbrush, no glow, no blur, no texture, no photographic rendering, no 3D-render look.
+No captions, no labels, no title, no logos, no watermark.
+Absolutely no red, pink or orange (the only warm colour is the gold top and gold knobs) anywhere.

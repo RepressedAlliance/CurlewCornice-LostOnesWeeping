@@ -1,0 +1,256 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "url": "web/scenes/sheet.html",
+  "audio": "input/song.flac",
+  "note": "Frames are global at 30 fps: frame g shows song time g/30 s. Each segment covers [f0, f1); t0 = f0/30. Fill the full table once the storyboard is fixed. tools/segments.py check / table; tools/render_film.py; tools/assemble_film.py.",
+  "segments": [
+    {
+      "id": "seg_00",
+      "page": "page=seg_00",
+      "f0": 0,
+      "f1": 98,
+      "t0": 0.0,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "00 开头音型 k0-k8, design 丙 (redone after the independent review; design 甲 in archive/seg00_v2_20261120/); framing preset FRAMING in web/scenes/segments/seg_00.js (seg 16 mirrors it); drawings art/cut/r00_cover_v3, r00_mid_v3, r00_hold_v3; film work/seg/00/seg_00.mp4; 2026-11-21 rhythm pass: answer bands slam on every guitar hit (k1 k2 k2.5 k3 k4.5 k5 k6), camera steps k1-k3 and k5-k6 instead of drift/push, 10 px dip on k4, k7 punch 3% decaying into the cut (pre-pass copy archive/seg00_v3_beforerhythm_20261121/); review fix 2026-11-21: half-beat hits k2.5 (full camera step, card zoom now to 1.264) and k4.5 (1.2% punch, 2 frames in / 4 back; the k4 dip ends before it, no rebound) react on camera, fronts re-set on bubble columns so the k2.5 / k4.5 bands hold 4 / 3 columns (work/seg/00/hit_response.py: all 11 hits react in the 192x108 coarse test); 2026-11-21 motion + parts pass (docs/制作约定.md 第六节「整屏运动」, parts.js): the frame moves only on k0 (crash-in 2.8% from a framing already close on the card, one-way, 大击) and k7 (punch 2.7%, one-way, held to the cut, 大击) plus a slow eased pull-back k1-k4 (not a jolt); all camera steps, the k0 sink, the k4 dip and the k4.5 punch removed; k1-k3 carried by the answer slams, k4.5/k5/k6 by every answer on the wall throbbing; card corners per drawing in art/cut/seg00_parts.json (PART AUDIT); MOTION AUDIT 2 jolts 0 problems (pre-pass copy archive/seg00_v4_beforemotion_20261121/)"
+    },
+    {
+      "id": "seg_01",
+      "page": "page=seg_01",
+      "f0": 98,
+      "f1": 410,
+      "t0": 3.2666666666666666,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "01 前奏riff前半 k8-k36, design 甲 finished after the blind review of the samples (docs/分镜/01_前奏riff前半.md, 细做改定); rhythm pass 2026-11-21 (节奏改定: truck in beat steps, cards jump on print, snare kicks, k24 dip, k33-35 push steps; review fix 2026-11-21: k27/29/31 snare zoom kicks 2%, k28/30/32 dips 6/5/7 px with the printed cards jumping; old film in archive/seg01_before_rhythm_20261121/); film work/seg/01/seg_01.mp4; third pass 2026-11-21 (整屏运动, 制作约定 第六节): beat steps, snare kicks and all dips removed, k8-k24 one even truck, k24 the one 大击 (stop + 2.8% one-way push-in), k27-k36 one slow push to 1.5x, cards still jump in frame (k28/30/32, k33-35); lanyard ends per drawing from art/cut/seg01_parts.json via parts.js (r01_side/turn/follow2 each measured); MOTION AUDIT 1 jolt 0 problems, PART AUDIT 10 parts 0 problems; pre-pass page work/seg/01/seg_01_before_r3.js"
+    },
+    {
+      "id": "seg_02",
+      "page": "page=seg_02",
+      "f0": 410,
+      "f1": 454,
+      "t0": 13.666666666666666,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "02 急停 k36-k40, design 甲 finished after the blind review of the samples (sample page archive/seg02_sample_20261120/): pull-out k36-k37 to the wide (0.62x), the 回送 car pulls away and clears the frame on k38, three stab steps x1.35/x1.8/x2.4 about her chest (cards and camera on the stab frame; until 2026-11-21 the camera stepped a frame later on stabs 2 and 3); lanyard-free redraws art/cut/s02b_p3, p6, p7, p8, p2 swap in on stab 1 (art/design/prompts/_make_seg02b.py); 2026-11-21 review: k38 small push 0.62 -> 0.645 in two frames (f432-f433), dead still from f434 when the riff cuts out (14.465 s) instead of from k37; film work/seg/02/seg_02.mp4; third round 2026-11-21 (docs/制作约定.md 第六节「整屏运动」, user: 「一直抖动屏幕……看着很晕」): the k36 pull-out is a registered whip, a snap in half a beat (f410-f413, ease-out power 5, 180-degree shutter of 16 samples), dead still from k36.5 to the cut; the k38 push and the three stab camera steps are gone, the stabs are the row's cards yanked toward her in the still wide, k38 every card in the row flashes (read) and hers does not; lanyard ends from art/cut/seg02_parts.json per drawing (web/lib/parts.js; her card from r01_follow2's own ends), MOTION AUDIT 0 problems, PART AUDIT 57 checks 0 problems; previous page work/seg/02/seg_02.before_motion_20261121.js, frames work/seg/02/frames_prev_r2_20261121"
+    },
+    {
+      "id": "seg_03",
+      "page": "page=seg_03",
+      "f0": 454,
+      "f1": 798,
+      "t0": 15.133333333333333,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "03 片名・検票口 k40-k71, version 3 (2026-11-21) after the second review (v2 film in archive/seg03_v2_before_fix3_20261121/; v1 in archive/seg03_v1_before_hall_redo_20261121/). Her card defines the film's card state, docs/卡面状态.md (band inside the name field right of 氏名; ロストワン bold 16-dot in the 学籍番号 rows, の号哭 in the 偏差値 rows, right of the labels; grid pressed to 22% with a halo). k45 the camera pushes into the answer area (x2.3) for the title card; the hall's halftone is drawn prefiltered (no moire). k40-k48 title in her view; k48-k56 the two readers; k56-k71 the hall redone as 14/15's set (answer-sheet wall, clock, graphite flaps slam k60 with jolt and a step in, card drops k64, r03_upC k68, three steps to the 0.90-1.68 m chest-up). Drawings art/cut/r03_peer3, r03_flinch2, r03_drop3, r03_upC (art/design/prompts/_make_seg03e.py); film work/seg/03/seg_03.mp4 Rhythm pass 2026-11-21 (v3 film in archive/seg03_v3_before_rhythm_20261121/): the hall moves only in steps on the beat (1.5% on k57-k59 with the wall's answer rows marked one a beat, the k60 slam, 1.3% on k61-k63), k64 the card drops in 3 frames with a dip and a 2% hit, the three heavy kicks k65-k67 are the three steps in (1.56->1.79->2.05->2.69), k67 r03_upC (she looks up), k68-k71 still; [superseded] Fill pass 2026-11-21 (v4 film in archive/seg03_v4_before_fill_20261121/; review: k68-k71 is the intro's loudest bar, a sixteenth fill, not a drop-out): kick steps k65/k66 x1.05, k67 x1.076; k68 bar line the biggest step x1.22 (punch) and the swap to r03_upC (drop3 k64-k68, upC k68-k71); fill steps x1.06 on k69/k70 and 2% nudges on k68.5/k69.5/k70.5, end frame unchanged (x2.69); her reader's slip feeds out one more もう一度 block on each half beat k68.5-k70.5; the readers' pads light on every press. Motion pass 2026-11-21 (user: 一直抖动屏幕、看着晕; docs/制作约定.md 第六节 整屏运动; pre-pass copy archive/seg03_v5_before_motion_20261121/): all frame steps, the k60 knock-down, k64 dip/hit and fill nudges removed; eased pushes k57-k60 (1->1.45), k60-k68 (->2.00), k68.5-k71 (->2.20); jolts only k45 whip (title push), k60 1.3% step, k68 大击 3.5% one-way; the fill is in the picture (her reader feeds/flashes, timing marks printed on the wainscot on k68 and each half beat). Code parts from art/cut/seg03_parts.json via web/lib/parts.js (per-drawing clip for drop3/upC). MOTION AUDIT 0 problems, PART AUDIT 21 parts 0 problems. k40 card-and-hand sink now one way (9 px, stays) instead of 20 px and back (motion_fit read it as a 1.05% whole-frame jolt)."
+    },
+    {
+      "id": "seg_04",
+      "page": "page=seg_04",
+      "f0": 798,
+      "f1": 1165,
+      "t0": 26.6,
+      "lyrics": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "status": "self-checked",
+      "note": "2026-11-21 round 10 (第二版反馈: 整屏晃晕 / 笔芯和笔不对): camera glides only (eased push k72-k79 after the lead, k79-k84 onto the stab, still k84-k88, eased pull k89-k92; S2 one eased push k92-k100; S3 one eased push k100-k104), hit twice: k72 ordinary one-way kick 1.4% zoom (0.85% of the width), k88 大击 one-way 3.5% (2.05%); no dips, punches, figure bounces; beat inside the frame (lead clicks, hand steps, crush, black steps, flood, swap, cuts). MOTION AUDIT 2 jolts 0 problems. Lead from art/cut/seg04_parts.json via web/lib/parts.js (sleeve-mouth centre, barrel direction, same placement as the hand drawing), card holder quads per drawing; PART AUDIT 7 parts 0 problems. Previous page/film archive/seg04_before_r10_20261121/. | 2026-11-21 rock pass: camera in steps on the beats (k72-k78 a step per click, k72 crash the biggest step 0.26 + 5% punch + 8 px dip, film +7.4% / diff 13.9 vs <=3.6% / <=10.6 on k73-k78; k79-k84 a step a beat in; k86 still, k87 one small step back 2.4->2.3; k88 crash (loudest of the segment) 11% punch + 12 px dip with no pull on its frame, film +8.1% / diff 27.8, the biggest of k80-k91; black bursts in 3 frames; k89-k91 pull steps to 1.95x, smallest first; 2026-11-21 crash fix, pre-fix copy archive/seg04_before_crashfix_20261121/); k85 crush and k92 burst dip instead of random shake; S2 push in steps on k93/95/97/99; S3 fill steps k101/102/103/103.5 with black steps, into the k104 cut; sung letters whole on their onset frame (LYRIC AUDIT 0 late). 04 A1 k71-k104, round 9 (docs/分镜/04_A1.md 第 5 稿): S1 her card back, lead pushed out 7 clicks, stab, crush k85, black runs off the card k91 (unchanged); S2 k92 hard cut to her close (face 27%), the black floods behind her, P4a s04a_zip (k92), P4b s04a_half (k95, the gold out) (unchanged); S3 k100 cut on the action to s04d_shoulder: as close as S2 from the other side, the guitar carried on her shoulder like a bat (fist at the headstock end), lands with a dip, push 1.005->1.10 keeping the top, k102 black step + heft; prompts art/design/prompts/_make_seg04_r8.py, _make_seg04_r9.py; anchors art/cut/seg04_r8_anchors.json; film work/seg/04/seg_04.mp4"
+    },
+    {
+      "id": "seg_05",
+      "page": "page=seg_05",
+      "f0": 1165,
+      "f1": 1510,
+      "t0": 38.833333333333336,
+      "lyrics": [
+        5
+      ],
+      "status": "self-checked",
+      "note": "05 riff「ノーフィクション」k104-k135, design 乙 (she faces the wall) finished after the blind review of the two samples (archive/seg05_sample_20261120/; docs/分镜/05_riff_ノーフィクション.md, 細做改定): S1 closer back view with the travelling ring swing, glyphs 7 x 10 cards, the blows (jolt, spin, smear, camera jolt, first-hit flash), S4 acting k116 s05_ots / k118 s05_strike / k124 s05_throw, cold smirk s05_cold, S6 unique names and a corner-only torn card; drawings art/cut/s05_*.png (art/design/prompts/_make_seg05.py rounds 1-6); film work/seg/05/seg_05.mp4; 2026-11-21 rhythm and lyric pass (docs/分镜/05_riff_ノーフィクション.md, 节奏与歌词改定): blows start the frame before each onset's frame and read on it (no jolt), camera steps / hits / dips on the beats instead of eased pushes and random shake, k120 crash flash, the wall shudders k120-k127, S5 three kick steps to k134, S6 cut on the k134 gap; previous version archive/seg05_before_rhythm_20261121/; 2026-11-21 third pass (docs/分镜/05_riff_ノーフィクション.md, 整屏运动与部件改定): camera down from 19 whole-frame jolts to 2 one-way 大击 (k104, first blow ノ) plus slow pushes (MOTION AUDIT 0 problems); S2 strings measured on s05_pluck per string (art/cut/seg05_parts.json, s05_pluck_cover.png) and drawn through web/lib/parts.js, S1 shadows on measured soles (PART AUDIT 12/0); previous version archive/seg05_before_motion_20261121/"
+    },
+    {
+      "id": "seg_06",
+      "page": "page=seg_06",
+      "f0": 1510,
+      "f1": 1910,
+      "t0": 50.333333333333336,
+      "lyrics": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "status": "self-checked",
+      "note": "06 A2 k135-k171 (Demo 1 v15 put back, docs/分镜/06_A2.md 第 3 稿); replaces demo1_a2v4. Page time = 50.05 + (g - 1501)/30 (v15 frame = g - 1501). Frames 1510-1864 identical to page=a2v4 rendered by the same renderer (work/seg/06/diff_v15.py work/seg/06/a2v4_now: 355/355, max 0); against the 2026-11-19 files work/a2v4/v15 they differ by sub-pixel anti-aliasing over the whole page (bubble outlines, the 鏡音リン name, the hand's outline, the paper fibres, the print dots; max channel difference 72-107 on 7 sampled frames), invisible side by side at 2x; page=a2v4 re-rendered today differs from v15 the same way, so it is the rendering environment, not the code: an accepted deviation from 06_A2.md 验收 1. Changed: start at k135 (bass gap), tail k167-k171 (paper feed 80 px, even camera move down 585 px, peak 14.5 px/frame, line 10 本日の宿題は light print on the lengthened slip (no sprocket holes), reader's paper exit drawn as a plain slot with a lip, no print head), no k168 jolt (改定 2); 2026-11-21 card unification: no card of hers or anyone else on screen in 06 (her_card.js not needed); the last 不正解 (エ) slams about its bottom centre so its hit frame g1743 no longer runs out of the bottom edge (SLAM AUDIT 12 frames, 0 overlaps, 0 cut; frames 1743-1745 are the only change against a2v4_now, 352/355 identical); film work/seg/06/seg_06.mp4; 2026-11-21 rhythm/lyric pass (user: rock rhythm, lyrics a little slow): sung characters gated on film time g/30 (pencil via print.js sungBuild, slip lines 9-10 via sungOn), all 59 read on their onset frame (work/seg/06/lyric_probe.json, was +23 ms mean / 1-2 frames late); punches on the crashes k136 (1.5%) and k152 (2%); tail: k167 feed + 100 px camera step, still through the fill, k168 crash starts the move (16 px/frame, same 585 px, k171 frame unchanged); before this pass: archive/seg06_before_rhythm_20261121/; motion pass 2026-11-21 (user, second cut: 一直抖动屏幕、看着很晕; 制作约定 第六节「整屏运动」; previous page and film archive/seg06_before_motion_20261121/): no punch on k136, no shake on エ, k152 a registered 大击 (2% zoom in 2 frames, back over 16 frames eased), the slip enters on the k159 cut already rising and eases out (was a 7.4% start-up jolt), tail: an eased 130 px drift k166-k168 replaces the k167 100 px step (「本」 still in frame on f1869), the move sets off on the crash k168 (registered 大击, 3 frames to speed, same 585 px and k171 frame); MOTION AUDIT 2 jolts (k152 1.09%, k168 1.87%, both 大击), 0 problems; hand placed by the pencil point measured on hpen3 (art/cut/seg06_parts.json, parts.js partOf), PART AUDIT 2 parts, 0 problems"
+    },
+    {
+      "id": "seg_07",
+      "page": "page=seg_07",
+      "f0": 1910,
+      "f1": 2221,
+      "t0": 63.666666666666664,
+      "lyrics": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "status": "self-checked",
+      "note": "07 前副歌1 k171-k199, design 甲 finished after the blind review of the samples (sample page archive/seg07_sample_20261120/): one take card -> room -> her. k171-k175 her 自己紹介カード on the cork board with the strip of 06's slip (本日の宿題は at 06's on-screen size), 句11 printed in テーマ, two 特になし labels printed over her pencil (k173, k174 larger and ruled), push x1.3; k175 quick pull to the window (2% overshoot); 句12 on the poster, 満 k177-k179; k191-k192 the note and its leader fade out together; glass words cast a faint shadow, reflections behind both columns; mouth one step wider (art/cut/r07_say2, _make_seg07.py round 8); calendar black on k190.5 (k190 comparison work/seg/07/black_k190.mp4); v4 (2026-11-21) new master r07b_sit with her card on her chest; v5 (2026-11-21) turn/look/say redrawn high-res (r07c_*, _make_seg07.py round 10): head lifted, gaze up and out over the camera; v6 (2026-11-21) her chest card is web/lib/her_card.js state title warped through each drawing's measured holder corners (work/seg/07/card/holder_quads.json), halftone screen prefiltered at screen scale (moire, work/seg/07/moire_check07.py); frames_v6; v7 (2026-11-21 rhythm pass, user: rock, picture with the beat; lyrics a little late): sung letters whole on their onset frame (sungBuild; LYRIC AUDIT 60/0 late, in frame), 満 k177-k179 slam 1.3x->1x in 3 frames with a straight dip (5/6/7 px) and kick (1-1.5%), crash k184 kick 1.5%, calendar drift k184-k190 -> steps k186 (small) and k188 (bar, + kick 1%), snare k189 kick 1%, close-up push k196-k199 -> four growing steps k196/k197/k198/k198.5 (log zoom 1:1.5:2:2.5, 4 frames each) with kicks 1/1.5/2/2.5%; black stays on k190.5; old page archive/seg07_v6_before_rhythm_20261121/, drum check work/seg/07/rhythm_check07_v7.txt (beats with a response 8/28 -> 16/28); v8 (2026-11-21, 第二版反馈「一直抖动屏幕……很晕」, docs/制作约定.md 第六节 整屏运动): all steps, kicks, dips and the k190.5 punch removed; camera = k171-172 still, k172-175 one slow push into 長所/短所, k175 registered whip (quartic ease-out, no overshoot), still k176-179 (満 slams on the stamp only), k179-184 one move to her+note+calendar, k184-191 2% drift, k191-198 one move back to her into the close-up, still k198-199; the fill k196/197/198/198.5 is four pencil side lines (傍線) beside 悲しい and 淋しい; MOTION AUDIT 1 jolt (the whip), 0 problems. Her card window anchors moved to art/cut/seg07_parts.json, drawn through one parts.js placement per drawing, PART AUDIT 12 checks 0 problems. old page archive/seg07_v7_before_motion_20261121/; film work/seg/07/seg_07.mp4 (frames_v8)"
+    },
+    {
+      "id": "seg_08a",
+      "page": "page=seg_08a",
+      "f0": 2221,
+      "f1": 2587,
+      "t0": 74.03333333333333,
+      "lyrics": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "status": "self-checked",
+      "note": "2026-11-21 third pass (motion: 制作约定 第六节 整屏运动): the rhythm pass's step pushes, hits and dips removed; Q1/Q2/shout are slow eased pushes again; one 大击 k200 (one-way step), one whip k215->k216 into the こころ oval (3.55x), one eased pull back k217->k223 (corner accel <= 2.7 px/frame^2); white words broken その心を / 黒く染めたのは so each is in frame on its onset; MOTION AUDIT 2 jolts 0 problems; parts per drawing from art/cut/seg08a_parts.json (card window, clip), PART AUDIT 9 checks 0 problems; previous film archive/seg08a_before_motion3_20261121/ (mp4 only). 08a 副歌1前半 k199-k232 (Demo 2 v15 put back, docs/分镜/08a_副歌1前半.md 第 3 版); replaces demo2_c1a. Middle identical to page=c1a rendered by the same renderer (work/seg/08a/compare_v15.py ref seg); changed: one-sink budget (改定 2; 憂鬱 not shown before k200 and whole on frame 2232, 正解 whole on frame 2299, no punch or shake), header set in, nameless classmate card, her chest card state (改定 15), big eraser k231 (web/lib/big_eraser.js, shared with 08b); line 22 only its first syllable そ; film work/seg/08a/seg_08a.mp4; 2026-11-21 rhythm pass: beat step pushes on Q1/Q2, hits and vertical dips on the drums (k200, k203-k206, k208-k214, k224, k225, k228-k230), 正解 slams; その心 is her pencil writing in the こころ row (LYRIC AUDIT 0 late); the black burst and its steps k217-k222 land like the hits (62% on the beat's frame, 92% on the next; frame diff +0 on every one, work/seg/08a/rhythm/black_step_check.py); previous version archive/seg08a_before_rhythm_20261121/"
+    },
+    {
+      "id": "seg_08b",
+      "page": "page=seg_08b",
+      "f0": 2587,
+      "f1": 2943,
+      "t0": 86.23333333333333,
+      "lyrics": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "status": "self-checked",
+      "note": "08b 副歌1后半 k232-k264, design 乙 finished after the blind review of the samples (docs/分镜/08b_副歌1后半.md 第 12 节; sample page archive/seg08b_sample_20261120/): 数学 page one take (big eraser k232-k233 from web/lib/big_eraser.js, 9-rod abacus sets 4194 k234-k237, light 4194 + 正解 k238, slide down k239 to 問四, 知恵の輪 panels k240-k243, loop arrow + reading frame k244-k245, 解けません the one sink k246); 進路 page k247: her hand hovers over her はい while rings of 「名前　はい」 close in (k248-k251), k253 the row goes solid black round her oval and she jerks the pencil back (h08b_pull), writes おいどうすんだよ in 理由 (h08b_scrawl); k259 the only cut to her face (r08b_grip, whole pencil in her fist), もうどうだって / いいや rubbed out white, k262 the pencil snaps (r08b_snapc), the front half spins out left; film work/seg/08b/seg_08b.mp4; rhythm/lyric pass 2026-11-21 (docs/分镜/08b_副歌1后半.md 第 13 节): おいどうすんだよ write-ons end on each onset's frame (sungSweep, LYRIC AUDIT 58/0 late); camera in beat steps and deterministic hits (abacus k234-k237, 正解 stamp k238, whip slide k239 now really slides, panel step-ins k241-k243, step out k244, 解けません 3% + 12 px dip k246, push steps k248-k253, k255/k256/k257, face k260/k261, snap k262 paper flash + 3% + 10 px dip); frames work/seg/08b/frames_rh; beats with a picture response 31/32 (was 14/32); push-out fix 2026-11-21 (review MUST, 根因清单 12 S4 / 08b row): the push steps stopped k249-k251 on the page edge text cut (進路, test name, 注意 notes, 得点); page text is whole only at e<=0.061 and all out from e>=0.692, so k248 (crash) is one snap step to 0.72 that takes it all out on the step's first frame (f2766), k249-k253 ratchet 0.77/0.825/0.88/0.94/1.0; frameCheck now registers the page sheet on every push frame by its view + PUSH-OUT AUDIT (0 cut frames); 注意 header drawn teal (fill/stroke were left over from 得点); frames work/seg/08b/frames; pre-fix source work/seg/08b/seg_08b.js.before_pushout, film seg_08b_before_pushout.mp4; 第三轮 2026-11-21 (整屏运动 + parts.js): all camera steps, hits, dips and the snap shake removed; the camera now moves 3 times (k239 slide = registered whip, k246 解けません and k262 snap = 大击, one-way 3% steps in 3 frames), eased pushes k232-k239 and k240-k246, the 進路 shot opens on the k247 cut at 1.72 on (965, 490) (between 得点 and 注意: no edge furniture or text cut), still to k254, eased move k254-k258 to the 理由 box; MOTION AUDIT 3 jolts 0 problems; front half and bits leave from r08b_snapc's own measured stub (art/cut/seg08b_parts.json), hands by their drawn points; PART AUDIT 5 parts 0 problems; frames work/seg/08b/frames3, pre-change source work/seg/08b/seg_08b.js.before_motion3"
+    },
+    {
+      "id": "seg_09",
+      "page": "page=seg_09",
+      "f0": 2943,
+      "f1": 3287,
+      "t0": 98.1,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "09 间奏riff k264-k295, design 甲 (black mountain); k264-k281 unchanged. k282-k295 redesigned 2026-11-21 (09 分镜 第 12 节, after the second failed review): night is darkness, light comes only from real things lit by the lamp out of frame right. k282-k284 the sky, the gaps and the unlit paper of the backs fall to a graphite-dark night (white wedges stay full white until they flip), k284 one textured black wall; zoom eases to 5.1 m so the sky is a ~7% dark band; lamp-lit rail/post edges and wire; the k285 gust and the k292 shiver are hung cards swinging on their cords (narrowing, paper edge catching the lamp, a narrow glint made of the card's own graphite, every card its own phase), no grey tiles; ending: dark base wall with a two-step lamp pool and her shadow, the net behind her lit, she the brightest and only warm thing; R09-play/R09-strike kept. 2026-11-21 card unification (docs/卡面状态.md): her card face is web/lib/her_card.js state title, mapped through the measured holder window (perspective, clipped to the window); every back on the fence keeps a paper rim and a paper ring round the clip slot, and at night the rim stays one step above the gaps (lamp lifts it further); film work/seg/09/seg_09.mp4 2026-11-21 rhythm pass (user: rock, picture should follow the song): the zoom out steps on every beat k269-k284 (3 frames, 1.5% overshoot, still between beats; bar lines a larger share), the mountain's beat burst within 2 frames, macro punches k265-k268, k280 cymbal: rows 2-6 flood to both edges + graphite flash, night in two steps k282/k283, the move down accelerates and lands hard on k289, push steps k290/k291, punch on k292's chord, k293-k295 still; string ringing refitted per drawing (tailpiece to first fretting finger) and only on k289-k292. | third pass 2026-11-21 (docs/制作约定.md 第六节「整屏运动」, user: 「一直抖动屏幕……看着很晕」; 根因清单 parts row): the frame moves only three times: k265 大击 one step in on card A (3 frames, no overshoot, stays), k268-k284 the zoom out is one eased move again (ZOOM0 to 5.1 m), k289 registered 甩镜 down to her (10 frames, eased, lands without overshoot), k292 大击 one 3% step in on her chord; the per-beat zoom steps, the macro punches k266-k268, the landing overshoot, the k290/k291 push steps and the k292 punch are gone; the beat stays in the picture (mountain surges, k280 band + flash, night steps, gust) and k290/k291 the hung cards above her head shiver once (kickTurn, a local patch) while her strings ring. Parts through web/lib/parts.js: art/cut/seg09_parts.json measured per drawing (work/seg/09/parts/build_parts.py): five strings (the drawings have five-pole pickups and five strings) through each drawing's pole pieces, refined on the drawn strings, from past her sleeve to her first fretting finger; the jack per drawing; the card window per drawing; her drawing and every part go through one placement; PART AUDIT checks them on each drawing's pixels. Previous page and film: work/seg/09/archive_before_motion/."
+    },
+    {
+      "id": "seg_10",
+      "page": "page=seg_10",
+      "f0": 3287,
+      "f1": 3643,
+      "t0": 109.56666666666666,
+      "lyrics": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "status": "self-checked",
+      "note": "10 B k295-k327, design 乙 (down the aisle), finished; reworked 2026-11-21 after the independent review of the cut (docs/分镜/10_B.md 第 11 节): S1 one take down the night train (display smaller and higher, r10g_doorb with a clean nape on k307); S2 k311-k322 her reflection with her lanyard (r10g_refl/reflb, 3/4 of her head), city thinned under the face, soft long light streaks, the tag hanging from a visible handle, clean nape (r10g_back); S3 cut on the stop k322: the set pack locker bank itself, door 22 open with her bag and its 驕傲 tag, pushed shut in three drawings (r10g_lock k322, r10g_lockm k323.5, r10g_lockb k324, the door stepping with the hand), on k324 the whole door turns pencil black with 使用中, then stillness, 句29 down the side panel; drawings art/design/prompts/_make_seg10g.py; old version archive/seg10_before_review_fix_20261121/; film work/seg/10/seg_10.mp4 | 2026-11-21 rhythm/lyric pass (user: lyrics a little behind; picture should follow the rock rhythm): display letters use print.js sungBuild (whole on the onset frame), LYRIC AUDIT 50 chars 0 late; S2 the slow k317-k319 band replaced by lamp sweeps on the snares k315 and k319 (seen on the snare frame, the k319 one crosses her face); no flash or punch added (B stays the quietest part); previous version archive/seg10_before_rhythm_20261121/ | 2026-11-21 motion/parts pass (user, second cut: 一直抖动屏幕看着晕; 笔芯和笔、弦和吉他不是一块的): the whole-car drop-and-rebound on k299/k303/k307 and the door/head jolt on k315/k319 removed (straps swing, pole sweeps, tag swings, lamp sweeps stay in the picture); the S1 push eases to a stop on k307 and the only camera jolt is the registered 大击 on k307 (3% one way, then still); MOTION AUDIT 1 jolt 0 problems; parts from art/cut/seg10_parts.json through parts.js (bag handle and tag cord on r10g_back, tag on g10f_bag's handle strand, soles per drawing, hand on door 22 per drawing), PART AUDIT; previous version archive/seg10_before_motion_20261121/"
+    },
+    {
+      "id": "seg_11",
+      "page": "page=seg_11",
+      "f0": 3643,
+      "f1": 3998,
+      "t0": 121.43333333333334,
+      "lyrics": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "status": "self-checked",
+      "note": "11 前副歌2 k327-k359, design 甲 finished after the blind review of the samples (sample page archive/seg11_sample_20261120/; docs/分镜/11_前副歌2.md 第 10 节 细做改定): S1 her 自己紹介カード on a teal 下敷き, black 未提出 block stamped k327 (the one 一沉), 本日->昨日 on 06's strip, ギ written stroke by stroke (h11_write), in-between h11_turn k331.5, thumb rubs it to a smear (h11_rub) with push x1.35; S2 her ID photo in the dashed 3:4 frame (r11_id_a looks down, k340 r11_id_b eyes shut, k341 a 読取不可 label stamped with a kick, bar-line camera steps k336/k340, k342 one step down to her card), 句32 16-dot columns left, 句33 pencil columns right; S3a her card back (black grown over the top band as veins from the stab), 句34/35 large, k348 grip, push in two steps k344/k348 and snare kicks k345/347/349; S3b row B 吉田 蓮 / A 鈴木 恵子 / C 渡辺 翔 (09's roster, p11_trio3) and her (r11_row6), 消えたい white out of all four blacks, って言うんだ x2 on her own card, eraser down from above the frame k354 and k358, camera kick k352, stop k355, fill k356-k358.5: four steps in on her card (B out on the k356 crash), eraser pass 2 onto A's card; drawings art/design/prompts/_make_seg11f.py; film work/seg/11/seg_11.mp4; 2026-11-21 rhythm pass (user: 跟歌曲节奏一致 / 歌词慢了一点): sung letters whole on their onset frame (LYRIC AUDIT); third round 2026-11-21 (user: 一直抖动屏幕 看着很晕 / 笔芯和笔不对了): camera steps, kicks and the k327 card sink removed; MOTION AUDIT 3 jolts (大击 k327 3% step, 大击 k344 3% step, k355 1.4% step), slow pushes S1 k332-k334, S2 k340-k343, S3a k345-k351; the fill k356-k358.5 prints a timing mark down every card's right edge on each eighth, eraser pass 2 from B's card on k357.5; parts measured per drawing in art/cut/seg11_parts.json (work/seg/11/parts_measure.py), PART AUDIT 13/0; previous film in archive/seg11_before_r3_20261121/"
+    },
+    {
+      "id": "seg_12",
+      "page": "page=seg_12",
+      "f0": 3998,
+      "f1": 4710,
+      "t0": 133.26666666666668,
+      "lyrics": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "status": "self-checked",
+      "note": "12 副歌2 k359-k423, design 甲 finished after the blind review of the samples (sample page and design 乙 in archive/seg12_sample_20261120/; docs/分镜/12_副歌2.md 第 3 稿 + 第 10 节细做改定 + 细做第 2 轮): torn edges with lip, fibres and shadow (procedural, no paper scan); strips fold in perspective (staggered fold lines, uncovering shoulder, hand, neck, headstock, her open locker), heavy pencil 句40 on their backs; k381 cold stare (r12_play_cold, shouts redrawn from it); S3 face at x 0.36, windows read right to left on both sides; chest card and the Q2 answer card inked as 03 (改定 15, title in a clean field); S4 hands punch through and pinch the printed rings, 解けません over panels 1-2 clear of the reading frame; S5 stack torn into strips, k420/k421/k422 drops; drawings art/design/prompts/_make_seg12_r3.py; film work/seg/12/seg_12.mp4 (+ _phone); first fine render archived in archive/seg12_fine_v1_20261121/; round 5 (第 12 节): S4 forearms whole, holes from the sleeve silhouettes torn like the slit; S5 her at 1.15 / x 880 so no white letter is behind her, S3 face x 740; FIGURE AUDIT (letters vs drawing silhouettes) 0 covered; round 6 (第 13 节): FIGURE AUDIT also counts every opaque foreground layer at its real alpha (S3 the torn root, S4 flaps and bits, S5 strips, falling halves, band); S3 paper ends the push at 1.75 (was 1.6) so the root stays a sliver at the left edge clear of ん・だ・よ; frames work/seg/12/frames_r6; round 8 (第 14 节, card unification): her card face only from web/lib/her_card.js (state title) on all four cards incl. the printed bust p12_anoko, perspective-fitted inside each drawn holder window; frames work/seg/12/frames_r8; round 9 (card review MUST): S4 the card on the 知恵の輪 ring B is her card as in 08b (her_card.js title, 3:2, slot on ring B, shadow, haloed arrow), figure 24 px higher, CARD AUDIT; frames work/seg/12/frames_r9; round 10 (card re-review MUST): S4 panel ③ is 08b's current ③ (seg_08b.js SLIDE: ring B on the D-ring's left arc, card below and left, ring only in the slot column over the card, arrows clear of it, no halo; numbers checked against 08b's source), figure at CHY 715 (問四 and panels 12 px up), pinch points from the new ring B; CARD COVER AUDIT 0; frames work/seg/12/frames_r10; rhythm pass 2026-11-21 (第 15 节, user: 摇滚节奏 + 歌词慢): camera strikes on the drums (punch-in / vertical dip / step push / paper-white flash on the crashes k360 k392 k420), S1/S4/S5 smooth pushes turned into bar-line steps, S2 no longer static, S4 k392 a fourth opening stage, S5 drops in 4 frames; 句40 write-on 2 frames ending on the onset frame, strips 1+2 fold together on k375 (3-frame fold), 句41 windows gated by sungShown; LYRIC AUDIT 107 chars 0 late; frames work/seg/12/frames_rh; previous cut archived in archive/seg12_r10_before_rhythm_20261121/; S4 band fix 2026-11-21 (review MUST: after the steps the band's 数学 / 令和八年度 lines sat half cut under the top edge and flashed on every hit): k399 is a snap step (whole on the beat frame) that takes the band strip out of the frame in that frame, after it no zoom steps, only small punches with dips so the top edge holds at page y 71.8-78.1 (band ends 62, 問三 box starts 88.8); frameCheck 'S4 band and 問三' now all of S4 by each frame's view, plus S4 TOP EDGE AUDIT; frames work/seg/12/frames_s4 (g4443-g4531 re-rendered, the rest linked from frames_rh); pre-fix source work/seg/12/seg_12.before_s4band.js; round 11 2026-11-21 (第三轮, 整屏运动 + parts.js, docs/制作约定.md 第六节): 5 whole-frame jolts instead of ~45 (k360 大击 one-way 3 % step + eased push to the split k361-k366; k374 1.5 %; k392 / k399 0.85 % / 0.8 % zoom anchored on S4's top edge so the band stays whole; k421 大击 3.5 %), k382 push into the tear = registered whip (10 frames), flashes only k360 and k420; no punch-backs, dips or shakes; S5 strips sway one way and settle; card windows and pinch points from art/cut/seg12_parts.json with PART AUDIT; MOTION AUDIT 0 problems, PART AUDIT 20 parts 0 problems; frames work/seg/12/frames_r11"
+    },
+    {
+      "id": "seg_13",
+      "page": "page=seg_13",
+      "f0": 4710,
+      "f1": 5065,
+      "t0": 157.0,
+      "lyrics": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "status": "self-checked",
+      "note": "13 C k423-k455, design 乙 (拉开) finished after the blind review of the samples (sample page archive/seg13_sample_20261120/; docs/分镜/13_C.md 第 3 稿 + review must_fix): S1 desk in the negative, lamp click k423.5, slap k426.5, folds k434.5/k437.5, push 2.6x, the machine eraser rubs four strips with white letters, k443 pull-out to 0.9x: her hand (girl's hand, blazer cuff with buttons), her card and teal lanyard beside it; hangs beside the drawing, reaches, pulls back, rubs the child's drawing out k446/k446.5 and lifts off; S2 k447 drain under a street lamp, papers drift in one at a time and are dragged into the grating, おい誰なんだよ on dark asphalt; S3 k451 her face, hand and eraser resting on the desk, k452 looks up. Drawings art/cut/h13g_slap (master), h13g_open, h13g_erase, h13g_hover (art/design/prompts/_make_seg13g.py; eraser cut above its sleeve border by work/seg/13/cut13f.py), r13f_face, r13f_face_up, p13f_guitar (_make_seg13f.py); film work/seg/13/seg_13.mp4; rhythm pass (2026-11-21, user: rock rhythm + lyrics late): measured low hits k429.5/k432 get a palm press and every hit k426.5-k434.5 a 1 % desk step (about the header), eraser one beat earlier (lands k438, steps k439/k440/k441, re-press k442) so no strip letter is under it at its onset, paper hand leaves before it, drain dips k448/k449/k450 with papers snatched on the kick, face steps 1/2/3 % on k452/k453/k454 instead of the slow push, questions whole on their onset frame (LYRIC AUDIT 0 late); frames work/seg/13/frames_rh; previous page and film in archive/seg13_before_rhythm_20261121/; third pass 2026-11-21 (user: 屏幕一直抖、看着晕; 部件对不上): whole-frame motion per 制作约定第六节「整屏运动」 - desk steps k426.5-k434.5, street dips k448-k450 and face steps k452-k454 removed (the hand presses, the papers snatched into the grating and her look up carry those hits), push in one cosine-eased move k437.5-k441.5, pull-out to her hand a registered whip on k443 (10 frames), S3 an even 1.00->1.04 drift; MOTION AUDIT 1 whip, 0 jolts, 0 problems; parts through web/lib/parts.js with art/cut/seg13_parts.json (work/seg/13/parts/measure13.py): the canon eraser leaves each hand drawing along that drawing's own measured eraser centreline (h13g_erase was 0.90 deg / 5 px off), one hand scale (both drawn erasers 168 px), 読取機用 sleeve rect per face drawing; PART AUDIT 10 checked 0 problems; frames work/seg/13/frames_m3; previous page and film work/seg/13/archive_before_motion3/"
+    },
+    {
+      "id": "seg_14",
+      "page": "page=seg_14",
+      "f0": 5065,
+      "f1": 5432,
+      "t0": 168.83333333333334,
+      "lyrics": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "status": "self-checked",
+      "note": "14 最终副歌 k455-k488, design 甲 finished after the blind review of the two samples (docs/分镜/14_最终副歌.md 第 9 节 细做改定): S1 C3 she stands behind her shut gate, line 50 rubbed out of the graphite wall; S2 (second review 2026-11-21) the card and the gate: a low frame 1.0 m wide (1920 px/m, card 15% of the frame), 佐藤's card; k464 00 k0's hit (frame-wide print flies onto his card, dark, sink), his doors slam, window ○→×; pan k465-k466 to 高橋's card, k466 wave 2 (light); S2b W7 wave 3, all seven doors shut; S3 M3 slow push to 1.12, she reaches/calls (R14f_askL, R14f_askR), nobody looks up; S4 the questions hatched back on k479, four steps in, grip, grip2, k482.5 still, yank k483 (clasp pops), throw k484, the card flies from her open hand to the lens (3D tumble, trailing lanyard, motion blur), cards drop k486, the card fills the frame on k488 (poster frame = segment 15 frame 1: card 2050 px wide, frame top at 0.076 card widths, window.__audit.poster). Drawings art/cut/R14f_*.png at 13 px/cm (art/design/prompts/_make_seg14f.py), town t14_p4/p5/p10/p11/n4/n7 + 01/15 people; anchors art/cut/seg14f_anchors.json; rhythm pass 2026-11-21 (user: rock, lyrics a little late): S1 k456 crash = paper-white flash, 4% punch, 10 px dip, step 1.03, k460 step 1.06, snare punches k457/459/461; S2b k469 punch; S3 steps k472 (1.04, 9 px dip) and k476 (1.08), snare punches k473/475/477; sung letters gated with sungShown (LYRIC AUDIT: 60/62 read on the onset frame, 何 +1f and そ +2f fall before the cuts at f5065 and k463); previous page work/seg/14/seg_14_before_rhythm.js; film work/seg/14/seg_14.mp4; fill + lyric pass 2026-11-21 (review MUST): line 53's second half もうどうだって　いいや rubbed white out of the wall one row above おいどうすんだよ (0.12 m, centre 1.95 m), every letter read on its onset frame at em 98-111 px; LYRIC AUDIT now needs em >= 36 px on screen and not under the flying card (CARD WORDS AUDIT reports the card alone); k483-k488 (the drum fill): camera steps back on k483/k484/k485 (frames 0.90-2.07, 0.86-2.11, 0.82-2.15 m), punches k484/k485/k486/k486.5/k487, dips k485/k486/k487, the card steps at the lens on k485/k486/k487 (x1.30, x1.30, x1.36, snap in 4 frames, yaw/roll kick), rush from k487.5; the hall's cards snap off at 1.2 m/s on k486; previous page work/seg/14/seg_14_before_fill_lyric.js, previous film work/seg/14/fix_lyr/seg_14_before_fill_lyric.mp4; frames work/seg/14/final_fill | motion pass 2026-11-21 (user: the frame shook all the time, dizzy; docs/制作约定.md 第六节「整屏运动」): every punch, dip, the k464 sink, the steps k460/k476/k479-k482/k483-k485 and the card's yaw/roll kicks removed; the frame now moves on k456 (大击, one step in 1.03, one-way, paper-white flash kept), the S2 pan k465-k465.5 (registered whip), k472 (one step 1.2%, corners 0.9%) and k484 (大击, the throw: one step back 1/1.035); S1/S3 eased pushes, S4 one eased push k479-k482 to a waist-up 0.88-2.10 m; MOTION AUDIT 4 jolts 0 problems; parts through web/lib/parts.js (art/cut/seg14_parts.json: lanyard stubs per drawing incl. the two redraws, the throw's hand), PART AUDIT; previous page work/seg/14/seg_14_before_motion.js, film seg_14_before_motion.mp4; frames work/seg/14/final_motion"
+    },
+    {
+      "id": "seg_15",
+      "page": "page=seg_15",
+      "f0": 5432,
+      "f1": 6187,
+      "t0": 181.06666666666666,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "15 尾奏riff k488-k556, design 甲 (pan, slows and pulls back, stops dead with the clock on k522.25) finished after the blind review of the k508-k528 samples (docs/分镜/15_尾奏riff.md 第 3 稿; must-fix handling in work/seg/15/fin/plan.md): S1 her card from 14 on the poster frame (her_card.js POSTER_FRAME, 1878 px, frame top 0.0389u: every word on the face in the frame through bounce, wobble and slip, checked every frame) slips k489.5, drops k491; S2 W7 seven-lane wide, the doors open outside-in k492/k496/k500/k504 with a 13-notch second-hand push to F3, 「おいどうすんだよ」 rubbed out above the clock; S3 chest-up pan over close lane drawings t15_p8h/p2h/p9h/p1h2, slowing into M3 (2.1 m); k522.5 six groups turn (t15_*_turn, n3 redrawn t15_n3_turn2), k524 she opens her eyes past the camera (R15_play_e3) with a step in; S5 小林 そうた f15_sota_a/b, S6 山本 さくら f15_p6b; S7 waist shot (x +0.18) with R15_strum_1-8, k544 jolt, drift onto her for 16; prompts art/design/prompts/_make_seg15.py, _make_seg15f.py; film work/seg/15/seg_15.mp4. 2026-11-21 rhythm pass: slides replaced by beat steps (S3 a pan step a beat k509-k516, three big steps + pull back on the heavy kicks k517-k519, k520 step in, k523 punch, k524 step + paper-white flash, k526 step; S5 push steps k530/k532/k534 + snare punches k533/k535; S6 steps k537-k539; k540 flash; S7 three steps in on k549-k551, no slow rise); strings measured per drawing nut to bridge (seg15_anchors.json strings_by, <name>_cover.png hand masks, STRING AUDIT); previous film in work/seg/15/archive_before_rhythm/ | second review fix 2026-11-21 (MUST: heaviest kicks without a visible answer; wall ovals as haloes): F3 steps in on her on the kick run k505/k506/k507 (4/3/4.5%, 1 cm dips) and a punch with a dip on the fill k507.5 (cards on the cabinets jump on it too); S3 k521 a 2.5% step, k522 a push at 1.1% a frame cut off dead on k522.25 with the clock (k524 step smaller by the same, S4 lands on 1.15/1.21 as before); frame diff on the beat frame k505 18.2, k506 13.9, k507 16.6, k507.5 16.0, k521 15.0, k522 9.9 (was 0.0-1.4), g5814 on 0.00 (work/seg/15/fin/kick_response.py); wall ovals kept only clear of every silhouette of the shot (0.155 m sideways, 0.39 m below to 0.30 m above the oval centre, as seg_14 buildOvals; HALO MASK), so no ring over a head in S2/S3/S4/S7; frames work/seg/15/frames_v2; previous page and film work/seg/15/archive_before_review2/ | third round 2026-11-21 (user: dizzy whole-frame shaking; parts not on the drawings; the guitar-smash ending; docs/分镜/15_尾奏riff.md 第 5 稿): every camera step/punch/dip removed; S1 card dead still, drops out k491 (registered whip); S2 one eased push W7->F3 k492-k508, the clock's second hand ticks a notch a beat k492-k522, fallen cards jump every beat (x2 on k505-k507.5); S3 even pan from the cut, slows + pulls back from k514, dead stop k522.25; S4 still, eased creep from k524; S5/S6 one eased push each; S7a strum_1/2/3/4b/5, k544 the one 大击 (3.5% in 2 frames, held), slow rise k548-k552, k550 R15_grip; S7b k552 action cut to the BAT frame [-0.32, 0.74, 1.70] with R16_shoulder (guitar on her shoulder like a bat; master for 16's smash drawings), still; no code strings (strum_6/7/8b and the _cover masks archived in archive/seg15_r3_retired_20261121/); lanyard stubs per drawing in art/cut/seg15_parts.json via parts.js; MOTION AUDIT 2 jolts 0 problems, PART AUDIT 20 parts 0 problems; prompts art/design/prompts/_make_seg15h.py; frames work/seg/15/frames_r3; previous film work/seg/15/archive_before_r3/ | fourth round 2026-11-22 (third review MUSTs; docs/分镜/15_尾奏riff.md 第 6 稿): S7 one take to the end, no cut on k552: strums k540-k548, R15_grip2 k548 (R15_grip with only the eyes redrawn: looking at the reader on the viewer's left, as asked and as 16 smashes it), R15_heave k551.5 (half-beat in-between), R15_bat k552 (guitar on her right shoulder, drawn from R15_grip2 on a padded canvas art/design/board/seg15_grip2_pad.png so the guitar keeps its size), the slow rise eased to rest on k552; S6 さくら f15_p6_a k536 / f15_p6c k537 / f15_p6_c2 k538 + blink f15_p6_cb k539 (3 frames); S2 her lane's light shaft up the wall on k505/k506/k507/k507.5; lanyards continued in each drawing's own measured width/outline/core/screen/direction (seg15_parts.json sty, dirs), t15_p1h2(+_turn), f15_n4_bg, the three さくら drawings newly registered with empty clips; prompts art/design/prompts/_make_seg15i.py; frames work/seg/15/frames_r4; previous page and film work/seg/15/archive_before_r4/"
+    },
+    {
+      "id": "seg_16",
+      "page": "page=seg_16",
+      "f0": 6187,
+      "f1": 6381,
+      "t0": 206.23333333333332,
+      "lyrics": [],
+      "status": "self-checked",
+      "note": "16 结尾音型 k556-k572, 第 5 稿「砸读卡机」(2026-11-21 third round, after the second-cut feedback: no dizzy whole-frame motion, smash the guitar but well, no code strings; v2 page/film in archive/seg16_v2_20261121/; docs/分镜/16_结尾音型.md 第 11 节): S8 k556 frame 0's framing, r16_glare_sh (the Les Paul over her right shoulder, no card), one slow 3% push; S9 k560 03's reader-from-above layout (lane 4), k561 slip feeds a 4th もう一度, k562 ring flashes pencil black, k563 the canon guitar's outline falls as a 35% pencil screen, k564 00 k0's 16-dot 読み取れません slams onto the reader (the one 大击: 3.5% step, one way), k565 shadow grows/darkens; S10 k566 15's hall (wall, stopped clock, open lanes, cabinets), R16_raise, slow 3% push, k567-k569 the reader tries again (window lights, slip feeds); k570 i16_impact inverted 3 frames + teal 3 frames; k570.5 R16_after + m16_wreck [superseded, see fourth round], still to the end. Prompts art/design/prompts/_make_seg16c.py. MOTION AUDIT 1 jolt (大击) 0 problems; PART AUDIT 0 parts; film work/seg/16/seg_16.mp4 Fourth round 2026-11-22 (independent review, 2 MUST; v3 drawings/page/film in archive/seg16_v3_20261122/; docs/分镜/16_结尾音型.md 11.1): the end frame k570.5 is one Codex drawing R16_wreck (her, the cracked guitar and the smashed reader together; the body sits in the crushed top, the crumpled top edge in front of its lower edge; guide work/seg/16/smash/r3/layout_target.png from the code cabinet's place), code draws neither cabinet 4 nor its slip there and nothing over her drawing (m16_wreck retired); S8 r16_glare_sh redrawn by Codex on a transparent ground (was matted from a black ground with a glow: dirty haze between neck and hair), face offset 0 against the old one. Prompts art/design/prompts/_make_seg16d.py. MOTION AUDIT 1 jolt 0 problems, red 0/194, film work/seg/16/seg_16.mp4 Fifth round 2026-11-22 (user: 最后切得太快、戏份太少、不够亮眼; v4 in archive/seg16_v4_20261122/; docs/分镜/16_结尾音型.md 11.2): smash moved to k564 (crash 19.2, 00 k0's beat); S9 overhead reader removed; S10 k560 R16_lift (new, leg-aligned to R16_raise) -> k562 R16_raise, push ends k562.5 then still; k561/k563 reader tries; k564 i16_impact 2 inverted + 3 teal frames with the one 大击 step; k564.5-end R16_final (Codex, her + planted guitar + smashed reader, 1536x1024 at 1:1) 3.31 s, 9 Codex pieces (m16_bit_*) fall out by k569.7, the last window stutters k567-569 and dies k570, then still. Prompts _make_seg16e.py."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+ {
+  "prompt": "art/design/prompts/gate_rin_hi_full.txt",
+  "out": "art/design/out/gate_rin_hi.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_rin_hi2_full.txt",
+  "out": "art/design/out/gate_rin_hi2.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png",
+   "art/ref/card_blank.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_walkers_hi_full.txt",
+  "out": "art/design/out/gate_walkers_hi.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/design/out/print_people_test.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/gate_walkers_hi2_full.txt",
+  "out": "art/design/out/gate_walkers_hi2.png",
+  "ref": [
+   "art/design/out/adults.png",
+   "art/design/out/print_people_test.png"
+  ]
+ }
+]

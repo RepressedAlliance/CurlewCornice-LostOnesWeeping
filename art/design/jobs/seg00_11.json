@@ -1,0 +1,40 @@
+[
+ {
+  "prompt": "art/design/prompts/r00_hold_g_full.txt",
+  "out": "art/design/out/r00_hold_g.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/board/ref_cold_stare.png",
+   "art/design/out/r00_hold_f.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_hold_h_full.txt",
+  "out": "art/design/out/r00_hold_h.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/board/ref_cold_stare.png",
+   "art/design/out/r00_hold_f.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_hold_i_full.txt",
+  "out": "art/design/out/r00_hold_i.png",
+  "ref": [
+   "art/design/out/r00_hold_f.png",
+   "art/design/board/ref_cold_stare.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_hold_j_full.txt",
+  "out": "art/design/out/r00_hold_j.png",
+  "ref": [
+   "art/design/out/r00_hold_f.png",
+   "art/design/board/ref_cold_stare.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "prompt": "art/design/prompts/rlow3_down_full.txt",
+  "out": "art/design/out/rlow3_down.png",
+  "ref": [
+   "art/design/out/rlow3_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_up_full.txt",
+  "out": "art/design/out/rlow3_up.png",
+  "ref": [
+   "art/design/out/rlow3_master.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_fist_full.txt",
+  "out": "art/design/out/rlow3_fist.png",
+  "ref": [
+   "art/design/out/rlow3_master.png"
+  ]
+ }
+]

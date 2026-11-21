@@ -1,0 +1,43 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_m_full.txt",
+  "out": "art/design/out/rface_m.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rlow3_master_k_an.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_mb_full.txt",
+  "out": "art/design/out/rface_mb.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rlow3_master_k_an.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_mc_full.txt",
+  "out": "art/design/out/rface_mc.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rlow3_master_k_an.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rback_w1_full.txt",
+  "out": "art/design/out/rback_w1.png",
+  "ref": [
+   "art/design/out/rback_an.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rback_w2_full.txt",
+  "out": "art/design/out/rback_w2.png",
+  "ref": [
+   "art/design/out/rback_an.png"
+  ]
+ }
+]

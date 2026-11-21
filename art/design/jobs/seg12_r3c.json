@@ -1,0 +1,17 @@
+[
+ {
+  "prompt": "art/design/prompts/r12_play_cold2_full.txt",
+  "out": "art/design/out/r12_play_cold2.png",
+  "ref": [
+   "art/design/../cut/r12_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r12_play_cold3_full.txt",
+  "out": "art/design/out/r12_play_cold3.png",
+  "ref": [
+   "art/design/../cut/r12_play.png"
+  ]
+ }
+]

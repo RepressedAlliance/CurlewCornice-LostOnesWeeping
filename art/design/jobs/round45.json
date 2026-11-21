@@ -1,0 +1,86 @@
+[
+ {
+  "prompt": "art/design/prompts/rlow3_master_k_an_full.txt",
+  "out": "art/design/out/rlow3_master_k_an.png",
+  "ref": [
+   "art/design/out/rlow3_master_k_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_bang_an_full.txt",
+  "out": "art/design/out/rlow3_bang_an.png",
+  "ref": [
+   "art/design/out/rlow3_bang_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_back_an_full.txt",
+  "out": "art/design/out/rlow3_back_an.png",
+  "ref": [
+   "art/design/out/rlow3_back_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_jump_an_full.txt",
+  "out": "art/design/out/rlow3_jump_an.png",
+  "ref": [
+   "art/design/out/rlow3_jump_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_stroke_an_full.txt",
+  "out": "art/design/out/rlow3_stroke_an.png",
+  "ref": [
+   "art/design/out/rlow3_stroke_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_stomp_an_full.txt",
+  "out": "art/design/out/rlow3_stomp_an.png",
+  "ref": [
+   "art/design/out/rlow3_stomp_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_up_k_an_full.txt",
+  "out": "art/design/out/rlow3_up_k_an.png",
+  "ref": [
+   "art/design/out/rlow3_up_k_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_fist_k_an_full.txt",
+  "out": "art/design/out/rlow3_fist_k_an.png",
+  "ref": [
+   "art/design/out/rlow3_fist_k_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_down_k_an_full.txt",
+  "out": "art/design/out/rlow3_down_k_an.png",
+  "ref": [
+   "art/design/out/rlow3_down_k_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_face_an_full.txt",
+  "out": "art/design/out/rcu_face_an.png",
+  "ref": [
+   "art/design/out/rcu_face_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_hand_an_full.txt",
+  "out": "art/design/out/rcu_hand_an.png",
+  "ref": [
+   "art/design/out/rcu_hand_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_feet_an_full.txt",
+  "out": "art/design/out/rcu_feet_an.png",
+  "ref": [
+   "art/design/out/rcu_feet_a.png"
+  ]
+ }
+]

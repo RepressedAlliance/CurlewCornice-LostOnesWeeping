@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/r12_shout_b2_full.txt",
+  "out": "art/design/out/r12_shout_b2.png",
+  "ref": [
+   "art/design/out/r12_play.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

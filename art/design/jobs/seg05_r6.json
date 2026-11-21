@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/s05_throw_3_full.txt",
+  "out": "art/design/out/s05_throw_3.png",
+  "ref": [
+   "art/design/../cut/s05_ots.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/s05_throw_4_full.txt",
+  "out": "art/design/out/s05_throw_4.png",
+  "ref": [
+   "art/design/../cut/s05_ots.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "prompt": "art/design/prompts/r16_shut_a_full.txt",
+  "out": "art/design/out/r16_shut_a.png",
+  "ref": [
+   "art/design/out/r16_face_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_free_a_a_full.txt",
+  "out": "art/design/out/r16_free_a_a.png",
+  "ref": [
+   "art/design/out/r16_face_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_free_b_a_full.txt",
+  "out": "art/design/out/r16_free_b_a.png",
+  "ref": [
+   "art/design/out/r16_face_b.png"
+  ]
+ }
+]

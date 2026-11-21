@@ -1,0 +1,7 @@
+{
+  "_note": "Segment 06 parts, in each drawing's own px (web/lib/parts.js). hpen3: the hand is placed by the pencil point (tip.point, the same point as art/cut/hand_tips.json hpen3); pencil.axis = [back, tip] on the drawn pencil's centreline, fitted (parts.js measureAxis, halfWidth 40) over the exposed sharpened point in front of her thumb, the only part of the pencil not overlapped by fingers.",
+  "hpen3": {
+    "tip": { "point": [200, 178] },
+    "pencil": { "axis": [[285.9, 246.8], [200.3, 177.6]] }
+  }
+}

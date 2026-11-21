@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/r03_drop_full.txt",
+  "out": "art/design/out/r03_drop.png",
+  "ref": [
+   "art/design/out/r03_down.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rb03_tap_full.txt",
+  "out": "art/design/out/rb03_tap.png",
+  "ref": [
+   "art/design/out/rb03_down.png"
+  ]
+ }
+]

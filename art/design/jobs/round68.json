@@ -1,0 +1,24 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_ochi_crack2_full.txt",
+  "out": "art/design/out/rface_ochi_crack2.png",
+  "ref": [
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_crackblink2_full.txt",
+  "out": "art/design/out/rface_ochi_crackblink2.png",
+  "ref": [
+   "art/design/out/rface_ochi_crack.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hpen3_press_full.txt",
+  "out": "art/design/out/hpen3_press.png",
+  "ref": [
+   "art/design/out/hpen3.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

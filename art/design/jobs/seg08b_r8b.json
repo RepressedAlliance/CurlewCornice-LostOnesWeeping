@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/p08b_front3_full.txt",
+  "out": "art/design/out/p08b_front3.png",
+  "ref": [
+   "art/design/../cut/r08b_grip.png",
+   "art/design/../cut/r08b_snapc.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p08b_front4_full.txt",
+  "out": "art/design/out/p08b_front4.png",
+  "ref": [
+   "art/design/../cut/r08b_grip.png",
+   "art/design/../cut/r08b_snapc.png"
+  ]
+ }
+]

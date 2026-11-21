@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/roof_rin_full.txt",
+  "out": "art/design/out/roof_rin.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/roof_rin_b_full.txt",
+  "out": "art/design/out/roof_rin_b.png",
+  "ref": [
+   "art/design/out/rin_A.png",
+   "art/design/out/lespaul.png"
+  ]
+ }
+]

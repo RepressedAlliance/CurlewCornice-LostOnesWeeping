@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/r11_id_b_full.txt",
+  "out": "art/design/out/r11_id_b.png",
+  "ref": [
+   "art/design/out/r11_id_a2.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

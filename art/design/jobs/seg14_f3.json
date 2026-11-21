@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/R14f_grip2_full.txt",
+  "out": "art/design/out/R14f_grip2.png",
+  "ref": [
+   "art/design/../design/out/R14f_grip.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R14f_askL2_full.txt",
+  "out": "art/design/out/R14f_askL2.png",
+  "ref": [
+   "art/design/../design/out/R14f_askL.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/rin_A2_side_v2_full.txt",
+  "out": "art/design/out/rin_A2_side_v2.png",
+  "ref": [
+   "art/design/out/rin_A2_side_src.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hand_pencil_g3_full.txt",
+  "out": "art/design/out/hand_pencil_g3.png",
+  "ref": [
+   "art/design/out/hand_pencil_g2.png"
+  ]
+ }
+]

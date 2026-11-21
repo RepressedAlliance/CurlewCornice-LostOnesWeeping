@@ -1,0 +1,225 @@
+{
+ "_note": "Points measured on the seg03 drawings (image pixels of the 1024x1536 canvases), used by web/scenes/segments/seg_03.js. anchor = card centre; name = inside of the card's name field [x, y, w, h]; title = [x, y line 1, y line 2, line height].",
+ "handCardW": 740,
+ "rin": {
+  "anchor": [
+   512,
+   521
+  ],
+  "name": [
+   244,
+   341,
+   600,
+   70
+  ],
+  "title": [
+   188,
+   505,
+   628,
+   108
+  ],
+  "knock": [
+   176,
+   434,
+   672,
+   232
+  ],
+  "quad": [
+   [
+    142,
+    263
+   ],
+   [
+    882,
+    263
+   ],
+   [
+    882,
+    779
+   ],
+   [
+    142,
+    779
+   ]
+  ]
+ },
+ "p1": {
+  "anchor": [
+   512,
+   448
+  ],
+  "name": [
+   238,
+   272,
+   606,
+   62
+  ]
+ },
+ "p3": {
+  "anchor": [
+   513,
+   449
+  ],
+  "name": [
+   228,
+   275,
+   628,
+   62
+  ]
+ },
+ "p6": {
+  "anchor": [
+   506,
+   461
+  ],
+  "name": [
+   258,
+   314,
+   555,
+   55
+  ]
+ },
+ "p7": {
+  "anchor": [
+   527,
+   456
+  ],
+  "name": [
+   266,
+   294,
+   580,
+   58
+  ]
+ },
+ "p8": {
+  "anchor": [
+   512,
+   423
+  ],
+  "name": [
+   242,
+   247,
+   602,
+   60
+  ]
+ },
+ "down": {
+  "cardTop": [
+   500,
+   846
+  ],
+  "card": [
+   432,
+   845,
+   138,
+   82
+  ]
+ },
+ "drop": {
+  "clip": [
+   516,
+   844
+  ]
+ },
+ "tap": {
+  "laneX": 0.081,
+  "dy": 0.078,
+  "_note": "her card lands on the reader deck (top 0.92 m) of the cabinet at +0.45 m: card centre 33.9 cm right of her centre, 0.842 m high in the drawing"
+ },
+ "back": {
+  "p1": {
+   "dx": 0.403,
+   "dy": 0.002
+  },
+  "p3": {
+   "dx": 0.377,
+   "dy": 0.027
+  },
+  "p6": {
+   "dx": 0.384,
+   "dy": 0.014
+  },
+  "p7": {
+   "dx": 0.366,
+   "dy": -0.027
+  },
+  "p8": {
+   "dx": 0.449,
+   "dy": 0.054
+  }
+ },
+ "peer": {
+  "card": [
+   441,
+   730,
+   133,
+   67
+  ],
+  "_note": "r03_peer: the card brought up under her chin (tilted towards her, so foreshortened)"
+ },
+ "files": {
+  "flinch": "r03_flinch2",
+  "_note": "2026-11-21 hall redo: peer3 (k56) -> r03_flinch2 (k60, a variant of r03_peer3, art/design/prompts/_make_seg03e.py) -> r03_drop3 (k64) -> r03_upC (k68, r03_up2 redrawn at close-up resolution). r03_down3 is no longer used. Earlier: r03_down/peer/drop redrawn with softer brows (_make_seg03c.py brows3), aligned with the masters (alpha IoU 0.993-0.995), so the card/clip anchors measured on the masters hold"
+ },
+ "hold": {
+  "quad": [
+   [
+    290,
+    137
+   ],
+   [
+    1246,
+    137
+   ],
+   [
+    1246,
+    774
+   ],
+   [
+    290,
+    774
+   ]
+  ],
+  "strap": [
+   757,
+   780
+  ],
+  "scale": 0.95,
+  "pos": [
+   230.4000000000001,
+   112.27500000000003
+  ],
+  "_note": "h03_hold (round 2): the card face TL, TR, BR, BL inside the holder rim (x 283-1253, y 131-776); strap columns at the top edge; drawn at scale with its top-left at pos"
+ },
+ "pen": {
+  "tip": [
+   378,
+   401
+  ],
+  "scale": 0.88,
+  "_note": "h03_pen (round 2): the pencil tip"
+ },
+ "flinch": {
+  "card": [
+   441,
+   728,
+   135,
+   67
+  ],
+  "_note": "r03_flinch2: the card held as in r03_peer3 (its white back measured 441,732,135,64; peer3 441,734,135,64)"
+ },
+ "upC": {
+  "crop": [
+   229,
+   179,
+   566,
+   849
+  ],
+  "scale": 1.809187,
+  "_note": "r03_upC is r03_up2 crop (x, y, w, h) enlarged by scale onto 1024x1536 and redrawn crisp (alpha IoU 0.985 against the crop, best shift 0,0); a point p of r03_up2 is at (p - crop xy) * scale in r03_upC"
+ },
+ "hang": {
+  "top": 1.09,
+  "_note": "the hanging card (k64 on): its top edge 1.09 m, centred on the drop drawing clip column; it covers the drawn clip (1.053 m) and the last 4 cm of the lanyard, which so enters its top. Its bottom (0.99 m) clears the flaps (0.95 m) by 4 cm (review 2026-11-20: the card no longer sits tangent on the flaps)"
+ }
+}

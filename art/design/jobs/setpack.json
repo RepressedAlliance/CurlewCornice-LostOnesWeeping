@@ -1,0 +1,229 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_p01_sato_full.txt",
+  "out": "art/design/out/sp_p01_sato.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p02_tanaka_full.txt",
+  "out": "art/design/out/sp_p02_tanaka.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p03_takahashi_full.txt",
+  "out": "art/design/out/sp_p03_takahashi.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p04_ito_full.txt",
+  "out": "art/design/out/sp_p04_ito.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p05_watanabe_full.txt",
+  "out": "art/design/out/sp_p05_watanabe.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p06_yamamoto_full.txt",
+  "out": "art/design/out/sp_p06_yamamoto.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p07_kobayashi_full.txt",
+  "out": "art/design/out/sp_p07_kobayashi.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p08_kato_full.txt",
+  "out": "art/design/out/sp_p08_kato.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/adults_builds.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p09_yoshida_full.txt",
+  "out": "art/design/out/sp_p09_yoshida.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/adults_builds.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p10_yamaguchi_full.txt",
+  "out": "art/design/out/sp_p10_yamaguchi.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/adults_builds.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_p11_nakamura_full.txt",
+  "out": "art/design/out/sp_p11_nakamura.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png",
+   "art/design/board/adults_builds.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h01_suzuki_full.txt",
+  "out": "art/design/out/sp_h01_suzuki.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h02_matsumoto_full.txt",
+  "out": "art/design/out/sp_h02_matsumoto.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h03_inoue_full.txt",
+  "out": "art/design/out/sp_h03_inoue.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h04_kimura_full.txt",
+  "out": "art/design/out/sp_h04_kimura.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h05_shimizu_full.txt",
+  "out": "art/design/out/sp_h05_shimizu.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_h06_saito_full.txt",
+  "out": "art/design/out/sp_h06_saito.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lespaul_a_full.txt",
+  "out": "art/design/out/sp_lespaul_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lespaul_b_full.txt",
+  "out": "art/design/out/sp_lespaul_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gigbag_a_full.txt",
+  "out": "art/design/out/sp_gigbag_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gigbag_b_full.txt",
+  "out": "art/design/out/sp_gigbag_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/lespaul_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_leadholder_a_full.txt",
+  "out": "art/design/out/sp_leadholder_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_eraser_a_full.txt",
+  "out": "art/design/out/sp_eraser_a.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_eraser_b_full.txt",
+  "out": "art/design/out/sp_eraser_b.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lockers_a_full.txt",
+  "out": "art/design/out/sp_lockers_a.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lockers_b_full.txt",
+  "out": "art/design/out/sp_lockers_b.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_gate_a_full.txt",
+  "out": "art/design/out/sp_gate_a.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_a_full.txt",
+  "out": "art/design/out/sp_reader_a.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_reader_b_full.txt",
+  "out": "art/design/out/sp_reader_b.png",
+  "ref": [
+   "art/design/board/print_people_test_s.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_selfintro_a_full.txt",
+  "out": "art/design/out/sp_selfintro_a.png"
+ },
+ {
+  "prompt": "art/design/prompts/sp_selfintro_b_full.txt",
+  "out": "art/design/out/sp_selfintro_b.png"
+ },
+ {
+  "prompt": "art/design/prompts/sp_essay_a_full.txt",
+  "out": "art/design/out/sp_essay_a.png"
+ },
+ {
+  "prompt": "art/design/prompts/sp_essay_b_full.txt",
+  "out": "art/design/out/sp_essay_b.png"
+ }
+]

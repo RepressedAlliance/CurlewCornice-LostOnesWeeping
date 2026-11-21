@@ -1,0 +1,54 @@
+[
+ {
+  "prompt": "art/design/prompts/R15_grip2_a_full.txt",
+  "out": "art/design/out/R15_grip2_a.png",
+  "ref": [
+   "art/design/../cut/R15_grip.png",
+   "art/design/board/seg04_cold_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_grip2_b_full.txt",
+  "out": "art/design/out/R15_grip2_b.png",
+  "ref": [
+   "art/design/../cut/R15_grip.png",
+   "art/design/board/seg04_cold_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_bat_a_full.txt",
+  "out": "art/design/out/R15_bat_a.png",
+  "ref": [
+   "art/design/board/seg15_grip_pad.png",
+   "art/design/../cut/r16_glare_sh.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/board/seg04_cold_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/R15_bat_b_full.txt",
+  "out": "art/design/out/R15_bat_b.png",
+  "ref": [
+   "art/design/board/seg15_grip_pad.png",
+   "art/design/../cut/r16_glare_sh.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/board/seg04_cold_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_p6_a_full.txt",
+  "out": "art/design/out/f15_p6_a.png",
+  "ref": [
+   "art/design/../cut/f15_p6c.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/f15_p6_c_full.txt",
+  "out": "art/design/out/f15_p6_c.png",
+  "ref": [
+   "art/design/../cut/f15_p6c.png"
+  ]
+ }
+]

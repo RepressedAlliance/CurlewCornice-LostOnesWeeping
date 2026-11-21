@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/r16_glare_a_full.txt",
+  "out": "art/design/out/r16_glare_a.png",
+  "ref": [
+   "art/design/../cut/r16_face.png",
+   "art/design/../cut/r00_hold_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_glare_b_full.txt",
+  "out": "art/design/out/r16_glare_b.png",
+  "ref": [
+   "art/design/../cut/r16_face.png",
+   "art/design/../cut/r00_hold_v3.png"
+  ]
+ }
+]

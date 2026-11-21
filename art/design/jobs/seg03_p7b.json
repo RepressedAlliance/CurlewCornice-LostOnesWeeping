@@ -1,0 +1,10 @@
+[
+ {
+  "prompt": "art/design/prompts/h03_tap_p7_full.txt",
+  "out": "art/design/out/h03_tap_p7.png",
+  "ref": [
+   "art/design/../canon/town/p07_kobayashi_yumi_and_sota.png",
+   "art/design/../canon/card_front_town_filled.png"
+  ]
+ }
+]

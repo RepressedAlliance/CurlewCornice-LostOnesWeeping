@@ -1,0 +1,11 @@
+[
+ {
+  "prompt": "art/design/prompts/r10f_reflb_full.txt",
+  "out": "art/design/out/r10f_reflb.png",
+  "ref": [
+   "art/design/out/r10f_refl.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

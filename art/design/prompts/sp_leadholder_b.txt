@@ -1,0 +1,10 @@
+Redraw the first attached prop design sheet (her 2 mm lead holder, 芯ホルダー, three rows) with the same layout, the same pencil design and the same fully TRANSPARENT background (PNG alpha), changing only:
+- Row 2: the lead sticks out 3.5 cm, which is ONE QUARTER of the pencil's 13.5 cm total length: the exposed lead is about as long as the knurled grip and the cone tip together, a long thick 2 mm graphite rod. Row 3 (the front end, twice as large) shows the same long lead running off toward the right edge.
+- MATTE barrel: flat pencil black (#2A2A2F) with ONE hard-edged darker shadow band along its lower side; NO highlight line, no shine, no glossy stripe.
+- Metal parts (cone tip, grip, clip, button, rings): flat silver grey with exactly ONE hard-edged darker band and at most one small hard white highlight shape; NO gradient, no shading ramp, no chrome reflections. The knurled grip as a neat fine cross-hatch.
+- The lead: flat graphite grey with one hard darker band.
+Barrel without any printing or text. Everything straight and aligned, like a product design sheet.
+Drawing: the same hand as the attached character turnaround (her design sheet): clean modern Japanese anime model-sheet illustration, crisp even dark-grey outlines (a little heavier on the outer contour), flat colours with exactly one hard-edged shadow tone per material and at most one small hard highlight shape on metal or lacquer, simple shapes, few inner lines, no gradients, no airbrush, no glow, no blur, no texture, no photographic rendering, no 3D-render look.
+Fully TRANSPARENT background (PNG alpha) everywhere outside the subject: no floor, no ground line, no cast shadow, no frame, no paper colour behind it. Every part of the subject is fully opaque, including its white and paper-white parts.
+No captions, no labels, no title, no logos, no watermark.
+Absolutely no red, pink or orange anywhere.

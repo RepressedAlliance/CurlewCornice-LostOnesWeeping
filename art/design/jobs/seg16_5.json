@@ -1,0 +1,30 @@
+[
+ {
+  "prompt": "art/design/prompts/r16_shut2_a_full.txt",
+  "out": "art/design/out/r16_shut2_a.png",
+  "ref": [
+   "art/design/../cut/r16_glare.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_shut2_b_full.txt",
+  "out": "art/design/out/r16_shut2_b.png",
+  "ref": [
+   "art/design/../cut/r16_glare.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_open2_a_full.txt",
+  "out": "art/design/out/r16_open2_a.png",
+  "ref": [
+   "art/design/../cut/r16_glare.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r16_open2_b_full.txt",
+  "out": "art/design/out/r16_open2_b.png",
+  "ref": [
+   "art/design/../cut/r16_glare.png"
+  ]
+ }
+]

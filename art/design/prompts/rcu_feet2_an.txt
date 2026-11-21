@@ -1,0 +1,2 @@
+One illustration, same canvas as the attached image.
+Redraw the attached image exactly: the same figure, framing, size and position in the canvas, the same night lighting and line work, keep the fully TRANSPARENT background (PNG alpha). Change only this: her right foot is LIFTED high, knee up, the sole of the brown loafer toward the camera, about to stomp down; the left foot stays planted on the floor tiles; keep the floor tiles as drawn.

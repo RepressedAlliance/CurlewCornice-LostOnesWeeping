@@ -1,0 +1,29 @@
+[
+ {
+  "prompt": "art/design/prompts/rface_ochi_a_full.txt",
+  "out": "art/design/out/rface_ochi_a.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rface_mb2.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_b_full.txt",
+  "out": "art/design/out/rface_ochi_b.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rface_mb2.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rface_ochi_c_full.txt",
+  "out": "art/design/out/rface_ochi_c.png",
+  "ref": [
+   "art/design/board/rin_A2.png",
+   "art/design/out/rface_mb2.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

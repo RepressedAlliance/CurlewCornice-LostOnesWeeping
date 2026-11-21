@@ -1,0 +1,30 @@
+[
+ {
+  "prompt": "art/design/prompts/r03_down_full.txt",
+  "out": "art/design/out/r03_down.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../canon/card_back_rules.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rb03_down_full.txt",
+  "out": "art/design/out/rb03_down.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h03_tap_rin_full.txt",
+  "out": "art/design/out/h03_tap_rin.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/card_front_hers_blank.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

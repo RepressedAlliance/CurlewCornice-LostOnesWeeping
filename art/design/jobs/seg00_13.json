@@ -1,0 +1,22 @@
+[
+ {
+  "prompt": "art/design/prompts/r00_mid_g_full.txt",
+  "out": "art/design/out/r00_mid_g.png",
+  "ref": [
+   "art/design/out/r00_cover_k.png",
+   "art/design/out/r00_hold_h.png",
+   "art/design/board/guide_r00_card4_mid.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_mid_h_full.txt",
+  "out": "art/design/out/r00_mid_h.png",
+  "ref": [
+   "art/design/out/r00_cover_k.png",
+   "art/design/out/r00_hold_h.png",
+   "art/design/board/guide_r00_card4_mid.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/rcu_cardfly_b2_full.txt",
+  "out": "art/design/out/rcu_cardfly_b2.png",
+  "ref": [
+   "art/design/out/rcu_cardfly_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_cardfly_b3_full.txt",
+  "out": "art/design/out/rcu_cardfly_b3.png",
+  "ref": [
+   "art/design/out/rcu_cardfly_b.png"
+  ]
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "prompt": "art/design/prompts/r03_flinch2_full.txt",
+  "out": "art/design/out/r03_flinch2.png",
+  "ref": [
+   "art/cut/r03_peer3.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r03_flinch2B_full.txt",
+  "out": "art/design/out/r03_flinch2B.png",
+  "ref": [
+   "art/cut/r03_peer3.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

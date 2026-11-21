@@ -1,0 +1,22 @@
+[
+ {
+  "prompt": "art/design/prompts/r00_hold_e_full.txt",
+  "out": "art/design/out/r00_hold_e.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_expressions.png",
+   "art/design/../cut/rface_ochi.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_hold_f_full.txt",
+  "out": "art/design/out/r00_hold_f.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../canon/rin_expressions.png",
+   "art/design/../cut/rface_ochi.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

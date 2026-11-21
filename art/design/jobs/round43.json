@@ -1,0 +1,60 @@
+[
+ {
+  "prompt": "art/design/prompts/rlow3_bang_full.txt",
+  "out": "art/design/out/rlow3_bang.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_back_full.txt",
+  "out": "art/design/out/rlow3_back.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_jump_full.txt",
+  "out": "art/design/out/rlow3_jump.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_stroke_full.txt",
+  "out": "art/design/out/rlow3_stroke.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rlow3_stomp_full.txt",
+  "out": "art/design/out/rlow3_stomp.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_face_full.txt",
+  "out": "art/design/out/rcu_face.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png",
+   "art/design/board/rin_A2.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_hand_full.txt",
+  "out": "art/design/out/rcu_hand.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png",
+   "art/design/out/lespaul_v3.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rcu_feet_full.txt",
+  "out": "art/design/out/rcu_feet.png",
+  "ref": [
+   "art/design/out/rlow3_master_k.png"
+  ]
+ }
+]

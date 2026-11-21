@@ -1,0 +1,143 @@
+{
+ "_note": "seg_10 parts, each measured on its own drawing in that drawing's px (web/lib/parts.js; work/seg/10/parts/measure10.py). soles: point = between the two shoes on their bottom row (the placement origin, on the floor); feet = each shoe just above its bottom (checked on the drawing). handle: where code draws the gig bag's carry handle and the tag cord; base = the handle loop's two feet, all on the drawn bag. hand: the box of her right (pushing) hand; the door's free edge / face must be under it.",
+ "r10_door": {
+  "soles": {
+   "point": [
+    511,
+    1519
+   ],
+   "feet": [
+    [
+     469,
+     1517
+    ],
+    [
+     553,
+     1517
+    ]
+   ]
+  }
+ },
+ "r10g_doorb": {
+  "soles": {
+   "point": [
+    511,
+    1520
+   ],
+   "feet": [
+    [
+     469,
+     1518
+    ],
+    [
+     553,
+     1518
+    ]
+   ]
+  }
+ },
+ "r10g_back": {
+  "handle": {
+   "point": [
+    820,
+    760
+   ],
+   "base": [
+    [
+     784,
+     778
+    ],
+    [
+     856,
+     778
+    ]
+   ]
+  }
+ },
+ "g10f_bag": {
+  "handle": {
+   "point": [
+    259,
+    868
+   ]
+  }
+ },
+ "r10g_lock": {
+  "soles": {
+   "point": [
+    376,
+    1516
+   ],
+   "feet": [
+    [
+     335,
+     1514
+    ],
+    [
+     417,
+     1514
+    ]
+   ]
+  },
+  "hand": {
+   "box": [
+    570,
+    768,
+    652,
+    858
+   ]
+  }
+ },
+ "r10g_lockm": {
+  "soles": {
+   "point": [
+    375,
+    1516
+   ],
+   "feet": [
+    [
+     334,
+     1514
+    ],
+    [
+     416,
+     1514
+    ]
+   ]
+  },
+  "hand": {
+   "box": [
+    700,
+    640,
+    784,
+    777
+   ]
+  }
+ },
+ "r10g_lockb": {
+  "soles": {
+   "point": [
+    376,
+    1515
+   ],
+   "feet": [
+    [
+     335,
+     1513
+    ],
+    [
+     417,
+     1513
+    ]
+   ]
+  },
+  "hand": {
+   "box": [
+    751,
+    615,
+    838,
+    751
+   ]
+  }
+ }
+}

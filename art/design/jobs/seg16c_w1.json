@@ -1,0 +1,29 @@
+[
+ {
+  "prompt": "art/design/prompts/m16_wreck_a_full.txt",
+  "out": "art/design/out/m16_wreck_a.png",
+  "ref": [
+   "art/design/../../work/seg/16/smash/cabinet_ref.png",
+   "art/design/../../work/seg/16/smash/cabinet_her_ref.png",
+   "art/design/../canon/ticket_gate_front_side.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/m16_wreck_b_full.txt",
+  "out": "art/design/out/m16_wreck_b.png",
+  "ref": [
+   "art/design/../../work/seg/16/smash/cabinet_ref.png",
+   "art/design/../../work/seg/16/smash/cabinet_her_ref.png",
+   "art/design/../canon/ticket_gate_front_side.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/m16_wreck_c_full.txt",
+  "out": "art/design/out/m16_wreck_c.png",
+  "ref": [
+   "art/design/../../work/seg/16/smash/cabinet_ref.png",
+   "art/design/../../work/seg/16/smash/cabinet_her_ref.png",
+   "art/design/../canon/ticket_gate_front_side.png"
+  ]
+ }
+]

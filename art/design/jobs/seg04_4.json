@@ -1,0 +1,34 @@
+[
+ {
+  "prompt": "art/design/prompts/r04c_zip_full.txt",
+  "out": "art/design/out/r04c_zip.png",
+  "ref": [
+   "art/design/out/r04a_zip.png",
+   "art/design/board/seg04_cold_face.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r04c_zip_full.txt",
+  "out": "art/design/out/r04c_zip2.png",
+  "ref": [
+   "art/design/out/r04a_zip.png",
+   "art/design/board/seg04_cold_face.png",
+   "art/design/../canon/gigbag_front_back_side_open.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/h04_push_full.txt",
+  "out": "art/design/out/h04_push.png",
+  "ref": [
+   "art/design/../cut/hpen3.png",
+   "art/design/../canon/leadholder_2mm.png",
+   "art/design/../canon/rin_hand_pencil.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

@@ -1,0 +1,25 @@
+[
+ {
+  "prompt": "art/design/prompts/h13_erase_full.txt",
+  "out": "art/design/out/h13_erase.png",
+  "ref": [
+   "art/design/out/h13_open.png",
+   "art/design/../canon/machine_big_eraser.png",
+   "art/design/board/guide_h13_eraser.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r13_face_up_full.txt",
+  "out": "art/design/out/r13_face_up.png",
+  "ref": [
+   "art/design/out/r13_face.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r13_face_tear_full.txt",
+  "out": "art/design/out/r13_face_tear.png",
+  "ref": [
+   "art/design/out/r13_face.png"
+  ]
+ }
+]

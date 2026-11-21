@@ -1,0 +1,9 @@
+[
+ {
+  "prompt": "art/design/prompts/s02_p8b_full.txt",
+  "out": "art/design/out/s02_p8b.png",
+  "ref": [
+   "art/design/../canon/town/p08_kato_daisuke_worker.png"
+  ]
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "prompt": "art/design/prompts/R14f_yank_full.txt",
+  "out": "art/design/out/R14f_yank.png",
+  "ref": [
+   "art/design/../design/out/R14f_grip2.png",
+   "art/design/../design/out/R14f_throw.png",
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

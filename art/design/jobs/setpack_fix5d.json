@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/sp_lespaul_h_full.txt",
+  "out": "art/design/out/sp_lespaul_h.png",
+  "ref": [
+   "art/design/out/sp_lespaul_e_fit.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/sp_lespaul_i_full.txt",
+  "out": "art/design/out/sp_lespaul_i.png",
+  "ref": [
+   "art/design/out/sp_lespaul_e_fit.png"
+  ]
+ }
+]

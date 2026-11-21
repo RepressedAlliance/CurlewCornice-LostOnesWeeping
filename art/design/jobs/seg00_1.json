@@ -1,0 +1,18 @@
+[
+ {
+  "prompt": "art/design/prompts/r00_hold_a_full.txt",
+  "out": "art/design/out/r00_hold_a.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r00_hold_b_full.txt",
+  "out": "art/design/out/r00_hold_b.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

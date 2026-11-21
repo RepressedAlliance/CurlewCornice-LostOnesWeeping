@@ -1,0 +1,27 @@
+[
+ {
+  "prompt": "art/design/prompts/r07_sit_a_full.txt",
+  "out": "art/design/out/r07_sit_a.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/r07_sit_b_full.txt",
+  "out": "art/design/out/r07_sit_b.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../ref/sheet_hands.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/p07_lespaul_full.txt",
+  "out": "art/design/out/p07_lespaul.png",
+  "ref": [
+   "art/design/../canon/lespaul_goldtop_front_side_back.png"
+  ]
+ }
+]

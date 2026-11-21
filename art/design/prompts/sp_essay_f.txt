@@ -1,0 +1,15 @@
+One illustration (landscape 3:2, the sheet filling almost the whole canvas, seen perfectly straight on from above, flat): a sheet of Japanese genkō-yōshi manuscript paper with a six-year-old girl's composition, written years ago and kept folded ever since.
+The paper: paper white (#F5F3ED). The grid is printed in teal (#218EA3): 12 vertical columns of 10 large cells each. Every cell is an exact SQUARE: cell width = cell height. Between neighbouring columns a narrow empty strip (about one fifth of a cell wide) for ruby, as on real genkō-yōshi. So the whole grid is only a little wider than tall (about 14 cell-widths wide and 10 cells tall), and it sits in the middle of the sheet with WIDE blank paper margins on the left and right; a teal border round the grid. Measure: if the grid is 1000 px tall, each cell is 100 px square. The sheet has been folded into eighths and unfolded: soft creases (one vertical crease down the middle, two horizontal creases) shown as faint teal-grey crease lines with a tiny soft shading, the corners slightly softened. Clean, not dirty, not torn.
+The writing: in pencil (soft graphite grey #3A3A40, with a slight graphite sheen), a first-grader's careful, neat, LARGE handwriting: one character in the centre of each cell, filling about 70% of the cell, strokes a little wobbly but tidy and correct. Vertical writing, columns read from RIGHT to LEFT, each column from top to bottom, exactly one character per cell (□ = empty cell). Small kana (ょ, っ) sit small in the upper right of their cell; 、 and 。 sit in the upper right of their cell; the long-vowel mark ー is a VERTICAL stroke. Column by column, starting at the RIGHTMOST column:
+column 1: □ し ょ う ら い の ゆ め □
+column 2: □ □ □ か が み ね □ り ん
+column 3: □ わ た し は 、 お お き く
+column 4: な っ た ら 、 ギ タ ー を ひ
+column 5: く ひ と に な り た い で す。 (す and 。 share the last cell)
+column 6: □ ギ タ ー を ひ く と 、 み
+column 7: ん な が わ ら っ て く れ る
+column 8: か ら で す 。 □ □ □ □ □
+columns 9 to 12: empty.
+In the empty lower part of columns 10 to 12 (the leftmost columns): the teacher's round stamp in teal ink, 「よくかけました」 inside a double circle, slightly uneven like a real rubber stamp, and next to it a teal hanamaru (a spiral circle with petals) drawn with a teal pen.
+Pencil and teal are the only colours. Every character must be correct; nothing else is written. It must look like a real, touching keepsake, beautiful and neat, never crayon, never messy.
+Absolutely no red, pink or orange anywhere. No watermark.

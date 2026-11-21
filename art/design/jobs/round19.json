@@ -1,0 +1,37 @@
+[
+ {
+  "prompt": "art/design/prompts/rph_down_full.txt",
+  "out": "art/design/out/rph_down.png",
+  "ref": [
+   "art/design/out/roof_play_hip.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rph_bow_full.txt",
+  "out": "art/design/out/rph_bow.png",
+  "ref": [
+   "art/design/out/roof_play_hip.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/rph_roar_full.txt",
+  "out": "art/design/out/rph_roar.png",
+  "ref": [
+   "art/design/out/roof_play_hip.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/yank_grab_full.txt",
+  "out": "art/design/out/yank_grab.png",
+  "ref": [
+   "art/design/out/yank_hi.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/yank_pull_full.txt",
+  "out": "art/design/out/yank_pull.png",
+  "ref": [
+   "art/design/out/yank_hi.png"
+  ]
+ }
+]

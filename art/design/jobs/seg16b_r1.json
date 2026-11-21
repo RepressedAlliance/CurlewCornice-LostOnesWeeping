@@ -1,0 +1,24 @@
+[
+ {
+  "prompt": "art/design/prompts/g16_pick_dn_a_full.txt",
+  "out": "art/design/out/g16_pick_dn_a.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/R15_strum_3.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R15_strum_1.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/g16_pick_dn_b_full.txt",
+  "out": "art/design/out/g16_pick_dn_b.png",
+  "ref": [
+   "art/design/../canon/rin_turnaround.png",
+   "art/design/../cut/R15_strum_3.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../cut/R15_strum_1.png",
+   "art/design/../ref/sheet_hands.png"
+  ]
+ }
+]

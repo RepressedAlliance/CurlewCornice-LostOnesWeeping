@@ -1,0 +1,10 @@
+Redraw the first attached design sheet EXACTLY (the same three guitars, layout, positions, outlines, sizes, frets, colours, drawing hand, the same fully TRANSPARENT background, PNG alpha). Its geometry is measured: nothing moves. Change ONLY the small bell-shaped TRUSS-ROD COVER on the front view's headstock, just above the nut, so that it clearly reads as a separate solid plate screwed onto the headstock face:
+- a FILLED plate in a dark charcoal (a visibly lighter and cooler black than the headstock face around it), with one small hard highlight shape near its top;
+- a clear cream border band all round it, about twice as thick as the thin line there now, CLOSED along its flat bottom edge too (the bottom edge sits just above the nut, parallel to it);
+- two tiny silver screw heads, one near the rounded top and one near the bottom;
+- the strings pass OVER the plate: the strings are drawn on top of the plate, continuous lines from the nut to the tuner posts.
+Same size and place as the present cover. No text.
+Drawing: the same hand as the attached character turnaround (her design sheet): clean modern Japanese anime model-sheet illustration, crisp even dark-grey outlines (a little heavier on the outer contour), flat colours with exactly one hard-edged shadow tone per material and at most one small hard highlight shape on metal or lacquer, simple shapes, few inner lines, no gradients, no airbrush, no glow, no blur, no texture, no photographic rendering, no 3D-render look.
+Fully TRANSPARENT background (PNG alpha) everywhere outside the subject: no floor, no ground line, no cast shadow, no frame, no paper colour behind it. Every part of the subject is fully opaque, including its white and paper-white parts.
+No captions, no labels, no title, no logos, no watermark.
+Absolutely no red, pink or orange (the only warm colour is the gold top and gold knobs) anywhere.

@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/hand_pencil_g2_full.txt",
+  "out": "art/design/out/hand_pencil_g2.png",
+  "ref": [
+   "art/design/out/hand_pencil_g.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/hand_eraser_g2_full.txt",
+  "out": "art/design/out/hand_eraser_g2.png",
+  "ref": [
+   "art/design/out/rin_A2.png"
+  ]
+ }
+]
