@@ -24,7 +24,7 @@
 // SLIDE: same numbers, drawing order, slot-column clip, both arrows clear of the card, no halo; SYNC 08b SLIDE reads them
 // from 08b's source); the figure at CHY 715 (問四 and the panels 12 px up), the pinch points recomputed from the new ring B;
 // CARD COVER AUDIT (boxes, the printed figure, every frame's page and front layers against the card drawn alone).
-// Round 11 (2026-11-21, user after the second cut: 「一直抖动屏幕……看着很晕」; docs/制作约定.md 第六节「整屏运动」): five whole-frame
+// Round 11 (2026-11-21, director after the second cut: “screen motion can have rhythm but must not cause dizziness”; docs/制作约定.md 第六节「整屏运动」): five whole-frame
 // jolts instead of ~45 (k360 大击, k374, k392, k399 ordinary <= 1 %, k421 大击), the push into the tear k382 as the registered
 // whip, two flashes (k360, k420); no punch-backs, dips or shakes; S4 keeps the band in the frame (zoom anchored on the top
 // edge); S5's strips sway one way and settle. MOTION AUDIT and PART AUDIT (web/lib/parts.js, art/cut/seg12_parts.json:
@@ -59,7 +59,7 @@ export default async function seg12(H) {
   const tb = (ctx, text, font, box, o = {}) => textBox(ctx, text, font, box, { layout: LAY, ...o });
   const flat = p => p;
 
-  // ---------- rhythm pass (2026-11-21, user: 「这是一首摇滚乐 我希望我的的切分镜啊 什么动态效果啊……就是希望视频跟歌曲节奏一致」) ----------
+  // ---------- rhythm pass (2026-11-21, director: “cuts and motion should follow the rock song's rhythm”) ----------
   // work/rhythm_diag (drums on the backing stem against the film's frame differences): this chorus is loud (44.9 dB) but its
   // picture was the film's stillest (75 % of frames static; k392-k406 locked for 15 beats; the k420-k423 tutti not met). The
   // camera now hits with the drums. Every strike starts on its beat's frame (the first frame at or after the beat; nothing early)
@@ -70,7 +70,7 @@ export default async function seg12(H) {
   //          (with snap: whole on the beat frame, a 4 % overshoot on the next, settled on the third: a cut-in, S4 k399)
   //   flash  paper white over the whole frame, 78 % on the beat frame and 30 % on the next (crashes only, one per 4-bar phrase)
   // Only the strike's start is a beat event (registered below); its 3-4 frame arrival is the strike itself, not a second event.
-  // Round 11 (2026-11-21, the user after the second cut: 「你为什么要一直抖动屏幕？……看着很晕啊」「不是完全不能晃 但是不能晕」;
+  // Round 11 (2026-11-21, the director after the second cut: “screen motion can have rhythm but must not cause dizziness”;
   // docs/制作约定.md 第六节「整屏运动」, MOTION AUDIT below): the camera no longer hits every beat. The whole frame jolts five
   // times in the segment: k360 (大击: crash, 号哭 slams), k374 (second 読み取れません, <= 1 %), k392 (S4's crash, <= 1 %), k399
   // (her hands punch through, <= 1 %), k421 (大击: the loudest crash of the closing tutti, 26.6 dB); k382 is the registered whip
@@ -1297,7 +1297,7 @@ export default async function seg12(H) {
     console.warn(`CARD COVER AUDIT seg_12 S4 (her card vs the rest of panel ③, the slot column excepted; ${px.length} card-face px tested): ${boxOv.length} box overlaps; the printed figure ${printed.n} px on the card${printed.bb ? ' [' + printed.bb + ']' : ''}; ${bad.length} of ${rows.length} frames with something on the card${bad.length ? ': ' + bad.slice(0, 12).map(r => `f${r.f} page ${r.page} front ${r.front} [${r.box}]`).join(', ') : ''}; forearm shadow on the card in ${shaded.length} frames${shaded.length ? ` (most ${Math.max(...shaded.map(r => r.shadow))} px)` : ''}`);
     return { boxOverlaps: boxOv, printedPx: printed.n, frames: rows.length, framesCovered: bad, shadowFrames: shaded.length, sync08b: SYNC08B.same, problems: problems + (SYNC08B.same ? 0 : 1) };
   })();
-  // LYRIC AUDIT (2026-11-21, user: 「我们的歌词好像比曲子慢了一点」): every sung character of 句38-45 and the first frame it reads
+  // LYRIC AUDIT (2026-11-21, director: “lyrics appear slightly behind the singing”): every sung character of 句38-45 and the first frame it reads
   // on, found by stepping the frames round its onset through the same gates and progress the drawing uses (printSung and
   // whiteLetter: sungBuild whole; the windows: sungShown and whole; the heavy pencil: the write-on finished and its strip
   // folded down far enough to show its back, theta >= 0.85 pi), and only while its shot is on screen

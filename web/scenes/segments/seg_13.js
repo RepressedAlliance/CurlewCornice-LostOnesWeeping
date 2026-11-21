@@ -56,8 +56,8 @@ export default async function seg13(H) {
   const clamp01 = f => Math.min(1, Math.max(0, f));
   const lerp = (a, b, u) => a + (b - a) * u, lerp2 = (A, B, u) => [lerp(A[0], B[0], u), lerp(A[1], B[1], u)];
   const C_HALF = 'C 段实测切分重击';
-  // (2026-11-21 rhythm pass, user: 「这是一首摇滚乐 ……希望视频跟歌曲节奏一致」) the picture answers the music's hits, still
-  // between them. (2026-11-21 third pass, user: 「你为什么要一直抖动屏幕？……看着很晕」, 制作约定第六节「整屏运动」) the frame
+  // (2026-11-21 rhythm pass, director: “cuts and motion should follow the rock song's rhythm”) the picture answers the music's hits, still
+  // between them. (2026-11-21 third pass, director: “screen motion can have rhythm but must not cause dizziness”, 制作约定第六节「整屏运动」) the frame
   // itself no longer answers any hit here: no desk steps, no street dips, no face steps. 13 is the quietest section: the hits
   // are answered inside the picture (the slap and the presses, the folds, the eraser on each strip, each paper snatched into
   // the grating, her look up); the camera only makes the one eased push in (k437.5-k441), the one registered whip out to her
@@ -283,7 +283,7 @@ export default async function seg13(H) {
   const CHUNK = [L48.slice(0, 3), L48.slice(3, 5), L48.slice(5, 7), L48.slice(7)];
   const LETTERS = CHUNK.map((ch, i) => ({ i, chars: ch, x: XS[i] }));
   LETTERS.forEach(L => LAY.text(`strip ${L.i + 1} letters`, 's1letters', [L.x - LSZ * 0.6, LTOP, LSZ * 1.2, L.chars.length * LSZ * LSTEP]));
-  // (2026-11-21, user: 「我们的歌词好像比曲子慢了一点」) the eraser covers the strip it is rubbing, so a strip's letters only
+  // (2026-11-21, director: “lyrics appear slightly behind the singing”) the eraser covers the strip it is rubbing, so a strip's letters only
   // read once it has stepped off: it used to land on strip 1 on k439, four frames before そ, and keep その夢 and すら under
   // its body 0.3 s and 0.15 s past their onsets. Now it comes in one beat earlier (k438, during the push) and steps off each
   // strip before that strip's first letter is sung: strip 1 off k439 (そ k439.33), strip 2 off k440 (す k440.9), strip 3 off

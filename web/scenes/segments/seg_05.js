@@ -43,7 +43,7 @@ export default async function seg05(H) {
   const LY = await loadLyrics();
   const SUNG = LY.lineAt(5, 'ノーフィクション');            // [[char, t], ...]
   const HIT = SUNG.map(([, t]) => t);
-  // 2026-11-21 (user: 「我们的歌词好像比曲子慢了一点」; docs/制作约定.md 第六节): a syllable's letter must read on the frame its
+  // 2026-11-21 (director: “lyrics appear slightly behind the singing”; docs/制作约定.md 第六节): a syllable's letter must read on the frame its
   // onset falls in. The old blow started on the frame after the onset with a one-frame jolt, so a letter read 3-4 frames
   // late. Now each blow starts on the frame before the onset's frame (ONF: the onset's frame, TS: the blow's first frame) and
   // has opened the hole far enough to read on the onset's frame (blowE below).
@@ -512,7 +512,7 @@ export default async function seg05(H) {
   }
 
   // ---------------- the camera (2026-11-21 third pass: 有节奏感，但不晕; docs/制作约定.md 第六节「整屏运动」) ----------------
-  // User after the second cut: 「你为什么要一直抖动屏幕？节奏感确实有 但是看着很晕啊」「不是完全不能晃 但是不能晕」. The second
+  // Director after the second cut: “screen motion can have rhythm but must not cause dizziness”. The second
   // cut stepped, kicked and dipped the whole frame on almost every beat here (19 jolts: S1 k105-k107 steps, S2 steps and dips,
   // S3 snare hits, a kick and a dip on every blow, k120 hit + dip + step, k124 step, S5 three 5 % steps, k132 dip, k133 hit).
   // Now the frame jolts twice in the segment, both registered 大击, both one-way (in within 3 frames, at most 6 % past, then it

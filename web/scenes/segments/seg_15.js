@@ -22,7 +22,7 @@
 //   S7 k540-k556  her waist shot, centred, the faces turned to her round her: eight strumming keys, one every two beats, the
 //                 head rising; k544 the camera jolts in on the heavy strum; k548-k556 the frame rises onto her face.
 // 2026-11-21: changed after the independent review of the finished segment (docs/分镜/15_尾奏riff.md 第 4 稿).
-// 2026-11-21 rhythm pass (user: 「这是一首摇滚乐……希望视频跟歌曲节奏一致」「结尾那个吉他弦都脱离吉他了」; work/rhythm_diag): the
+// 2026-11-21 rhythm pass (director: “cuts and motion should follow the rock song's rhythm”“guitar strings drawn off the guitar”; work/rhythm_diag): the
 // slides became steps on the drums, every step starting on the beat's frame (more than half there on it, in place on the
 // third, still between steps): S3 one pan step a beat k509-k516 (double steps on the bar lines k512, k516), three big steps
 // that pan and pull back on the three heavy kicks k517-k519, k520 a small step in, still through the stop; k523 (tutti hit 2)
@@ -31,7 +31,7 @@
 // k540 (crash) a flash on the cut; S7 three steps in towards her face on the three heavy kicks k549-k551, still to the cut
 // (no slow rise). Her strings are measured on each drawing in its own px (art/cut/seg15_anchors.json strings_by, nut to
 // bridge, work/seg/15/fin/strings_measure.py), drawn with the drawing's one transform, her hands drawn back over them.
-// 2026-11-21 third round (user after the second cut: 「你为什么要一直抖动屏幕？……不是完全不能晃 但是不能晕」「笔芯和笔不对了 还有
+// 2026-11-21 third round (director after the second cut: “screen motion can have rhythm but must not cause dizziness”「笔芯和笔不对了 还有
 // 其他地方 也有吉他弦和吉他不是一块的」, and the guitar-smash ending; docs/制作约定.md 第六节「整屏运动」): the frame no longer
 // steps or punches on the drums. S1 the card lands and lies dead still, then drops out (a registered whip, k491); S2 one slow
 // eased push W7 -> F3 (k492-k508) while the doors open on the bar lines, the clock's second hand ticks a notch on every beat

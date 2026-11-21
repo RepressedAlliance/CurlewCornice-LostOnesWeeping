@@ -4,7 +4,7 @@
 // A machine print on a beat event starts on that beat's frame and builds up over three frames (a sweep or fade): the hit is
 // the start of the print. A SUNG character is different: it must already read on the frame the singer opens their mouth.
 //
-// Sung characters (2026-11-21, user: 「我们的歌词好像比曲子慢了一点」): the old curve started a sung character on the first
+// Sung characters (2026-11-21, director: “lyrics appear slightly behind the singing”): the old curve started a sung character on the first
 // frame at or after its onset (frame grid rounding: up to 1 frame late) and gave it 1/3, 2/3, 1 over three frames, so it read
 // 1-2 frames (33-63 ms) after the onset and was whole 2-3 frames after; visual-after-audio of about 45 ms is where people start
 // to notice (ITU-R BT.1359). Now (sungBuild): the frame that contains the onset, floor(t * 30), shows it whole; the frame before

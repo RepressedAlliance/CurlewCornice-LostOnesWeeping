@@ -1,5 +1,5 @@
-"""Segment 16, third round (2026-11-21, after the user's second-cut feedback: 「lost one的号哭 很多都是做砸吉他 我们要不要也做
-但是不能简单的做……要用你的优势 做出来要高质量」; strings drawn by code over a drawing are gone: 「吉他弦和吉他不是一块的」).
+"""Segment 16, third round (2026-11-21, after the director's second-cut feedback: make the guitar smash the climax,
+and make it high quality rather than a simple version; strings drawn by code over a drawing are gone, since they did not read as part of the guitar).
 The ending smashes the guitar into her reader (machine 4, the one that printed もう一度 at her in 03) on the last chord k570.
 Key drawings only (no frame-by-frame swing); every drawing has its own strings, nothing is laid over them by code.
 

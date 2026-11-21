@@ -22,7 +22,7 @@
 // 03 on (審査後改定 15: 読み取れません in the name field, ロストワン in print, の号哭 in her pencil) is drawn over it here
 // with web/lib/her_card.js (the film's one card face, docs/卡面状態.md), warped through the holder window's four corners
 // measured in each drawing (HOLDER; version 6, 2026-11-21; version 5's page is archive/seg07_v5_before_card_20261121/).
-// Version 7 (2026-11-21, rhythm pass after the user watched the whole film; version 6's page is
+// Version 7 (2026-11-21, rhythm pass after the director watched the whole film; version 6's page is
 // archive/seg07_v6_before_rhythm_20261121/): sung letters are whole on the frame their onset falls in (print.js sungBuild,
 // LYRIC AUDIT); the camera answers the drums (see "Version 7" at the camera): the 満 slams with a dip, steps on the calendar,
 // the close-up push as four growing steps on the crash and the fill. The design and every drawing are unchanged.
@@ -281,7 +281,7 @@ export default async function seg07(H) {
                A: [1.02, 96, 134], B: [1.7, 58, 113], C: [1.70, 79.5, 124.5], C2: [1.74, 79.5, 124.5], D: [2.0, 38, 111], E: [2.52, 38, 112] };
   const FACE = [AN.faceX, AN.faceH];
   const FIELDS_C = [CARD_MX, cardH(12.9)];
-  // Version 8 (2026-11-21, the user after the second cut: 「你为什么要一直抖动屏幕？……看着很晕啊」「不是完全不能晃 但是不能晕」;
+  // Version 8 (2026-11-21, the director after the second cut: “screen motion can have rhythm but must not cause dizziness”;
   // docs/制作约定.md 第六节「整屏运动」, MOTION AUDIT): version 7's camera answered the drums with steps, zoom kicks and dips
   // (13 jolts, 5 large moves in one take). Now the frame never jolts except the one registered whip, the pull to her room on
   // k175; everything else is a slow eased move in one direction, and the beat is carried inside the picture: the 特になし

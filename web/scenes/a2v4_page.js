@@ -8,7 +8,7 @@
 //     only on the beat or the half beat, never slides.
 // Shots: 1 the spread of 数学 and 理科, a correct mark on every beat; 2 国語 question 3, the pencil hovering; 3 ア イ ウ エ each
 // printed 不正解; 4 the result slip and her stiff smile.
-// Confirmed by the user as version 15 (2026-11-20). Since the shared-library refactor (2026-11-20) the beat, lyrics, layout,
+// Confirmed by the director as version 15 (2026-11-20). Since the shared-library refactor (2026-11-20) the beat, lyrics, layout,
 // camera, hand, print and colours come from web/lib/; the frames are identical to version 15 (work/infra/refactor_diff.txt).
 import { BEAT, BV0, FRAME as FR, beatV, smooth, createScore, publishAudit } from '../lib/score.js';
 import { loadLyrics } from '../lib/lyrics.js';

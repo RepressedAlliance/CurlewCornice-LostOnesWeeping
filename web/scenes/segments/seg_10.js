@@ -16,10 +16,10 @@
 //                 box. k312 the lights thicken; on the snares k315 and k319 a lamp sweeps the glass from the snare's frame
 //                 (k319's the wide one, across her face; it replaced a slow band k317-k319 whose ends no one could see);
 //                 k320-k322 the train brakes and a platform pillar comes in and stops in the glass.
-// 2026-11-21 (user, after the whole film: lyrics a little behind the song; the picture should go with the rock rhythm):
+// 2026-11-21 (director, after the whole film: lyrics a little behind the song; the picture should go with the rock rhythm):
 // the display's sung letters show with print.js sungBuild (whole on the onset's frame), LYRIC AUDIT checks every sung
 // letter; the lamp passes on k315 / k319. B stays the quietest part: no flash, no punch added.
-// 2026-11-21 motion pass (user, second cut: 「你为什么要一直抖动屏幕……看着很晕」; 制作约定 第六节 整屏运动): the car no longer
+// 2026-11-21 motion pass (director, second cut: “screen motion can have rhythm but must not cause dizziness”; 制作约定 第六节 整屏运动): the car no longer
 // drops and rebounds as a whole on k299 / k303 / k307 (S1) nor the door and her head on k315 / k319 (S2) — those were
 // whole-frame there-and-back shakes. The snares stay in the picture: the straps swing together and a pole sweeps past the
 // windows (S1), the tag swings and a lamp crosses the glass (S2). The camera's only jolt is the registered 大击 on k307
@@ -184,7 +184,7 @@ export default async function seg10(H) {
   const RES = 2, glyphs = {};
   function glyph(ch, k, seed) { const key = ch + k + seed; return (glyphs[key] ||= dots16(ch, k * RES, seed, INK_RGB)); }
   // a sung character on the display: whole on the frame its onset falls in, 55% on the frame before (print.js sungBuild;
-  // 2026-11-21 the old 1/3, 2/3, 1 fade from the onset read 1-2 frames late: 「歌词好像比曲子慢了一点」)
+  // 2026-11-21 the old 1/3, 2/3, 1 fade from the onset read 1-2 frames late: “lyrics appear slightly behind the singing”)
   function dotChar(ctx, ch, cx, cy, k, age, seed) {
     const f = sungBuild(age); if (f <= 0) return;
     const D = glyph(ch, k, seed), w = D.w / RES, h = D.h / RES;
@@ -387,7 +387,7 @@ export default async function seg10(H) {
       gr.addColorStop(0, rgba(PAPER_RGB, 0)); gr.addColorStop(0.3, rgba(PAPER_RGB, a)); gr.addColorStop(0.75, rgba(PAPER_RGB, a)); gr.addColorStop(1, rgba(PAPER_RGB, 0));
       ctx.strokeStyle = gr; ctx.lineWidth = dense ? 7 : 5; ctx.beginPath(); ctx.moveTo(x, ly); ctx.lineTo(x + L, ly); ctx.stroke();
     });
-    // the snares on beat 4 (k315, k319): a lamp close to the track sweeps the glass right to left (2026-11-21, user: the
+    // the snares on beat 4 (k315, k319): a lamp close to the track sweeps the glass right to left (2026-11-21, director: the
     // picture should go with the song's rhythm). It is there, whole, on the snare's frame (no fade-in), and the glass lifts
     // once with it; it travels with the train (so it slows with the brake). k319's is the wide one that crosses her face.
     for (const L of LAMPS) {

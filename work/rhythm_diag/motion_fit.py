@@ -1,6 +1,6 @@
 import os as _os_lo
 _LO_ROOT = (_os_lo.environ.get('LOSTONE_ROOT') or _os_lo.path.abspath(_os_lo.path.join(_os_lo.path.dirname(_os_lo.path.abspath(__file__)), '../..'))).replace('\\', '/')
-"""Whole-frame motion of film.mp4, frame by frame (2026-11-21 motion pass: "一直抖动屏幕……看着很晕").
+"""Whole-frame motion of film.mp4, frame by frame (2026-11-21 motion pass: screen motion must not cause dizziness).
 Streams the film at 384x216 gray (no full load: the machine is in use), fits a global similarity per frame pair
 (translation a, c; isotropic zoom s; roll r) coarse-to-fine with robust (Cauchy) weights, so characters moving inside the
 frame do not count as camera. Writes motion.npz: tx, ty in 1920-px units per frame, dz (scale change per frame), rot

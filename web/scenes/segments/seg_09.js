@@ -282,8 +282,8 @@ export default async function seg09(H) {
   const PLANT_NEAR = eq(0, PLANT_H, PLANT_D)[1];                      // the near edge (the top of its front face)
   const WF_LAST = 650, YB_LAST = PLANT_NEAR - 0.06 * WF_LAST * 0.5625;
   const DOWN0 = 287, DOWN1 = 289;
-  // ---- the whole frame's motion (third pass, 2026-11-21, docs/制作约定.md 第六节「整屏运动」; user on the second cut: 「你为什么要
-  // 一直抖动屏幕？……看着很晕」「不是完全不能晃 但是不能晕」). The second pass stepped the zoom out on every beat k269-k284 with an
+  // ---- the whole frame's motion (third pass, 2026-11-21, docs/制作约定.md 第六节「整屏运动」; director on the second cut:
+  // “screen motion can have rhythm but must not cause dizziness”). The second pass stepped the zoom out on every beat k269-k284 with an
   // overshoot (16 jolts in a row, a back-and-forth), punched the macro on k265-k268, landed the move down with an overshoot,
   // pushed in on k290/k291 and punched k292: 18 jolts. Now the frame moves only three times:
   //   k265 大击 (the crash, card A flips): one step in on the macro, 3 frames, no overshoot, it stays;
@@ -537,7 +537,7 @@ export default async function seg09(H) {
   const RIN_TOP = rinAt(0, RA.bow)[1];                             // the bow's top, fence-equivalent (must stay under 180 before the move down)
   // her drawing's placement on screen for a camera (X, Y, s): ONE transform for the drawing and every part on it (parts.js)
   const rinPlace = (X, Y, s) => { const [a0, b0] = rinAt(0, 0); return placement({ x: X(a0), y: Y(b0), s: RIN_CM * s }); };
-  // The strings (2026-11-21 third pass; user: 「吉他弦和吉他不是一块的」). Codex drew five-pole pickups and five strings on these two
+  // The strings (2026-11-21 third pass; director: the strings did not read as part of the guitar). Codex drew five-pole pickups and five strings on these two
   // drawings (the gold top between the pickups shows five desaturated lines on the pole lines). Each string is measured on each
   // drawing: the line through its bridge-pickup pole and its neck-pickup pole, refined on the drawn string's own pixels (rms
   // 0.3-0.5 px), from where her sleeve stops covering it near the tailpiece to the neck joint (strings_body), then on over the

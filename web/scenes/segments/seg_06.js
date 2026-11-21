@@ -1,5 +1,5 @@
 // Segment 06, A2 (k135-k171, frames [1510, 1910), lines 6-10; docs/分镜/06_A2.md 第 3 稿, 帧表_定稿).
-// This is Demo 1 version 15 (web/scenes/a2v4_page.js, confirmed by the user 2026-11-20) put back into the film. The page is a
+// This is Demo 1 version 15 (web/scenes/a2v4_page.js, confirmed by the director 2026-11-20) put back into the film. The page is a
 // copy of a2v4_page.js; everything up to k167 is the confirmed page line for line (the original file is not touched), and the
 // changes are only these:
 //   - timing: the film shows frame g at song time g/30, the confirmed render showed its frame i at 50.05 + i/30; the
@@ -17,7 +17,7 @@
 //   - the timeline: shot face and face crack now end at k171 (from k167 carried up out of frame by the move);
 //   - 2026-11-21 (card unification, 同类自查 a): the last 不正解 (エ) slams about its bottom centre instead of its centre, so on
 //     its hit frame its ruled frame no longer runs out of the bottom edge (see stampSlam); this changes frames 1743-1745 only.
-//   - 2026-11-21 (user, on the whole film: 「这是一首摇滚乐……希望视频跟歌曲节奏一致」「我们的歌词好像比曲子慢了一点」):
+//   - 2026-11-21 (director, on the whole film: “cuts and motion should follow the rock song's rhythm”“lyrics appear slightly behind the singing”):
 //     * lyrics: every sung character (lines 6-10) reads on the frame its onset falls in, floor(t * 30) (制作约定 第六节).
 //       Sung gates run on FILM time (g / 30), not on this page's time, which is half a frame ahead (pageTime): the pencil
 //       (lines 6-8, print.js pencilWriter: 55% on the frame before, whole on the onset frame) and the slip's 16-dot lines 9-10
@@ -29,7 +29,7 @@
 //       still through the rest of the fill; on the crash k168 the camera starts the move down (2 frames to speed, even, 6
 //       frames to rest at k171, the same 585 px in all, so the k171 frame and the hand-over to 07 are unchanged). Still no
 //       sink or shake on the slip at k168 (全片分镜 审查后改定 2).
-//   - 2026-11-21 (user, second cut: 「你为什么要一直抖动屏幕？……看着很晕啊」「不是完全不能晃 但是不能晕」; 制作约定 第六节「整屏运动」):
+//   - 2026-11-21 (director, second cut: “screen motion can have rhythm but must not cause dizziness”; 制作约定 第六节「整屏运动」):
 //     * no punch on k136 (the first mark printing is the hit); no shake on the last 不正解 (the stamp's own slam is the hit);
 //     * k152 (ア, crash) is a registered 大击: in over 2 frames, back over 16 frames, eased (punchBig);
 //     * the slip comes in at the cut k159 already rising and settles by k160 (eased out: no start-up jolt after the cut);
@@ -51,7 +51,7 @@
 //     only on the beat or the half beat, never slides.
 // Shots: 1 the spread of 数学 and 理科, a correct mark on every beat; 2 国語 question 3, the pencil hovering; 3 ア イ ウ エ each
 // printed 不正解; 4 the result slip and her stiff smile.
-// Confirmed by the user as version 15 (2026-11-20). Since the shared-library refactor (2026-11-20) the beat, lyrics, layout,
+// Confirmed by the director as version 15 (2026-11-20). Since the shared-library refactor (2026-11-20) the beat, lyrics, layout,
 // camera, hand, print and colours come from web/lib/; the frames are identical to version 15 (work/infra/refactor_diff.txt).
 import { BEAT, BV0, FRAME as FR, beatV, smooth, ease, createScore, publishAudit } from '../../lib/score.js';
 import { loadLyrics, lyricAudit, onsetFrame } from '../../lib/lyrics.js';

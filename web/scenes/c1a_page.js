@@ -6,7 +6,7 @@
 // then she plays and shouts in the graphite while an eraser rubs on the beats and her shout is rubbed out in white.
 // Every block is measured into its box; something happens on every beat; the camera pushes and punches with the music; her
 // drawings change only on the beat; the camera never shows past the page.
-// Confirmed by the user as version 15 (2026-11-20). Since the shared-library refactor (2026-11-20) the beat, lyrics, layout,
+// Confirmed by the director as version 15 (2026-11-20). Since the shared-library refactor (2026-11-20) the beat, lyrics, layout,
 // camera, print and colours come from web/lib/; the frames are identical to version 15 (work/infra/refactor_diff.txt).
 import { drawCard, CARD_RATIO } from '../lib/card.js';
 import { BEAT, FRAME as FR, beatV, smooth, createScore, publishAudit } from '../lib/score.js';

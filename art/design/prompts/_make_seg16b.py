@@ -1,4 +1,4 @@
-"""Segment 16 redo (2026-11-21, user feedback on the whole film: rock rhythm, the ending must hold viewers to the last second):
+"""Segment 16 redo (2026-11-21, director feedback on the whole film: rock rhythm, the ending must hold viewers to the last second):
 the strumming insert that opens the ending figure (design 甲「判定落空」, k556-k560).
 
   g16_pick_dn (master)  insert close-up of her right hand with the pick sweeping DOWN across the strings over the bridge pickup

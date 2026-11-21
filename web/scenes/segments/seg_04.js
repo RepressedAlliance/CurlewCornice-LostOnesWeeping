@@ -53,8 +53,8 @@ export default async function seg04(H) {
   const L0 = LY.lineAt(0), L1 = LY.lineAt(1), L2 = LY.lineAt(2), L3 = LY.lineAt(3), L4 = LY.lineAt(4);
   const T71 = K(71), T79 = K(79), T84 = K(84), T85 = K(85), T86 = K(86), T88 = K(88), T92 = K(92), T95 = K(95), T100 = K(100), T103 = K(103);
 
-  // ---- the rock, round 10 (2026-11-21 第二版反馈: 「你为什么要一直抖动屏幕？……我希望的是视频看着符合节奏 和摇滚的节奏对上 而且不是
-  // 一直抖动头晕」「不是完全不能晃 但是不能晕」; docs/制作约定.md 第六节 整屏运动, MOTION AUDIT). The beat is carried inside the
+  // ---- the rock, round 10 (2026-11-21 second-cut feedback:
+  // “screen motion can have rhythm but must not cause dizziness”; docs/制作约定.md 第六节 整屏运动, MOTION AUDIT). The beat is carried inside the
   // frame (the lead's clicks, the hand coming down, the crush, the black stepping out, the flood, the swap, the cuts); the
   // camera only glides (eased, one direction) and is hit twice in the segment: k72 (ordinary, 1.4%) and k88 (大击, 3.5%), both
   // one-way kicks that stay. stepP is the shape of those kicks: in by n frames with a small give (3.7% over), then still.
@@ -292,7 +292,7 @@ export default async function seg04(H) {
     return { k: 'hold', p: [TIP2[0] + dx, TIP2[1] + dy], rot: 0, lift };
   }
 
-  // the camera of S1 (round 10, 2026-11-21 第二版反馈「一直抖动屏幕……看着很晕」; docs/制作约定.md 第六节 整屏运动). The rock
+  // the camera of S1 (round 10, 2026-11-21 第二版反馈“screen motion can have rhythm but must not cause dizziness”; docs/制作约定.md 第六节 整屏运动). The rock
   // pass cut every move into a step a beat (k72-k91 jolted on 19 beats of 20, 3-4.6% of the width each); now the frame moves
   // only in eased glides and is hit twice: k71 still at 1.15x; one eased push k72 -> k79 that follows the lead out (the clicks
   // are the lead growing 0.5 cm over the printed scale, not the camera); one eased push k79 -> k84 onto the stab point with

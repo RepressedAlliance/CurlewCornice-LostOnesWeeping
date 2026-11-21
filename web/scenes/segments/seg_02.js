@@ -5,7 +5,7 @@
 // It is the same shot as 01 (one camera), so this page is 01's page (seg_01.js) carried on: the same world, row, drawings and
 // camera up to k36 (camAt); 02's first frame continues 01's last exactly. From k36 the camera is a lens zoom on the frozen
 // layers of 01's stop (screen = M * (base - Q) + centre).
-//   third round (2026-11-21, docs/制作约定.md 第六节「整屏运动」; user: 「一直抖动屏幕……看着很晕」): the frame moves once.
+//   third round (2026-11-21, docs/制作约定.md 第六节「整屏运动」; director: “screen motion can have rhythm but must not cause dizziness”): the frame moves once.
 //   k36      the camera snaps out to the wide shot (people plane 0.62x, her card centred, three people each side): a registered
 //            whip, half a beat long (lands on k36.5, ease-out power 5, 180-degree shutter blur), no bounce. The 回送 car pulls
 //            away to the right (she watches it go: r01_follow2) and its tail clears the frame on k37.

@@ -76,8 +76,8 @@ export function frameTimes(t0, a, b, fps = 30) {
 }
 
 // ---------------------------------------------------------------------------------------------------------------------------
-// MOTION AUDIT: the whole frame's motion, frame by frame, against docs/制作约定.md 第六节「整屏运动」(2026-11-21, the user after
-// the second cut: 「你为什么要一直抖动屏幕？节奏感确实有 但是看着很晕啊」「不是完全不能晃 但是不能晕」). It only reads views; no
+// MOTION AUDIT: the whole frame's motion, frame by frame, against docs/制作约定.md 第六节「整屏运动」(2026-11-21, the director after
+// the second cut: “screen motion can have rhythm but must not cause dizziness”). It only reads views; no
 // camera function above changes. The same rules run on a rendered film in work/rhythm_diag/motion_stats.py (mode audit).
 //
 // A jolt is a group of frames where the whole frame starts, stops or turns abruptly: the largest acceleration of the four frame

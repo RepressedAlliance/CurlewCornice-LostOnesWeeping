@@ -19,8 +19,8 @@
 //   k26-k35  an empty 「回送」 car creeps through on the B line behind them, dark body and paper-white windows: a window post
 //            passes behind her head on every beat from k29. A slow push-in from k27 to k36; the kicks jump the cards.
 //   k31.5    in-between, k32 she turns her head to follow the car (r01_side -> r01_turn -> r01_follow2). She never looks at us.
-// Rhythm pass (2026-11-21) took the truck in beat steps with snare zoom kicks and dips; the third pass (2026-11-21, the user
-// after the second cut: 「你为什么要一直抖动屏幕？……看着很晕啊」, docs/制作约定.md 第六节「整屏运动」) took all of that out again:
+// Rhythm pass (2026-11-21) took the truck in beat steps with snare zoom kicks and dips; the third pass (2026-11-21, the director
+// after the second cut: “screen motion can have rhythm but must not cause dizziness”, docs/制作约定.md 第六节「整屏运动」) took all of that out again:
 // one even truck k8-k24, one 大击 on k24 (the stop and a one-way push-in, no dip), one slow push k27-k36. The rhythm is in the
 // frame: the print on every beat, the printed cards jumping on their lanyards (k28/30/32), every card jumping (k33/34/35).
 // Archive of the rhythm-pass page: work/seg/01/seg_01_before_r3.js. See the camera section.
@@ -218,7 +218,7 @@ export default async function seg01(H) {
   // (z 0.9 -> 1.45 on a log scale), its centre on a Hermite curve from 63.5 cm to the stop at k24 with her card at screen
   // x 1000. The curve is set so that p1's card is in frame through k11 and she is in frame from k12, and every card being read
   // stays in frame.
-  // Rhythm pass (2026-11-21, user: "这是一首摇滚乐 我希望我的的切分镜啊 什么动态效果啊……就是希望视频跟歌曲节奏一致";
+  // Rhythm pass (2026-11-21, director: “cuts and motion should follow the rock song's rhythm”;
   // work/rhythm_diag): the path is no longer one glide but taken in steps, one a beat, as the riff hits. Each step starts on
   // the beat frame (the first frame at or after the beat) with over half of it done there, lands on the third frame with a
   // 6 % overshoot and the camera is dead still until the next beat. The bar lines k8/k12/k16/k20 take the big step (1.8 : 0.8
@@ -239,7 +239,7 @@ export default async function seg01(H) {
   const faceCm = toCm(FIG.rin, [620, 560]);              // her face in the drawing (px) -> cm: the push-in's anchor
   const ANCHOR = [960 + (faceCm[0] * PPC - CX_STOP) * ZS, 540 + (yOf(-faceCm[1]) - FY) * ZS];
   const PUSH = 1.5 / 1.45 - 1;                           // to 1.5x at k36 (the drawings shown at 1.5x their own pixels at most)
-  // Third pass (2026-11-21, the user after the second cut: 「你为什么要一直抖动屏幕？节奏感确实有 但是看着很晕啊」「不是完全不能晃
+  // Third pass (2026-11-21, the director after the second cut: “screen motion can have rhythm but must not cause dizziness”「不是完全不能晃
   // 但是不能晕」; docs/制作约定.md 第六节「整屏运动」): the beat steps k8-k23, the snare zoom kicks k17-k31 and every dip are
   // gone. k8-k24 is one even truck again (the old glide: its progress even in time, M0 = M1 = 1); the beat is in the frame:
   // every beat the person being read is printed one shade darker, a band is printed on their card and the card jumps on its

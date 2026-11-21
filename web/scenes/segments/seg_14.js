@@ -520,8 +520,8 @@ export default async function seg14(H) {
   const S2CY = S2BOT + 1080 / S2Z / 2, S2DYB = QP('s2dyb', -0.065);
   const W7 = [W / 6.3, 0, 0.30 + 6.3 * 1080 / W / 2];             // the seven lanes: 6.3 m wide from 0.30 m (the gates and people larger)
   const S3C = [1080 / S3F.h, 0, S3F.cy];
-  // ---- the whole frame's motion (motion pass 2026-11-21, docs/制作约定.md 第六节「整屏运动」; the user after the second cut:
-  // 「你为什么要一直抖动屏幕？……看着很晕啊」「不是完全不能晃 但是不能晕」). The rhythm pass had the camera answer every crash, bar
+  // ---- the whole frame's motion (motion pass 2026-11-21, docs/制作约定.md 第六节「整屏运动」; the director after the second cut:
+  // “screen motion can have rhythm but must not cause dizziness”). The rhythm pass had the camera answer every crash, bar
   // line and snare (punches k457/459/461/469/473/475/477/484-487, steps k460/k476/k479-k482/k483-k485, dips, the k464 sink): 18 jolts
   // in 33 beats. Now the frame moves only on: k456 (大击: the final chorus's first crash, one step in, one-way, the paper-white
   // frame kept), the S2 pan k465 (the registered whip: 佐藤's card to 高橋's, half a beat), k472 (one ordinary step under 1%,

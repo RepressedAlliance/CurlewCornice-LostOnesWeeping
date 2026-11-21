@@ -1,4 +1,4 @@
-"""Segment 16, fifth round (2026-11-22, the user on the smash: 「最后那里又切的太快了？到底会不会戏份太少 太快 不够亮眼」).
+"""Segment 16, fifth round (2026-11-22, director feedback on the smash: it cut away too fast and needed more screen time).
 The smash moves from k570 to k564 (the heaviest crash, 00 k0's beat); the raise is slowed to two key drawings in the BAT frame;
 after the smash about 3.3 s stay on one picture made to be the film's screenshot.
 

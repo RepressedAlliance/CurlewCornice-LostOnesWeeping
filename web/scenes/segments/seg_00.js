@@ -153,8 +153,8 @@ export default async function seg00(H) {
   const ev = S.ev;
   const T_HIT = ev('print 読み取れません hits the whole frame (frame-wide print, dark, crash-in on the card)', beatV(0));
   ev('print soaking into the card; the camera still on the card', beatV(0.5), 'half');
-  // the wall's answers, filled in from both edges one band per hit of the opening figure (2026-11-21 rhythm pass, user: "这是一首
-  //摇滚乐……希望视频跟歌曲节奏一致"). The guitar figure measured on the accompaniment stem (spectral flux, work/rhythm_diag):
+  // the wall's answers, filled in from both edges one band per hit of the opening figure (2026-11-21 rhythm pass, director: cuts and motion should
+  // follow the rock song's rhythm). The guitar figure measured on the accompaniment stem (spectral flux, work/rhythm_diag):
   // hits on k0, k0.5, k1 | k2, k2.5, k3 | k4, k4.5, k5 | k6 (weaker), then the gap k6.25-k6.9, k7 the loudest hit. Every hit
   // after k0 gets a band of marks that slams in (1.3x -> 1.0 in three frames, fresh graphite darker); k0.5 is the print's
   // landing, k4 her reveal. The half-beat bands (k2.5, k4.5) are real guitar hits (flux 0.93 / 0.70 at +4 / +1 ms).
@@ -165,7 +165,7 @@ export default async function seg00(H) {
   const FILLS = [[1, 'beat'], [2, 'beat'], [2.5, 'half'], [3, 'beat'], [4.5, 'half'], [5, 'beat'], [6, 'beat']];
   const T_FILL = FILLS.map(([k, lv]) => ev(`answers slam onto the wall, band k${k} (both edges inwards)${k === 1 ? '; print has soaked in' : ''}${[4.5, 5, 6].includes(k) ? '; every answer on the wall throbs' : ''}`, beatV(k), lv));
   const T_MID = beatV(3.5), T_SWAP = beatV(4);
-  // 2026-11-21 motion pass (docs/制作约定.md 第六节「整屏运动」, user: 「你为什么要一直抖动屏幕？……看着很晕」): the frame moves only
+  // 2026-11-21 motion pass (docs/制作约定.md 第六节「整屏运动」, director: “screen motion can have rhythm but must not cause dizziness”): the frame moves only
   // three times: the k0 crash (大击, one-way), a slow pull-back k1-k4 (eased in and out over three beats: not a jolt), the k7 punch (大击, one-way,
   // held to the cut). The camera steps on k1 k2 k2.5 k3 k5 k6, the k0 sink, the k4 dip and the k4.5 punch are gone: those hits
   // are the answers slamming onto the wall (in the picture, the frame still).

@@ -1,5 +1,5 @@
 // Segment 08a: the first chorus, first half (k199-k232, frames [2221, 2587)): Demo 2 version 15 (web/scenes/c1a_page.js,
-// confirmed by the user 2026-11-20) put back into the film. docs/分镜/08a_副歌1前半.md (第 3 版) and 全片分镜 审查后改定.
+// confirmed by the director 2026-11-20) put back into the film. docs/分镜/08a_副歌1前半.md (第 3 版) and 全片分镜 审查后改定.
 // The middle is version 15 exactly; only these differ from it (08a 第 8 节):
 //  - 改定 2 (the one-sink budget): 憂鬱 and 正解 are light prints, each whole on the first frame of its beat (憂鬱 is not on the
 //    page before k200), with no slam, no camera punch, no shake; the card dropping in on
@@ -14,13 +14,13 @@
 //    Q2 and the pair's cards in the figure are not hers and stay as they are.
 //  - k231: the machine's big eraser comes in from the right and rubs out the right column down to the 数学 page (問三),
 //    「そ」 printed on time; it waits beside her face. web/lib/big_eraser.js, shared with 08b, which goes on from k232.
-// 2026-11-21 rhythm pass (user: 「这是一首摇滚乐……希望视频跟歌曲节奏一致」「歌词好像比曲子慢了一点」), the design unchanged:
+// 2026-11-21 rhythm pass (director: “cuts and motion should follow the rock song's rhythm”“lyrics appear slightly behind the singing”), the design unchanged:
 //  - the slow eased pushes on Q1 and Q2 are beat steps; camera hits on k200 (crash), k203/205/206, k208 (heaviest kick),
 //    k209/211, k224, k225, k228-k230; the page sinks (a vertical dip, no random shake) on k200, k208, k213, k214, k224, k225,
 //    k228. 正解 lands with print16's slam. 改定 2 becomes an order of size: the two 読み取れません are still the heaviest.
 //  - every sung character reads on its onset's frame (LYRIC AUDIT): その心, sung before the black exists, is her pencil
 //    writing in the こころ row as the camera flies in; the black's steps pass every later white letter by its onset frame.
-// 2026-11-21 third pass (user on the second cut: 「你为什么要一直抖动屏幕？……看着很晕」「不是完全不能晃 但是不能晕」; 制作约定
+// 2026-11-21 third pass (director on the second cut: “screen motion can have rhythm but must not cause dizziness”; 制作约定
 // 第六节「整屏运动」, MOTION AUDIT below; 「笔芯和笔不对了……」 parts by web/lib/parts.js, PART AUDIT below):
 //  - the rhythm pass's step pushes, snare hits and dips are gone: Q1 and Q2 are version 15's slow eased pushes again (anchored
 //    at the frame's top edge). The whole frame jolts once: k200, the chorus's crash (大击, a one-way step that stays, no dip).
@@ -166,7 +166,7 @@ export default async function seg08a(H) {
   const DMAX = STR[STR.length - 1].d;
   // the black goes one step further on every beat from TC (k217-k222), each step landing on its beat's frame (easeB), at least 150 px a step,
   // nearly the whole page on the last. Every white letter must read on the frame its onset falls in (制作约定 第六节,
-  // 2026-11-21, 「我们的歌词好像比曲子慢了一点」): the front has passed it by then. A letter whose onset frame comes in the first
+  // 2026-11-21, “lyrics appear slightly behind the singing”): the front has passed it by then. A letter whose onset frame comes in the first
   // half of a step's ease is covered whole by the step before; otherwise the step it falls in is made long enough to pass it by
   // that frame. その心 is sung before the black exists (k215-k216): it is her pencil writing beside the oval (SONO below).
   // Each step (and the burst on k217, the first step) lands like the camera hits: counted in frames from the beat's frame

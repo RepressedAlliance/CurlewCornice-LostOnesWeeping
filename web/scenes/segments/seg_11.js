@@ -19,8 +19,8 @@
 //                  strip, って言うんだ again on her card; k355 the camera stops with one small step on the snare; the fill
 //                  k356-k358.5 plays inside the picture: a timing mark printed down every card's right edge on each eighth,
 //                  and k357.5 the eraser again from B's card across all four, out of the frame on the cut.
-// (2026-11-21 rhythm pass, user: 「希望视频跟歌曲节奏一致」 and 「歌词好像比曲子慢了一点」: every sung letter is whole on its
-// onset frame, LYRIC AUDIT. Third round, same day, user after the second cut: 「你为什么要一直抖动屏幕？……看着很晕」: the
+// (2026-11-21 rhythm pass, director: cuts and motion should follow the rock song's rhythm, and “lyrics appear slightly behind the singing”: every sung letter is whole on its
+// onset frame, LYRIC AUDIT. Third round, same day, director after the second cut: “screen motion can have rhythm but must not cause dizziness”: the
 // rhythm pass's camera steps, kicks and the card's sink are gone (docs/制作约定.md 第六节「整屏运动」, MOTION AUDIT): two 大击
 // (k327, k344), one ordinary step (k355), slow eased pushes; the beat is carried by the stamps, the writing, the swaps, the
 // timing marks and the eraser. 「笔芯和笔不对了」: every part drawn on a drawing is measured on that drawing, parts.js, PART AUDIT.)
@@ -64,7 +64,7 @@ export default async function seg11(H) {
   const PART_CHECKS = [];                       // [drawing name, raw image, cards] for the PART AUDIT
   const T327 = K(327), T336 = K(336), T332 = K(332), T334 = K(334), T335 = K(335), T340 = K(340), T341 = K(341);
   const T343 = K(343), T348 = K(348), T351 = K(351), T354 = K(354), T355 = K(355), T358 = K(358), T359 = K(359);
-  // (2026-11-21, 「我们的歌词好像比曲子慢了一点」) every sung letter of this page is whole on the frame its onset falls in
+  // (2026-11-21, “lyrics appear slightly behind the singing”) every sung letter of this page is whole on the frame its onset falls in
   // (print.js sungBuild: 55% the frame before, nothing earlier); the old 3-frame build here made them read 1-3 frames late.
   // The LYRIC AUDIT at the end reads each letter's opacity through these same functions.
   const lerp = (a, b, u) => a + (b - a) * u;
@@ -713,7 +713,7 @@ export default async function seg11(H) {
     // top row never leaves), x 173-1887 keeps the smear (graphite from x 238), the 短所 / 将来の夢 tabs (from x 231) and
     // the strip (to x 1851); y 0-964 keeps the stamp (to y 940). The hand leaves by the bottom edge, as the frame cuts it.
     // The k327 punch grows the picture from the top edge too.
-    // (2026-11-21 third round, 「一直抖动屏幕……看着很晕」, docs/制作约定.md 第六节「整屏运动」) the k327 大击: the band slams
+    // (2026-11-21 third round, “screen motion can have rhythm but must not cause dizziness”, docs/制作约定.md 第六节「整屏运动」) the k327 大击: the band slams
     // back in, the frame steps in 3% in three frames from the cut and stays (one way, no coming back; the top edge holds, so
     // the frame's lower corners move 2.3% of the width). The card no longer sinks and springs back (a whole-frame dip): the
     // stamp's own slam is the hit inside the picture.

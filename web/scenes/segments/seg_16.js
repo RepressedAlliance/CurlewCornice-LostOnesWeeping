@@ -1,6 +1,6 @@
 // Segment 16, the ending figure (k556-k572; frames [6187, 6381), 206.233-212.700 s). Sixth round 2026-11-22 (independent
-// re-review: the impact held to k565, a new last picture; fifth round in archive/seg16_v5_20261122/). Fifth round, after the user
-// watched the fourth cut: 「砸吉他表现的还不错 但是是不是最后那里又切的太快了？到底会不会戏份太少 太快 不够亮眼」. The smash stays,
+// re-review: the impact held to k565, a new last picture; fifth round in archive/seg16_v5_20261122/). Fifth round, after the director
+// watched the fourth cut: “make the guitar smash a real highlight”. The smash stays,
 // but it is the film's closing image, not a blink: the raise is seen step by step, the hit lands on the segment's heaviest beat
 // (k564, crash 19.2: the beat 00 k0 printed 読み取れません on her card), and the picture after it stays 3.3 s to the end.
 // The fourth round (smash on k570, 1.07 s after it) is in archive/seg16_v4_20261122/.

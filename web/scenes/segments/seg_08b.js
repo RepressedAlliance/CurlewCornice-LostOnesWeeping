@@ -49,7 +49,7 @@ export default async function seg08b(H) {
 
   // ---------- the whole frame's motion (2026-11-21 第三轮, docs/制作约定.md 第六节「整屏运动」, MOTION AUDIT below) ----------
   // The second cut moved the whole frame on almost every beat here (23 jolts: abacus steps, panel steps, push steps, hits,
-  // dips, the snap's shake; the user: 「你为什么要一直抖动屏幕？……看着很晕啊」). Now the frame moves three times in the segment:
+  // dips, the snap's shake; the director: “screen motion can have rhythm but must not cause dizziness”). Now the frame moves three times in the segment:
   //  k239  the registered slide (甩镜) down the sheet to 問四, done in one beat;
   //  k246  大击 解けません: one step in (3%, one way, three frames, no overshoot), no sink;
   //  k262  大击 the pencil snaps: the same one-way step, no shake, no dip (and the one paper-white flash).
@@ -463,7 +463,7 @@ export default async function seg08b(H) {
       const w = (small ? 0.82 : 1.0) * base + base * 0.08 * (r() - 0.25);
       const L = { c, t, x: x + w / 2, y: cy + (r() - 0.5) * base * 0.12 + sink * i * size0 + (small ? base * 0.16 : 0), size, w, rot: (r() - 0.5) * jit + tilt * i,
                   p: Math.min(1, p0 + dp * i), seed: seed * 31 + i }; x += w; return L; });
-    // 2026-11-21 (user: 「我们的歌词好像比曲子慢了一点」): each letter used to START its sweep on its onset and take up to 0.26 s,
+    // 2026-11-21 (director: “lyrics appear slightly behind the singing”): each letter used to START its sweep on its onset and take up to 0.26 s,
     // so it read 2-7 frames (63-213 ms) after she sang it. Now (print.js sungSweep) the sweep ENDS on the frame the onset falls
     // in: d is 2-3 frames (the gap to the next letter allows), it starts d before that frame (L.ws), so the letter first shows
     // at most two frames early and is whole on its onset's frame (docs/制作约定.md 第六节).

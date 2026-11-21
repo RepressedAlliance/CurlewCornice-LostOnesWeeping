@@ -24,7 +24,7 @@
 // grid under the title pressed down to 22% and a paper-white halo knocked out round ロストワン's dots). In the close-ups that
 // face is printed over the card drawn in the drawing (everything but her hand). The face's code is web/lib/her_card.js.
 // Third version (2026-11-21, review MUST 1): the halftone screen is drawn prefiltered at the scale it is shown (no moire).
-// Rhythm pass (2026-11-21, the user after the full film: "这是一首摇滚乐 ... 希望视频跟歌曲节奏一致"; work/rhythm_diag): the hall
+// Rhythm pass (2026-11-21, the director after the full film: “cuts and motion should follow the rock song's rhythm”; work/rhythm_diag): the hall
 // answers the riff instead of drifting. k57-k59 and k61-k62 the wall's answer fields are marked one row a beat (graphite, a
 // stamp's 1.3 -> 1 pop), a diagonal closing in on her from both sides, each mark with a 1.5% step in (k63 a step alone); k64
 // (bar line) the card drops onto her chest in 3 frames with a vertical dip and a 2% push hit; the three heavy kicks k65, k66,
@@ -38,7 +38,7 @@
 // a punch) and the swap to r03_upC (改定 5: she looks up on k68); in the fill x1.06 steps on k69, k70 and 2% nudges on the
 // half beats k68.5, k69.5, k70.5, to the old end frame; and her reader's slip feeds out one more もう一度 block on each half
 // beat k68.5-k70.5, the tower rising beside her as she stares.
-// Motion pass (2026-11-21, the user after the second cut: 「你为什么要一直抖动屏幕？……看着很晕啊」; docs/制作约定.md 第六节
+// Motion pass (2026-11-21, the director after the second cut: “screen motion can have rhythm but must not cause dizziness”; docs/制作约定.md 第六节
 // 「整屏运动」; archive/seg03_v5_before_motion_20261121/): the rhythm and fill passes' frame steps, the k60 knock-down, the k64
 // dip and push hit and the fill's nudges are gone (17 jolts in the second cut). The frame now moves in eased pushes (k57-k60,
 // k60-k68, k68.5-k71) and jolts only three times: k45 the registered whip into the title, k60 one 1.3% step (the slam),
@@ -554,7 +554,7 @@ export default async function seg03(H) {
   const HW = 2.10, PPM = 1080 / HW, YMID = 0.50 + HW / 2, YA = 1.1365;
   const ANCH = [960, 540 - (YA - YMID) * PPM];
   const CAM = createCamera(g, { W, H: 1080, bg: PAPER });
-  // Motion pass (2026-11-21, the user after the second cut: 「你为什么要一直抖动屏幕？……看着很晕啊」「不是完全不能晃 但是不能
+  // Motion pass (2026-11-21, the director after the second cut: “screen motion can have rhythm but must not cause dizziness”「不是完全不能晃 但是不能
   // 晕」; docs/制作约定.md 第六节「整屏运动」, MOTION AUDIT below). The hall used to step the whole frame on nearly every beat
   // (k57-k63 steps, the k60 slam x1.5 with a 14 px knock-down that rang back, k64 dip and push hit, k65-k67 kick steps, k68
   // punch, steps and nudges through the fill: 17 jolts, 29 problems). Now the frame moves in three eased pushes and only

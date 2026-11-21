@@ -1,5 +1,5 @@
-"""Segment 15 (尾奏 riff), round h: the ending rebuilt toward the guitar smash (2026-11-21, user after the second cut:
-「lost one的号哭 很多都是做砸吉他 我们要不要也做 但是不能简单的做……要用你的优势 做出来要高质量」; design: the smash storyboard,
+"""Segment 15 (尾奏 riff), round h: the ending rebuilt toward the guitar smash (2026-11-21, director after the second cut:
+“make the guitar smash a real highlight”; design: the smash storyboard,
 15 S7 k540-k556 + 16 k556-k572). Segment 15 only needs two new drawings:
   R15_grip      (S7a k550, WU waist shot) R15_strum_1 redrawn: she stops playing, her right hand lets the pick go and grips the
                 guitar where the neck meets the body, her left hand slides down the neck; head up, eyes to her right-front-down

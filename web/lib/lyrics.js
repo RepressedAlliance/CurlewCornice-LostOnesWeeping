@@ -12,7 +12,7 @@
 // Displayed text goes through the display table (the subtitles' transcription errors): 「レスボール」 -> 「レスポール」.
 // Lines can be asked for by either spelling.
 
-// WHEN a character must read (2026-11-21, user: 「我们的歌词好像比曲子慢了一点」): t is the moment it is sung (the vocal
+// WHEN a character must read (2026-11-21, director: “lyrics appear slightly behind the singing”): t is the moment it is sung (the vocal
 // onset, checked on the vocal stem: within about 10-20 ms of it). Frame g shows song time g / 30, so the character must be
 // readable on frame floor(t * 30), the frame the onset falls in, at the latest; it may start to show 1-2 frames before
 // that, never earlier. The shared letters do this (print.js: pencilWriter, whiteLetter, printSung, print16 { sung: true });
