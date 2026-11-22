@@ -1,0 +1,30 @@
+[
+ {
+  "prompt": "art/design/prompts/cv2_unreadable_fix_a_wide_full.txt",
+  "out": "art/design/out/cv2_unreadable_fix_a_wide.png",
+  "ref": [
+   "art/design/board/cover_pad_cv2_unreadable_fix_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_swing_fix_a_wide_full.txt",
+  "out": "art/design/out/cv2_swing_fix_a_wide.png",
+  "ref": [
+   "art/design/board/cover_pad_cv2_swing_fix_a.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_onlycolor_fix_b_wide_full.txt",
+  "out": "art/design/out/cv2_onlycolor_fix_b_wide.png",
+  "ref": [
+   "art/design/board/cover_pad_cv2_onlycolor_fix_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_smile_fix_a_wide_full.txt",
+  "out": "art/design/out/cv2_smile_fix_a_wide.png",
+  "ref": [
+   "art/design/board/cover_pad_cv2_smile_fix_a.png"
+  ]
+ }
+]

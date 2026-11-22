@@ -1,0 +1,84 @@
+[
+ {
+  "prompt": "art/design/prompts/cv2_swing_fix_a_full.txt",
+  "out": "art/design/out/cv2_swing_fix_a.png",
+  "ref": [
+   "art/design/out/cv2_swing_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/board/cover_gate_crop.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_swing_fix_b_full.txt",
+  "out": "art/design/out/cv2_swing_fix_b.png",
+  "ref": [
+   "art/design/out/cv2_swing_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/board/cover_gate_crop.png",
+   "art/design/../canon/ticket_gate_front_side.png",
+   "art/design/../canon/lespaul_goldtop_front_side_back.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_onlycolor_fix_a_full.txt",
+  "out": "art/design/out/cv2_onlycolor_fix_a.png",
+  "ref": [
+   "art/design/out/cv2_onlycolor_b.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../cut/s04d_shoulder.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_onlycolor_fix_b_full.txt",
+  "out": "art/design/out/cv2_onlycolor_fix_b.png",
+  "ref": [
+   "art/design/out/cv2_onlycolor_b.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../cut/s04d_shoulder.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_unreadable_fix_a_full.txt",
+  "out": "art/design/out/cv2_unreadable_fix_a.png",
+  "ref": [
+   "art/design/out/cv2_unreadable_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/board/ref_cold_stare.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_unreadable_fix_b_full.txt",
+  "out": "art/design/out/cv2_unreadable_fix_b.png",
+  "ref": [
+   "art/design/out/cv2_unreadable_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/board/ref_cold_stare.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_smile_fix_a_full.txt",
+  "out": "art/design/out/cv2_smile_fix_a.png",
+  "ref": [
+   "art/design/out/cv2_smile_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2_smile_fix_b_full.txt",
+  "out": "art/design/out/cv2_smile_fix_b.png",
+  "ref": [
+   "art/design/out/cv2_smile_a.png",
+   "art/design/board/rin_A2.png",
+   "art/design/../ref/sheet_faces.png"
+  ]
+ }
+]

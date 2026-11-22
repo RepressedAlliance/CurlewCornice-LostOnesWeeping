@@ -1,0 +1,16 @@
+[
+ {
+  "prompt": "art/design/prompts/cv2f_swing_b_wide_full.txt",
+  "out": "art/design/out/cv2f_swing_b_wide.png",
+  "ref": [
+   "art/design/board/cover_pad_cv2f_swing_b.png"
+  ]
+ },
+ {
+  "prompt": "art/design/prompts/cv2f_card_a_wide_full.txt",
+  "out": "art/design/out/cv2f_card_a_wide.png",
+  "ref": [
+   "art/design/board/cover_pad_cv2f_card_a.png"
+  ]
+ }
+]
