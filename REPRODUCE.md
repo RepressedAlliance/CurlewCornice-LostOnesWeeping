@@ -1,4 +1,6 @@
-# 复刻指南
+# 运行指南
+
+简体中文 · [English](REPRODUCE.en.md) · [日本語](REPRODUCE.ja.md) · [作品首页](README.md)
 
 从一台干净的机器到成片 `work/full/film.mp4` 的完整步骤。所有命令都在仓库根目录执行。
 
@@ -15,7 +17,9 @@
 | Demucs | 4.1 | 只在重新做人声/伴奏分轨时需要（`pip install demucs`） |
 
 ```powershell
-cd web; npm install; cd ..
+Push-Location web
+npm install
+Pop-Location
 python -m pip install -r requirements.txt
 ```
 
@@ -97,7 +101,7 @@ python tools/assemble_film.py --out work/full/film_phone.mp4 --phone   # 手机�
 
 ## 7. 重新出人物图（可选）
 
-入片的图都已在 `art/cut/`，复刻成片不需要重新生成。要改一张图或给新镜头出图：
+入片的图都已在 `art/cut/`，可以直接用于渲染。要改一张图或给新镜头出图：
 
 ```powershell
 # 1. 写提示词：art/design/prompts/<名字>.txt（共用画风在 _style.txt 自动拼上；名字前加 - 表示不拼）
